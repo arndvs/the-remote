@@ -130,7 +130,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Medium. Facing the mirror.
 
 **AI PROMPT:**
-> A man in his early 30s (disheveled, bar-night version — tie loosened, hair slightly messy) stands in a dimly lit bar bathroom staring at himself in a spotted mirror. He points one finger directly at his reflection. His expression is one of absolute conviction. He believes in himself completely. Bar bathroom lighting — slightly greenish fluorescent. Slightly desaturated memory aesthetic.
+> A man in his early 30s (disheveled, bar-night version — t-shirt, hair slightly messy, eyes a little glazed) stands in a dimly lit bar bathroom staring at himself in a spotted mirror. He points one finger directly at his reflection. His expression is one of absolute conviction. He believes in himself completely. Bar bathroom lighting — slightly greenish fluorescent. Slightly desaturated memory aesthetic.
 
 ---
 
