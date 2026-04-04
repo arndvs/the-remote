@@ -226,7 +226,7 @@ That's insane.
 *(from behind curtain, somewhat defeated)*
 I'm going as fast as I can.
 
-*The bed nudges the curtain.*
+*The bed's hum shifts pitch — a pointed, impatient note. The curtain sways from Dave flinching behind it.*
 
 **DAVE (O.S.) (CONT'D)**
 I HEARD you.
