@@ -2,7 +2,7 @@
 ### An Original Comedy Short
 
 *Written as a treatment/screenplay hybrid*
-*Approx. running time: 4–6 minutes*
+*Approx. running time: 5–7 minutes*
 
 ---
 
