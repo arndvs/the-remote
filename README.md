@@ -17,7 +17,7 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 ### 🤖 03_ai_video/
 
-- **AI_Shot_List_and_Prompts.md** — 39 shots with copy-paste prompts formatted for Sora, Runway, Kling, and Pika. Includes character reference prompts to generate first for consistency across shots.
+- **AI_Shot_List_and_Prompts.md** — 45 shots with copy-paste prompts formatted for Sora, Runway, Kling, and Pika. Includes character reference prompts to generate first for consistency across shots.
 
 ### 📝 Root
 

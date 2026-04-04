@@ -252,6 +252,18 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 ---
 
 ### SHOT 020
+**Scene:** Bathroom mirror — "You're doing great"
+**Duration:** 3–4 seconds
+**Camera:** Medium. Facing the mirror.
+
+**AI PROMPT:**
+> Medium shot of a man in his early 30s standing at a bathroom sink in morning light, towel around his waist, hair wet. He stares at his reflection in the mirror — the same posture as the bar bathroom flashback, but now under harsh morning fluorescent light. He makes brief, pained eye contact with himself. He doesn't believe a word he's about to say. Behind him, through the doorway, the dark shape of the adjustable bed base waits, humming. Bathroom light. Film grain.
+
+**NOTES:** This is a direct callback to Shot 009 (bar bathroom flashback). Same pose, same framing — completely different energy. The phrase "You're doing great" is implied in Dave's expression and body language.
+
+---
+
+### SHOT 021
 **Scene:** Coffee maker — calm intercut
 **Duration:** 3 seconds
 **Camera:** Static. Close-up on coffee maker.
@@ -263,9 +275,9 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 021
+### SHOT 022
 **Scene:** Closet — Dave emerges wrong
-**Duration:** 4 seconds
+**Duration:** 8–10 seconds
 **Camera:** Medium. Static facing the closet.
 
 **AI PROMPT:**
@@ -273,9 +285,9 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 022
+### SHOT 023
 **Scene:** Coffee scene — the great pour
-**Duration:** 6–7 seconds
+**Duration:** 10–12 seconds
 **Camera:** Wide, slight handheld.
 
 **AI PROMPT:**
@@ -289,7 +301,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 023
+### SHOT 024
 **Scene:** Dave pushed down the driveway
 **Duration:** 5 seconds
 **Camera:** Wide. Static from the street.
@@ -299,7 +311,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 024
+### SHOT 025
 **Scene:** Bed lines Dave up with car door
 **Duration:** 4 seconds
 **Camera:** Medium. Side angle.
@@ -309,7 +321,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 025
+### SHOT 026
 **Scene:** Rearview mirror — Dave and bed
 **Duration:** 2–3 seconds
 **Camera:** Close-up. Rearview mirror POV.
@@ -319,7 +331,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 026
+### SHOT 027
 **Scene:** Drive-through — almost gets coffee
 **Duration:** 5 seconds
 **Camera:** Wide. External. Tracking.
@@ -329,7 +341,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 027
+### SHOT 028
 **Scene:** Bus stop — mutual acknowledgment
 **Duration:** 4 seconds
 **Camera:** Wide. From inside the car looking out. Then reverse cut to bus passengers.
@@ -339,7 +351,19 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 028
+### SHOT 029
+**Scene:** Radio station roulette
+**Duration:** 4–5 seconds
+**Camera:** Medium. Interior car, dashboard level.
+
+**AI PROMPT:**
+> Medium shot from the passenger side of a car interior. A man in his early 30s drives with one hand. He reaches for the radio dial. The car jolts slightly (implied: bed bump from behind). His hand slaps the scan button by accident. The radio display cycles rapidly — the man watches it helplessly, his hand hovering. After several seconds of cycling he accidentally hits the power button. The radio goes dark. Silence. He stares ahead. He's fine with it. Morning commute light through windshield. Slight dashboard reflections.
+
+**NOTES:** The comedy is in the acceptance. He doesn't try again. The silence is preferable to effort.
+
+---
+
+### SHOT 030
 **Scene:** Cop encounter
 **Duration:** 5 seconds
 **Camera:** Intercutting. Side of road.
@@ -358,7 +382,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 029
+### SHOT 031
 **Scene:** Parking lot walk
 **Duration:** 4 seconds
 **Camera:** Wide. Tracking from the front.
@@ -368,9 +392,33 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 030
+### SHOT 032
+**Scene:** Receptionist lobby
+**Duration:** 4–5 seconds
+**Camera:** Medium. Static from behind reception desk.
+
+**AI PROMPT:**
+> Medium shot of a corporate office lobby. A receptionist at a front desk looks up from her computer as a man in his early 30s walks through with a coffee mug, a large vertical adjustable bed base humming behind him. She gives a small, unsurprised nod. He nods back without breaking stride. Neither treats the bed as unusual. The lobby is clean, corporate-neutral — glass doors behind them, elevator bank ahead. Morning light through lobby windows. The interaction is completely routine.
+
+**NOTES:** The comedy is in the total normalcy. This is apparently not the first time the receptionist has seen this.
+
+---
+
+### SHOT 033
+**Scene:** Elevator — silent coworker
+**Duration:** 5–6 seconds
+**Camera:** Wide. Static from inside elevator.
+
+**AI PROMPT:**
+> Wide static shot from inside an office elevator. The doors are open. A man in his early 30s steps in, followed by a large vertical adjustable bed base that fills most of the elevator behind him. Another person — a coworker in business casual — is already inside. The coworker looks at the bed. Looks at the floor indicator numbers. Says nothing. The doors close. They ride in silence. The doors open. They both exit — the coworker goes right, the man with the bed goes left. Office fluorescent elevator light. The entire exchange is wordless and accepted.
+
+**NOTES:** Frame wide enough to see both people and the bed in the elevator but don't dwell on the spatial logistics — the edit hides the impossibility per the Bed Proportions Guide.
+
+---
+
+### SHOT 034
 **Scene:** Dave arrives — sees Marcus
-**Duration:** 6–8 seconds
+**Duration:** 10–12 seconds
 **Camera:** Wide. Static. Open office floor.
 
 **AI PROMPT:**
@@ -380,7 +428,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 031
+### SHOT 035
 **Scene:** Conference room — new employee notices
 **Duration:** 5 seconds
 **Camera:** Wide. Conference table.
@@ -390,7 +438,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 032
+### SHOT 036
 **Scene:** Karen visits Dave's desk
 **Duration:** 6 seconds
 **Camera:** Medium. Over-the-shoulder, slightly low.
@@ -406,7 +454,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 033
+### SHOT 037
 **Scene:** 2 PM — bed still pushing
 **Duration:** 3 seconds
 **Camera:** Wide. Office desk. Clock on wall.
@@ -416,7 +464,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 034
+### SHOT 038
 **Scene:** 3 PM — bed slowing
 **Duration:** 3 seconds
 **Camera:** Wide. Same desk.
@@ -426,7 +474,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 035
+### SHOT 039
 **Scene:** 3:45 PM — Dave gets water, bed lets him
 **Duration:** 5 seconds
 **Camera:** Medium. Tracking.
@@ -436,16 +484,37 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 036
-**Scene:** 5:00 PM — the group chat
-**Duration:** 5 seconds
-**Camera:** Close-up — phone screen. Then Dave's face.
+### SHOT 040
+**Scene:** 4:30 PM — whiteboard moment
+**Duration:** 5–6 seconds
+**Camera:** Medium-wide. Static from across the room.
 
-**AI PROMPT (A — phone screen):**
+**AI PROMPT:**
+> Medium-wide shot of a modern office. A man in his early 30s stands at a whiteboard, gesturing animatedly, explaining something to a coworker seated nearby. He is upright, engaged, professional — almost unrecognizable from the wreck who arrived this morning. Behind him, the adjustable bed base is parked at his desk across the room, dormant, barely humming. The man catches a glimpse of his own reflection in the window behind the whiteboard — upright, dressed, functional. A flicker of surprise crosses his face. He looks almost like a person. Office afternoon light. Golden hour beginning to warm the windows.
+
+**NOTES:** This is the arc's visual payoff. Dave is finally operating under his own power. The bed in the background is no longer driving the scene — it's just parked furniture.
+
+---
+
+### SHOT 041
+**Scene:** 5:00 PM — the group chat
+**Duration:** 4 seconds
+**Camera:** Close-up — phone screen.
+
+**AI PROMPT:**
 > Close-up of a smartphone screen showing a group chat. Messages appear in rapid succession: "yo," "round 2?", a pair of eyes emoji, "already there." The man's thumb hovers over the screen. He types: "in". Sends it.
 
-**AI PROMPT (B — Dave looks at the bed):**
-> Medium shot of a man in his early 30s at an office desk looking at the adjustable bed base beside his chair. The bed is still. He looks at it for a long moment. He pats the top of the headboard frame gently — like he's saying goodbye to a dog. He grabs his bag. Walks toward the elevator. Behind him, the bed slowly begins to fold itself flat.
+---
+
+### SHOT 042
+**Scene:** The goodbye
+**Duration:** 8–10 seconds
+**Camera:** Medium. Static. Office desk.
+
+**AI PROMPT:**
+> Medium shot of a man in his early 30s at an office desk in late afternoon golden light. He looks at the adjustable bed base beside his chair. The bed is still — its hum barely audible, a low exhale. He pats the top of the headboard frame gently, like saying goodbye to a loyal dog. He turns off his desk lamp. The click is deliberate. He grabs his bag, gives one last look back. Walks toward the elevator. Behind him in the now-dim desk area, the bed slowly begins to fold itself flat — unhurried, methodical, already preparing for tomorrow. The remote on the nightstand glows. Office golden hour light fading.
+
+**NOTES:** This is the emotional close of the working day. The desk lamp click, the pat, and the bed folding should each get their own beat. Don't rush it. The bed folding itself is the transition into the epilogue's circular structure.
 
 ---
 
@@ -455,7 +524,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 037
+### SHOT 043
 **Scene:** Next morning — exact repeat of SHOT 001 and 002
 **Duration:** 5 seconds
 **Camera:** Same framing as opening shots.
@@ -465,7 +534,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 038
+### SHOT 044
 **Scene:** Dave clicks the button again
 **Duration:** 4 seconds
 **Camera:** Close-up. Hand. Then medium on Dave.
@@ -481,7 +550,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 039
+### SHOT 045
 **Scene:** The bed makes itself
 **Duration:** 10–15 seconds
 **Camera:** Wide. Static. Bedroom. Empty.
@@ -518,4 +587,4 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 ---
 
 *THE PUSHER — AI Shot List v1.0*
-*19 scenes / 39 shots / approx. 5–7 minute runtime*
+*19 scenes / 45 shots / approx. 5–7 minute runtime*
