@@ -118,9 +118,9 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Wide. Eye level.
 
 **AI PROMPT:**
-> Slow motion shot of a man sliding sideways off a barstool in a bar. He goes down gradually, almost gracefully. A group of friends at the same bar watches him fall without moving or reacting. Nobody helps. This is not the first time tonight. Bar environment, overexposed, slightly blown highlights. Ultra slow motion, 240fps aesthetic.
+> Slow motion shot of a different man — not Dave — sliding sideways off a barstool in a bar. He is a different build and hair color from the main character. He goes down gradually, almost gracefully. A group of friends at the same bar, including Dave (brown hair, stubble), watches him fall without moving or reacting. Nobody helps. This is not the first time tonight. Bar environment, overexposed, slightly blown highlights. Ultra slow motion, 240fps aesthetic.
 
-**NOTES:** The slow motion and zero reaction from friends is the entire joke. Hold it.
+**NOTES:** The falling man is explicitly NOT Dave — use a visually distinct actor/generation. Dave is among the friends watching. The slow motion and zero reaction is the entire joke. Hold it.
 
 ---
 
