@@ -13,6 +13,8 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 - **MARCUS:** Black male, early 30s. Wrinkled suit jacket. Slightly more put-together than Dave but not by much. The look of a man who has been here before.
 - **THE BED:** A modern adjustable bed base — dark gray or black frame, no headboard, with a slim black remote. Clean, sleek, slightly corporate. When vertical it resembles a monolith.
 
+**Runtime note:** Individual shot durations represent the core action of each AI-generated clip. The assembled edit will include additional held beats, transitions, reaction inserts, and pacing pauses documented in the [Visual Reference Guide's Editing Rhythm section](../02_production/Visual_Reference_and_Collaborator_Guide.md). Total assembled runtime target: 5–7 minutes.
+
 ---
 
 ---
