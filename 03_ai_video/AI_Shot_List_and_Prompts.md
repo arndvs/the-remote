@@ -545,7 +545,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium shot of a man in his early 30s standing up from his office desk, looking back at the adjustable bed base. The bed remains still — it doesn't follow. He looks surprised. He walks to a nearby water cooler, fills a cup, walks back. The bed is exactly where he left it. He looks at it. Sits back down. The bed does not press. He looks mildly shocked and quietly touched. Office lighting.
+> Medium shot of a man in his early 30s standing up from his office desk. The adjustable bed base remains still — it doesn’t follow. He walks to a nearby water cooler, fills a cup, walks back. The bed is exactly where he left it. He sits back down. Office lighting.
 
 ---
 
@@ -557,7 +557,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium-wide shot of a modern office. A man in his early 30s stands at a whiteboard, gesturing animatedly, explaining something to a coworker seated nearby. He is upright, engaged, professional — almost unrecognizable from the wreck who arrived this morning. Behind him, the adjustable bed base is parked at his desk across the room, dormant, barely humming. The man catches a glimpse of his own reflection in the window behind the whiteboard — upright, dressed, functional. A flicker of surprise crosses his face. He looks almost like a person. Office afternoon light. Golden hour beginning to warm the windows.
+> Medium-wide shot of a modern office. A man in his early 30s stands at a whiteboard, gesturing animatedly, explaining something to a coworker seated nearby. He is upright, engaged, professional. Behind him, the adjustable bed base is parked at his desk across the room, dormant, barely humming. The man catches a glimpse of his own reflection in the window behind the whiteboard — upright, dressed, functional. Office afternoon light. Golden hour beginning to warm the windows.
 
 **NOTES:** This is the arc's visual payoff. Dave is finally operating under his own power. The bed in the background is no longer driving the scene — it's just parked furniture.
 
@@ -571,9 +571,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium shot of a man in his early 30s sitting at his office desk. He clicks his mouse once — sending something. He leans back in his chair with the exhale of a man who has finished something. Beside him, the adjustable bed base emits one single, small, lower-pitched hum — almost like a sigh of satisfaction. The man looks at the bed. A beat. He pats the top of the headboard frame. His expression is genuine warmth — the first real connection between man and machine. Late afternoon golden light fills the frame. The bed and the man are at rest together.
+> Medium shot of a man in his early 30s sitting at his office desk. He clicks his mouse once — sending something. He leans back in his chair. The adjustable bed base is right there behind him. It gives one small, soft hum — almost like an exhale. The man stays. Late afternoon golden light fills the frame.
 
-**NOTES:** This is the first moment of genuine warmth between Dave and the bed. The bed's exhale-hum is a specific sound design beat — one small pitch drop, like satisfaction. See Visual Reference Guide Scene 17 notes. In the screenplay, Dave says "Not bad" here.
+**NOTES:** Dave says "Not bad" here (implied by his expression — quiet, understated). No headboard pat — the bed base has no headboard. The bed’s exhale-hum is one small pitch drop, like satisfaction. Dave just stays.
 
 ---
 
@@ -591,15 +591,15 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 041
 
-**Scene:** The goodbye
-**Duration:** 8–10 seconds
+**Scene:** 5:00 PM — Dave leaves
+**Duration:** 5–6 seconds
 **Camera:** Medium. Static. Office desk.
 
 **AI PROMPT:**
 
-> Medium shot of a man in his early 30s at an office desk in late afternoon golden light. He looks at the adjustable bed base beside his chair. The bed is still — its hum barely audible, a low exhale. He pats the top of the headboard frame gently, like saying goodbye to a loyal dog. He turns off his desk lamp. The click is deliberate. He grabs his bag, gives one last look back. Walks toward the elevator. Behind him in the now-dim desk area, the bed slowly begins to fold itself flat — unhurried, methodical, already preparing for tomorrow. Office golden hour light fading.
+> Medium shot of a man in his early 30s at an office desk in late afternoon golden light. The bed’s hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. Behind him, the adjustable bed base remains at the desk. Office golden hour light fading.
 
-**NOTES:** This is the emotional close of the working day. The desk lamp click, the pat, and the bed folding should each get their own beat. Don't rush it. The bed folding itself is the transition into the epilogue's circular structure.
+**NOTES:** No goodbye. No pat. No bed folding. Dave just packs up and leaves. The hum rising is the bed responding to the group chat — it knows. The desk lamp click is the only punctuation.
 
 ---
 
