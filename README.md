@@ -19,6 +19,10 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 - **AI_Shot_List_and_Prompts.md** — 39 shots with copy-paste prompts formatted for Sora, Runway, Kling, and Pika. Includes character reference prompts to generate first for consistency across shots.
 
+### 📝 Root
+
+- **concept.md** — Original pitch treatment. Superseded by the screenplay but preserved for reference.
+
 ---
 
 ## Quick Start
@@ -41,17 +45,3 @@ _RiseTech Pro™ — "For People Who Need A Little Push"_
 ---
 
 _Version 1.1 — All documents current as of initial production package._
-
-Five acts plus epilogue, each scene headed with INT/EXT sluglines, action lines, and full dialogue. Every scene has an embedded `⏱ TIMING NOTE` for directors and editors.
-
-**Key creative decisions made:**
-
-- Dave's catchphrase — _"You're doing great"_ — bookends his bathroom mirror moments, hitting differently each time
-- Karen the boss having her own bed history adds a world-building layer (this is apparently a thing people do)
-- The new employee in the meeting is the audience surrogate — everyone else has silently agreed not to acknowledge the beds
-- Marcus's bed being a different model than Dave's is a small detail that rewards attention
-- The end credits scene of the bed making itself gives the piece a final, slightly eerie button
-
-**The RiseTech Pro tagline** — _"For People Who Need A Little Push"_ — is baked in as a recurring visual prop.
-
-Want me to also create a **shot list** formatted for an AI video tool like Sora or Runway, or a **scene-by-scene visual reference doc** you could hand to a collaborator?

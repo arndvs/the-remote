@@ -1,3 +1,5 @@
+> **Note:** This is the original pitch treatment. The canonical version is [01_screenplay/THE_PUSHER_Screenplay.md](01_screenplay/THE_PUSHER_Screenplay.md).
+
 ## **"The Pusher"** — Skit Treatment
 
 ### **COLD OPEN — The Wreckage**
