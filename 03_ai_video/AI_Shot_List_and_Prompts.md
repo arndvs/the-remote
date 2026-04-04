@@ -88,7 +88,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ## ACT ONE — FLASHBACK MONTAGE
 
-*Generate each flashback with a slightly degraded look — slightly desaturated, motion blur on edges, contrast boosted. These are memories, not reality. Each clip should feel like a GIF that's been left in the sun.*
+*Generate each flashback with a degraded memory look — but vary the treatment by location per the Visual Guide: bar shots are overexposed with slightly blown highlights; bathroom mirror is greenish cast, lower contrast; group selfie is flash-washed, nearly white; cab is warm tungsten with slight motion blur. These are memories, not reality. Each clip should feel like a GIF that's been left in the sun.*
 
 ---
 
@@ -98,7 +98,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Wide. High-top bar table. Slight handheld.
 
 **AI PROMPT:**
-> A tray of shot glasses arrives at a crowded high-top bar table. Six men in their 30s cheer and reach for them. The atmosphere is loud and warm — string lights overhead, dark bar background. One man (30s, brown hair, stubble, slightly wide-eyed) raises his shot glass directly toward camera with the expression of someone who knows this is a bad idea but is doing it anyway. Desaturated slightly, high contrast, motion blur on edges. Night. Handheld camera feel.
+> A tray of shot glasses arrives at a crowded high-top bar table. Six men in their 30s cheer and reach for them. The atmosphere is loud and warm — string lights overhead, dark bar background. One man (30s, brown hair, stubble, slightly wide-eyed) raises his shot glass directly toward camera with the expression of someone who knows this is a bad idea but is doing it anyway. Overexposed, slightly blown highlights — the look of a memory shot under too-bright bar light. Night. Handheld camera feel.
 
 ---
 
@@ -108,7 +108,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Medium. Eye level.
 
 **AI PROMPT:**
-> A man in his early 30s (brown hair, stubble) leans over a bar table covered in paper napkins arranged like a diagram. He gestures at the napkins emphatically, explaining something with great conviction. Two other men across the table nod seriously as if this makes complete sense. Bar environment. Warm overhead light. Slightly desaturated memory aesthetic. Handheld.
+> A man in his early 30s (brown hair, stubble) leans over a bar table covered in paper napkins arranged like a diagram. He gestures at the napkins emphatically, explaining something with great conviction. Two other men across the table nod seriously as if this makes complete sense. Bar environment. Overexposed, slightly blown highlights — warm light bleeding out at the edges. Handheld.
 
 ---
 
@@ -118,7 +118,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Wide. Eye level.
 
 **AI PROMPT:**
-> Slow motion shot of a man sliding sideways off a barstool in a bar. He goes down gradually, almost gracefully. A group of friends at the same bar watches him fall without moving or reacting. Nobody helps. This is not the first time tonight. Bar environment, warm lighting, slightly desaturated. Ultra slow motion, 240fps aesthetic.
+> Slow motion shot of a man sliding sideways off a barstool in a bar. He goes down gradually, almost gracefully. A group of friends at the same bar watches him fall without moving or reacting. Nobody helps. This is not the first time tonight. Bar environment, overexposed, slightly blown highlights. Ultra slow motion, 240fps aesthetic.
 
 **NOTES:** The slow motion and zero reaction from friends is the entire joke. Hold it.
 
