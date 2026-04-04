@@ -399,25 +399,29 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 027
 
-**Scene:** Drive-through — almost gets coffee
-**Duration:** 5 seconds
-**Camera:** Wide. External. Tracking.
+**Scene:** Drive-through — machine is down
+**Duration:** 6–8 seconds
+**Camera:** Medium. From passenger side, through driver's window to pickup window.
 
 **AI PROMPT:**
 
-> Wide external shot of a fast food drive-through lane. A car rolls up to the pickup window. A drive-through worker extends a coffee cup. The driver (man, early 30s, visible through window) reaches out. The car slowly continues rolling forward. His arm extends further. The cup is almost in his hand. The car keeps rolling. His arm is now fully extended out the window, fingers grasping at nothing. He watches the coffee disappear behind him. The car keeps going. He stares forward. Daylight. Slightly comedic timing.
+> Medium shot from inside a car at a coffee drive-through pickup window. A WORKER (early 20s, dyed hair, nose ring, sleeve tattoos, completely indifferent) leans out of the window. The driver (man, early 30s, slightly disheveled office clothes) is waiting. Beat. A low hum rises from the back seat — subtle at first, then more pointed. The driver grips the steering wheel. The hum rises further. The driver's jaw tightens. He pulls the car forward, past the window, out of the drive-through lane. Morning light.
+
+**NOTES:** The worker told Dave the machine is down (implied from earlier in the sequence). Dave starts to wait but the bed's hum escalates — same pointed note from the bathroom. The bed won't let him wait. He leaves without coffee. The worker is completely indifferent throughout.
 
 ---
 
 ### SHOT 028
 
-**Scene:** Bus stop — mutual acknowledgment
-**Duration:** 4 seconds
-**Camera:** Wide. From inside the car looking out. Then reverse cut to bus passengers.
+**Scene:** Stop light — thermos commuter
+**Duration:** 3–4 seconds
+**Camera:** Medium. From inside the car looking out through driver's window.
 
 **AI PROMPT:**
 
-> Shot from inside a car stopped at a red light. A city bus pulls up alongside. Bus windows are full of morning commuters. Several look over and see something they don't expect (implied: the bed in the back seat). They stare. The driver of the car (man, early 30s) looks back at them calmly. Raises his coffee mug slightly. One commuter on the bus slowly raises a thermos back in acknowledgment. Light turns green. Car moves. Commuters watch it go. Morning commute light.
+> Shot from inside a car stopped at a red light. A city bus pulls up alongside. Through the bus window, a single COMMUTER sips from a coffee thermos with a satisfied expression. The driver of the car (man, early 30s, slightly disheveled) watches the commuter. Empty-handed. The light turns green. The car moves. Morning commute light.
+
+**NOTES:** No one on the bus reacts to the bed. No acknowledgment, no staring. The only detail is one commuter sipping coffee in Dave's eyeline — he watches, empty-handed. The coffee thread pays off here: he lost it in the kitchen, the drive-through failed, and now someone else has it.
 
 ---
 
