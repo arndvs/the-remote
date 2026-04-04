@@ -331,7 +331,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium shot of a walk-in closet entrance. A man in his early 30s tumbles out of the closet half-dressed — one shoe on, one off, pants on backwards, shirt untucked. A large vertical adjustable bed base waits beside the closet entrance. The bed reverses slightly and nudges him firmly back in. He disappears. A beat. He re-emerges: pants correct, both shoes on, shirt tucked, tie hanging unknotted around his neck. The bed resumes forward. He ties the tie while moving. Looks down at the knot. Shrugs. Morning light.
+> Medium shot of a walk-in closet entrance. A man in his early 30s tumbles out of the closet half-dressed — dress shirt half-tucked, one shoe on, no tie. A large vertical adjustable bed base waits beside the closet entrance. The bed reverses slightly and nudges him firmly back in. He disappears. A beat. He re-emerges: shirt tucked, both shoes on, tie hanging unknotted around his neck. The bed resumes forward. He ties the tie while moving. Looks down at the knot. Shrugs. Morning light.
 
 ---
 
@@ -343,7 +343,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide handheld shot in a kitchen. A man in his early 30s rushes around a kitchen counter, slightly jogging, being pushed from behind by a large vertical adjustable bed base moving at increased speed. He grabs a coffee mug. Reaches for the carafe. The bed nudges him mid-pour — coffee splashes chaotically, some lands in the mug, some on the counter. He hisses, adjusting. He raises the mug to drink while still moving, sloshing slightly. He takes a huge gulp as he nears the front door. Sets the mug on the counter. Gets pushed out the door. His hand immediately reaches back through the door frame and grabs the mug. Morning light. Slight handheld energy.
+> Wide handheld shot in a kitchen. A man in his early 30s rushes around a kitchen counter, slightly jogging, being pushed from behind by a large vertical adjustable bed base moving at increased speed. He grabs a coffee mug. Reaches for the carafe. The bed nudges him mid-pour — coffee splashes chaotically, some lands in the mug, some on the counter. He hisses, adjusting. He raises the mug to drink while still moving, sloshing slightly. The front door approaches fast. He sets the mug down on the counter as the bed pushes him past it. SLAM. Hold on the empty kitchen — coffee maker still on, mug steaming on the counter. Morning light. Slight handheld energy.
+
+**NOTES:** The arm-reaching-back gag is gone. Dave loses the coffee. The mug stays on the counter. The empty kitchen hold is the button on this scene.
 
 ---
 
