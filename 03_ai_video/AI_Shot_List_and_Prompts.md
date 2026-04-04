@@ -242,10 +242,12 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 ### SHOT 019
 **Scene:** Shower curtain nudge
 **Duration:** 3 seconds
-**Camera:** Close-up. From outside shower curtain.
+**Camera:** Wide. From inside bathroom facing doorway.
 
 **AI PROMPT:**
-> Close-up shot of a shower curtain from outside the tub. The sound of running water is implied. After a beat, a large flat surface (the edge of the bed frame) gently nudges the shower curtain. The curtain billows slightly inward. Then nudges again. The nudging is patient and rhythmic. The curtain responds each time. No person visible in this shot — just curtain and mechanical edge. Bathroom light.
+> Wide shot from inside a bathroom. In the doorway, a large vertical adjustable bed base fills the frame — dark, humming, patient. In the foreground, a shower curtain is drawn closed with the silhouette of a man behind it and steam rising above. The man's silhouette flinches slightly, as if reacting to an urgent sound. The curtain sways from his movement. The bed in the doorway does not move — it simply waits. Bathroom fluorescent light from above, hallway light behind the bed. The composition feels like a standoff.
+
+**NOTES:** Per the Bed Proportions Guide, the bed cannot physically reach the shower curtain from the doorway. The "nudge" is communicated through the motor hum shifting pitch (sound design) and Dave's reaction. The curtain moves from Dave, not from contact with the bed.
 
 ---
 
