@@ -319,7 +319,9 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Medium. Side angle.
 
 **AI PROMPT:**
-> Medium shot of a car in a driveway from the side. A large vertical adjustable bed base approaches alongside the car, gently steering a man in his early 30s with precise nudges, lining him up perfectly with the driver's side door. The alignment is uncannily accurate. The door is pushed open. The man is nudged in. He drops into the driver's seat. The bed folds slightly and fits itself into the back seat. The humming continues. Morning light. The precision of the bed is played completely straight.
+> Medium shot of a car in a driveway from the side. A large vertical adjustable bed base approaches alongside the car, gently steering a man in his early 30s with precise nudges, lining him up perfectly with the driver's side door. The alignment is uncannily accurate. The door is pushed open. The man is nudged in. He drops into the driver's seat. Cut.
+
+**NOTES:** Per the Bed Proportions Guide: never show the bed getting into the car. End the shot at Dave dropping into the seat. The next shot (026, rearview mirror) confirms the bed is in the back seat on the other side of the cut. The edit does the work.
 
 ---
 
