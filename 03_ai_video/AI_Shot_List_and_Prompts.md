@@ -503,8 +503,11 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 ### Character Reference — MARCUS
 > Portrait reference image of a Black man in his early 30s. Medium build, slightly stocky. Wearing a dark suit jacket over a light blue dress shirt. His jacket has one or two wrinkles. He has a close-cropped fade. His expression is that of a man enduring something familiar. Natural lighting. Photorealistic.
 
-### Character Reference — THE BED
+### Character Reference — THE BED (Dave's — RiseTech Pro)
 > Product reference image of a modern adjustable bed base. Dark charcoal gray or matte black frame. No headboard or footboard — just the base and platform. Mechanical struts visible at the sides when raised. A slim black remote with a single large glowing button sits on the frame. When fully raised to vertical, it resembles a large rectangular monolith. Slightly industrial, slightly sleek.
+
+### Character Reference — MARCUS'S BED (different model)
+> Product reference image of a modern adjustable bed base, different brand from the dark charcoal model. Warm gray or cream-colored frame with slightly rounded corners. No headboard or footboard — just the base and platform. Same general dimensions but visibly different design language — softer, rounder, slightly less industrial. When vertical it reads as the same category of object but a different product. Clean studio lighting. Photorealistic.
 
 ### Environment — DAVE'S BEDROOM
 > Reference image of a moderately tidy bachelor bedroom. Queen bed (adjustable base). One nightstand with water glass, charging cable, remote. Blackout curtains slightly open letting in morning light. Neutral colors — gray walls, navy sheets. Not lavish, not messy. The room of a functioning adult who went a little hard last night.
