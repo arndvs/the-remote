@@ -368,47 +368,30 @@ _A series of quick driving beats:_
 
 **BEAT 1 — THE DRIVE-THROUGH**
 
-_Dave pulls into a coffee drive-through lane._
+_Dave pulls into a coffee drive-through. Orders. Pays at the first window. Pulls up to the pickup window._
 
-**DRIVE-THROUGH SPEAKER**
-Welcome to—
-
-_The bed hums. The car rolls forward._
-
-**DAVE**
-No, wait—
-
-_He pulls up to the window. A WORKER hands out a cup._
+_The WORKER leans out._
 
 **DRIVE-THROUGH WORKER**
-That'll be—
+So the machine's actually down right now — should be just a couple minutes.
 
-_The bed hums. The car rolls forward. Dave's arm is fully extended, fingers grasping. He almost gets it._
+_Dave nods. That's fine. He can wait._
 
-_He watches the drive-through disappear in his mirror._
+_The hum from the back seat shifts. That same pointed escalation from the bathroom._
 
-**DAVE**
-_(under his breath)_
-I already had coffee. I didn't need that.
+_Dave grips the steering wheel._
 
-_Beat._
+_The hum rises._
 
-**DAVE (CONT'D)**
-I needed that.
+_Dave pulls forward. Past the window. Out of the drive-through._
 
 ---
 
 **BEAT 2 — THE BUS STOP**
 
-_Red light. A city bus pulls up alongside Dave's car. Windows full of commuters._
+\_Red light. A city bus pulls up alongside Dave's car. Windows full of communters.
 
-_A few look over. They see the bed._
-
-_They stare._
-
-_Dave looks back. Raises his coffee cup slightly. An acknowledgment._
-
-_One COMMUTER slowly raises their own thermos back._
+_A COMMUTER on the bus sips from a coffee thermos with a satisfied expression. Dave watches. Empty-handed._
 
 _The light turns green._
 
