@@ -411,12 +411,12 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 ### SHOT 033
 **Scene:** Elevator — silent coworker
 **Duration:** 5–6 seconds
-**Camera:** Wide. Static from inside elevator.
+**Camera:** Wide. Static from the hallway outside the elevator.
 
 **AI PROMPT:**
-> Wide static shot from inside an office elevator. The doors are open. A man in his early 30s steps in, followed by a large vertical adjustable bed base that fills most of the elevator behind him. Another person — a coworker in business casual — is already inside. The coworker looks at the bed. Looks at the floor indicator numbers. Says nothing. The doors close. They ride in silence. The doors open. They both exit — the coworker goes right, the man with the bed goes left. Office fluorescent elevator light. The entire exchange is wordless and accepted.
+> Wide static shot of an office elevator bank from the hallway. The elevator doors are open. A man in his early 30s steps in. The large vertical adjustable bed base follows behind him — we see it enter. A coworker already inside glances at it. The doors close. A beat. The floor indicator ticks up. The doors open on a new floor. The man with the bed exits left, the coworker exits right. Neither has said a word. Office fluorescent hallway light. The exchange is entirely wordless.
 
-**NOTES:** Frame wide enough to see both people and the bed in the elevator but don't dwell on the spatial logistics — the edit hides the impossibility per the Bed Proportions Guide.
+**NOTES:** Per the Bed Proportions Guide: never show the bed and Dave inside the elevator simultaneously in a way that requires accurate spatial logic. Frame from the hallway exterior — we see them enter and exit, but the interior ride is hidden by the closed doors. The edit does the work.
 
 ---
 
