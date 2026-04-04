@@ -9,7 +9,8 @@
 Each shot is written as a **self-contained AI video prompt**. Copy the prompt text directly into your tool of choice. For character consistency across shots, generate a **character reference image of Dave** first and use it as an image anchor in tools that support it (Runway Gen-3, Kling 1.6, etc.).
 
 **Character anchors to generate first:**
-- **DAVE:** White male, early 30s, slightly disheveled but not homeless. Brown hair, stubble. Dress shirt and slacks. Slightly undone tie. Looks like someone who got 4 hours of sleep and is functioning anyway.
+- **DAVE (office look — Shots 022+):** White male, early 30s, slightly disheveled but not homeless. Brown hair, stubble. Dress shirt and slacks. Slightly undone tie. Looks like someone who got 4 hours of sleep and is functioning anyway.
+- **DAVE (sleepwear — Shots 001–021):** Same face and build. Wearing a wrinkled t-shirt and boxers. Hair chaotic. This is how Dave appears from the bedroom through the bathroom — he doesn't get dressed until the closet scene (Shot 022).
 - **MARCUS:** Black male, early 30s. Wrinkled suit jacket. Slightly more put-together than Dave but not by much. The look of a man who has been here before.
 - **THE BED:** A modern adjustable bed base — dark gray or black frame, no headboard, with a slim black remote. Clean, sleek, slightly corporate. When vertical it resembles a monolith.
 
@@ -582,8 +583,11 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ## APPENDIX — REUSABLE ASSET PROMPTS
 
-### Character Reference — DAVE (generate first, use as image anchor)
+### Character Reference — DAVE, office look (generate first, use as image anchor for Shots 022+)
 > Portrait reference image of a man in his early 30s. Brown hair, slight stubble, medium build. Slightly tired eyes but generally good-looking. Wearing a wrinkled white dress shirt with the top button undone, a loose tie, and dark dress slacks. His hair is slightly disheveled. He looks like someone who got 4 hours of sleep and is trying anyway. Natural lighting. Photorealistic.
+
+### Character Reference — DAVE, sleepwear (use as image anchor for Shots 001–021)
+> Portrait reference image of the same man — early 30s, brown hair, slight stubble, medium build. Wearing a wrinkled t-shirt and boxers. Hair completely chaotic. Eyes puffy. He looks like someone who got 4 hours of sleep and has not yet made any effort to fix that. Same face as the office version but pre-recovery. Natural lighting. Photorealistic.
 
 ### Character Reference — MARCUS
 > Portrait reference image of a Black man in his early 30s. Medium build, slightly stocky. Wearing a dark suit jacket over a light blue dress shirt. His jacket has one or two wrinkles. He has a close-cropped fade. His expression is that of a man enduring something familiar. Natural lighting. Photorealistic.
