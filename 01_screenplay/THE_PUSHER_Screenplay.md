@@ -250,7 +250,7 @@ _Dave squeezes past it sideways — one shoulder, then the other. The bed shifts
 
 ### SCENE 6 — INT. KITCHEN — INTERCUT
 
-_⏱ TIMING NOTE: This shot should cut away AT THE PERFECT MOMENT — right when Dave is being pushed fastest and the coffee feels most needed. Calm vs. chaos._
+_⏱ TIMING NOTE: This is a palette cleanser — pure calm. The kitchen is empty, beautiful, undisturbed. The comedy is in the contrast with whatever Dave is enduring when we cut to this._ This shot should cut away AT THE PERFECT MOMENT — right when Dave is being pushed fastest and the coffee feels most needed. Calm vs. chaos.
 
 _The kitchen. Empty. Quiet. Beautiful morning light._
 
@@ -266,13 +266,13 @@ _Cut back to Dave._
 
 _The bed pushes Dave into the walk-in closet at moderate speed. Clothes swipe past him. He grabs at things._
 
-_He emerges with a dress shirt, one shoe, and his pants on backwards._
+_He emerges with a dress shirt half-tucked, one shoe, and no tie._
 
 _The bed reverses slightly. One firm nudge back in._
 
 _A beat._
 
-_He emerges again. Shirt tucked. Both shoes. Pants correct. Tie — somehow — around his neck but not yet tied._
+_He emerges again. Shirt tucked. Both shoes. Tie — somehow — around his neck but not yet tied._
 
 _The bed resumes. He ties the tie while moving._
 
@@ -300,21 +300,23 @@ _He reaches for a mug. Gets it. Reaches for the pot. The bed nudges — he stumb
 _(hissing)_
 Hot, hot, hot—
 
-_He manages to get the mug upright. Raises it to drink while still moving. It sloshes. He makes it work. He's essentially doing a moving coffee ceremony, adapting his entire body to the physics of being pushed._
+_He manages to get the mug upright. Raises it to drink while still moving. It sloshes. He makes it work — one sip, then another, wincing at the heat but refusing to stop. He's essentially doing a moving coffee ceremony, adapting his entire body to the physics of being pushed._
 
-_The front door is approaching._
+_The front door is approaching. Fast._
 
-_Dave looks at the mug. Looks at the door. Makes a decision. Takes one enormous gulp. Sets the mug on the counter as he passes._
+_Dave looks at the mug. Looks at the door. There is no way to do both._
+
+_He tries anyway — one last desperate sip. The bed doesn't slow. He fumbles the mug onto the counter as the bed pushes him past it._
 
 _He is pushed out the front door._
 
-_The mug sits on the counter. Still steaming. About 40% of a cup remaining._
+_SLAM._
 
-_Dave's hand reaches back in through the door and grabs it._
+_The kitchen. Empty. Quiet again._
 
-_A beat._
+_The mug sits on the counter. Still steaming. About half a cup remaining. The coffee maker is still on. Nobody is here to drink any of it._
 
-_He's pulled back out of frame._
+_Hold on this. Two seconds longer than feels right._
 
 ---
 
@@ -328,9 +330,11 @@ _He's pulled back out of frame._
 
 _⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base._
 
+_Dave is already outside. No coffee. The front door is closed behind him. We did not see him come through it._
+
 _Neighbors walking dogs stop and stare._
 
-_Dave, still clutching his coffee, is pushed down the driveway toward his car. He makes brief eye contact with a neighbor._
+_Dave, coffeeless, is pushed down the driveway toward his car. He makes brief eye contact with a neighbor._
 
 **DAVE**
 _(with tremendous dignity)_
@@ -338,13 +342,19 @@ Morning.
 
 _The neighbor watches him pass._
 
-_The bed lines him up with the driver's door with alarming precision. Opens it. Pushes him in._
+_The bed lines him up with the driver's door with alarming precision. The door opens. Dave drops into the driver's seat._
 
-_Dave lands in the driver's seat. The bed wedges itself behind him — folded slightly, somehow fitting into the back seat, the hum continuing through the upholstery._
+_Cut._
+
+---
+
+### SCENE 10 — INT./EXT. CAR — DRIVING — MORNING
+
+_Dave is driving. In the rearview mirror — the bed, folded partially, filling the back seat. The hum continues through the upholstery. We did not see it get in. It is there._
 
 _Dave looks in the rearview mirror at it._
 
-**DAVE (CONT'D)**
+**DAVE**
 _(to mirror)_
 Buckle up.
 
