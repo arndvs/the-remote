@@ -429,11 +429,11 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **Scene:** Parking lot walk
 **Duration:** 4 seconds
-**Camera:** Wide. Tracking from the front.
+**Camera:** Wide. Tracking backward.
 
 **AI PROMPT:**
 
-> Wide shot tracking backward in front of a man in his early 30s walking through a corporate office building parking lot. He carries a coffee mug, tie slightly crooked. Behind him: a large vertical adjustable bed base rolls along, humming. An office worker walking from the other direction sees him coming, makes a wide arc to avoid the path, and continues without saying anything. The man with the bed doesn't acknowledge this. Office building in background. Morning light.
+> Wide shot tracking backward in front of a man in his early 30s walking through a corporate office building parking lot. Bad tie knot. Empty hands. Behind him: a large vertical adjustable bed base rolls along, humming. An employee heading in from the other direction passes him without breaking stride. The man with the bed doesn't acknowledge it either. Office building fills the background, getting closer. Morning light.
 
 ---
 
@@ -445,9 +445,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium shot of a corporate office lobby. A receptionist at a front desk looks up from her computer as a man in his early 30s walks through with a coffee mug, a large vertical adjustable bed base humming behind him. She gives a small, unsurprised nod. He nods back without breaking stride. Neither treats the bed as unusual. The lobby is clean, corporate-neutral — glass doors behind them, elevator bank ahead. Morning light through lobby windows. The interaction is completely routine.
+> Medium shot of a corporate office lobby. A receptionist at a front desk looks up from her computer as a man in his early 30s walks through — slightly disheveled, bad tie knot, looking rough. A large vertical adjustable bed base hums behind him. The receptionist says something (implied: "Morning, Dave"). He replies without breaking stride (implied: "Morning"). She adds something (implied: "Rough one?"). He says the same thing again (implied: "Morning"). She watches him go, returns to her computer. The lobby is clean, corporate-neutral. Morning light through lobby windows.
 
-**NOTES:** The comedy is in the total normalcy. This is apparently not the first time the receptionist has seen this.
+**NOTES:** The receptionist’s "Rough one?" is about Dave’s appearance — not the bed. She doesn’t acknowledge the bed at all. Dave repeating "Morning" instead of answering is the button.
 
 ---
 
@@ -459,9 +459,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide static shot of an office elevator bank from the hallway. The elevator doors are open. A man in his early 30s steps in. The large vertical adjustable bed base follows behind him — we see it enter. A coworker already inside glances at it. The doors close. A beat. The floor indicator ticks up. The doors open on a new floor. The man with the bed exits left, the coworker exits right. Neither has said a word. Office fluorescent hallway light. The exchange is entirely wordless.
+> Wide static shot of an office elevator bank from the hallway. The elevator doors are open. A man in his early 30s steps in. The large vertical adjustable bed base follows behind him — we see it enter. A coworker already inside looks at the floor numbers. The doors close. A beat. The floor indicator ticks up. The doors open on a new floor. The coworker exits right. The man with the bed exits left. Neither has said a word. Office fluorescent hallway light.
 
-**NOTES:** Per the Bed Proportions Guide: never show the bed and Dave inside the elevator simultaneously in a way that requires accurate spatial logic. Frame from the hallway exterior — we see them enter and exit, but the interior ride is hidden by the closed doors. The edit does the work.
+**NOTES:** The coworker does not glance at the bed — looks at the floor numbers only. Per the Bed Proportions Guide: frame from the hallway exterior. The interior ride is hidden by the closed doors. The edit does the work.
 
 ---
 
@@ -473,21 +473,23 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide static shot of a modern open-plan office floor. A man in his early 30s (brown hair, slightly disheveled) rounds the corner from the elevator area, a large vertical adjustable bed base behind him. He stops. Across the floor, at a diagonal desk, another man in his early 30s (Black, wrinkled suit jacket, equally tired) looks up. Behind him: a different model adjustable bed base. Both beds idle, humming quietly. The two men make eye contact across the office floor. Silence. A long beat. The second man gives a single slow nod. The first man gives a single slow nod back. They sit down at their respective desks. Both beds settle in behind them. Office lighting. Still shot.
+> Wide static shot of a modern open-plan office floor. A man in his early 30s (brown hair, slightly disheveled) rounds the corner from the elevator area, a large vertical adjustable bed base behind him. He stops. Across the floor, at a diagonal desk, another man in his early 30s (Black, wrinkled suit jacket, equally tired) looks up. Behind him: a different model adjustable bed base. Both beds idle, humming quietly — slightly out of sync, creating a low ambient chord. The two men make eye contact across the office floor. A long beat. The first man gives a single nod up. The second man gives a single nod up back. They sit down at their respective desks. Both beds settle in behind them. They both open their laptops. Office lighting. Still shot.
 
-**NOTES:** This is the emotional centerpiece of the film. Do not rush it. Let the pause land.
+**NOTES:** This is the emotional centerpiece of the film. Do not rush it. The exchange is “’Sup, Marcus” / “’Sup.” Both nods are UP, not down. The two hums being slightly out of sync is a deliberate detail.
 
 ---
 
 ### SHOT 033
 
-**Scene:** Conference room — new employee notices
+**Scene:** Conference room — young employee notices
 **Duration:** 5 seconds
 **Camera:** Wide. Conference table.
 
 **AI PROMPT:**
 
-> Wide shot of a corporate conference room. Eight people sit around a table. A manager at the head stands presenting slides on a screen. Two attendees (both men in their 30s, slightly disheveled) have large adjustable bed bases behind their chairs. A young, fresh-faced employee in a new suit notices the beds and raises his hand. Six heads slowly turn to look at him. Silence. The manager clicks to the next slide without responding. Everyone turns back to the screen. The young employee writes something in a notebook. Underlines it. Office fluorescent lighting.
+> Wide shot of a corporate conference room. Eight people sit around a table. A manager at the head stands presenting slides on a screen. Two attendees (both men in their 30s, slightly disheveled) have large adjustable bed bases behind their chairs. A young employee glances at the beds, confused. He glances around the table. Starts to raise his hand. The coworker next to him gives a single, short look — not hostile, just: don’t. The young employee lowers his hand. Returns to the screen. The manager clicks to the next slide without breaking stride. The young employee writes something in his notebook. Underlines it. Office fluorescent lighting.
+
+**NOTES:** The shutdown comes from the coworker’s look, not the room turning or the manager ignoring him. No spoken question. The young employee is confused but compliant.
 
 ---
 
@@ -499,7 +501,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk, looking at him and then at the adjustable bed base behind his chair. She nods once. Says something (implied: brief, no-nonsense). She starts to walk away. Stops without turning. Says something else. He looks at the bed. A new expression of respect crosses his face. She walks away. Office lighting. Slightly comedic but played dry.
+> Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A large adjustable bed base idles behind his chair. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk. She looks at him — not the bed. She nods once. Says something (implied: “Big night?”). He replies. She gives him a task (implied: "Get the Hendricks report done by five"). She starts to walk away. Stops without turning. Says something else (implied: a comment about the bed brand — she had a NudgeBase Pro for years). He asks a follow-up. She answers while already walking away (implied: “Made me a VP”). She’s gone. Office lighting. Played dry.
+
+**NOTES:** Karen looks at DAVE, not the bed. Her comment about the bed brand (NudgeBase Pro) is the first time an authority figure validates the bed’s existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
 
 ---
 
