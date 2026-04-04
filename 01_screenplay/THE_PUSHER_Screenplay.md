@@ -403,15 +403,9 @@ _The light turns green._
 
 ### SCENE 11 — EXT. OFFICE BUILDING PARKING LOT — MORNING
 
-_Dave pulls in. Parks. The bed pushes him out of the car and toward the building._
+_Tracking backward. Dave walks toward camera — bad knot, empty hands, the bed rolling behind him. The office building fills the background, getting closer._
 
-_He walks through the parking lot, bed behind him, tie slightly askew, coffee in hand._
-
-_An EMPLOYEE walking in from the other direction sees him. Makes a wide arc to avoid the path. Doesn't say anything._
-
-_Dave doesn't say anything either._
-
-_This is fine._
+_An EMPLOYEE heading in from the other direction passes him. Doesn't break stride._
 
 ---
 
