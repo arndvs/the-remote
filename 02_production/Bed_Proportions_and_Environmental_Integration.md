@@ -1,4 +1,4 @@
-# THE PUSHER — BED PROPORTIONS & ENVIRONMENTAL INTEGRATION GUIDE
+# THE REMOTE — BED PROPORTIONS & ENVIRONMENTAL INTEGRATION GUIDE
 
 _The "Trash Truck" Problem: Making an Impossible Object Feel Inevitable_
 
@@ -26,7 +26,7 @@ They never called attention to the impossibility. They never showed the truck sq
 
 The key insight: **audiences don't measure. They feel.** If the bed feels right in the space — if the lighting wraps it correctly, if Dave reacts to it as something normal, if the camera frames it with the same casual authority it frames everything else — the audience accepts it. The moment you signal that the bed is weird or shouldn't fit, they start noticing that it doesn't.
 
-**For The Pusher, the rule is: the bed always fits, and nobody ever comments on the fact that it fits.**
+**For The Remote, the rule is: the bed always fits, and nobody ever comments on the fact that it fits.**
 
 ---
 
@@ -50,7 +50,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** A queen bed base is nearly as wide as most bedrooms are deep. It would dominate the room.
 
-**The Pusher version:** The bedroom is designed around the bed. It's clearly a bed-in-a-bedroom — the proportions feel right because we expect a bed to fill most of a bedroom. When the bed rises to vertical, it fits flush against the wall behind it. The room is just wide enough that Dave can walk ahead of it without touching the side walls.
+**The Remote version:** The bedroom is designed around the bed. It's clearly a bed-in-a-bedroom — the proportions feel right because we expect a bed to fill most of a bedroom. When the bed rises to vertical, it fits flush against the wall behind it. The room is just wide enough that Dave can walk ahead of it without touching the side walls.
 
 **Camera rule:** Always frame the bedroom with the bed taking up its natural 60–70% of the horizontal frame. Don't try to minimize it. It's a bedroom. A bed belongs there.
 
@@ -64,7 +64,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** A 60-inch-wide bed cannot move through a standard 36-inch hallway. There is no realistic version of this working.
 
-**The Pusher version:** Apply Rule 6 — design the environment first. The hallway is wider than normal. It reads as a hallway (walls, doors off it, a light fixture) but its proportions are generous enough that the bed moves through it without obvious strain. Don't specify or draw attention to the width. Just build it wide and light it like a hallway.
+**The Remote version:** Apply Rule 6 — design the environment first. The hallway is wider than normal. It reads as a hallway (walls, doors off it, a light fixture) but its proportions are generous enough that the bed moves through it without obvious strain. Don't specify or draw attention to the width. Just build it wide and light it like a hallway.
 
 **Key visual choice:** Frame it from the front (Dave's POV walking ahead) or from a wide tracking shot from the side. Either way, keep the camera far enough back that the hallway reads as a complete environment rather than an exact space. The bed should feel like a moving wall — present, filling the space, unhurried.
 
@@ -76,7 +76,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Bathrooms are small. A bed base absolutely cannot enter one.
 
-**The Pusher version:** The bed doesn't enter the bathroom. It waits in the doorway — this is actually the correct comedic choice. The bed as a patient, humming presence filling the doorframe is funnier than trying to cram it inside.
+**The Remote version:** The bed doesn't enter the bathroom. It waits in the doorway — this is actually the correct comedic choice. The bed as a patient, humming presence filling the doorframe is funnier than trying to cram it inside.
 
 **The doorframe:** The bathroom door is shown from the inside, the bed filling the entire frame. The audience sees a dark rectangle blocking the doorway. That's the bed. It fits perfectly in the sense that it occupies the space exactly — no gaps, no straining.
 
@@ -90,9 +90,9 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Walk-in closets vary, but most are 5–8 feet wide. This is actually the most realistic environment for the bed — the one place where the geometry is closest to working.
 
-**The Pusher version:** Dave is always in front of the bed, not beside it. The bed pushes him into the closet from behind — he enters first, the bed follows. Inside, the closet is just wide enough for the bed with Dave standing in front of it. Clothes hang on both sides close to Dave's shoulders, swiping him as he moves, because he's pressed forward by the bed behind him — not because the space itself is tight around both of them simultaneously.
+**The Remote version:** Dave is always in front of the bed, not beside it. The bed pushes him into the closet from behind — he enters first, the bed follows. Inside, the closet is just wide enough for the bed with Dave standing in front of it. Clothes hang on both sides close to Dave's shoulders, swiping him as he moves, because he's pressed forward by the bed behind him — not because the space itself is tight around both of them simultaneously.
 
-**Key visual:** When Dave emerges wrong the first time, the bed is visible behind him in the closet opening, filling the frame. When the bed nudges him back in, it simply advances — he retreats. The bed just walks forward. Dave walks backward.
+**Key visual:** When Dave emerges wrong the first time, the bed is visible behind him in the closet opening, filling the frame. When the bed nudges him back in, it simply advances — he retreats. The bed rolls forward. Dave walks backward.
 
 **The closet exit (second time):** Dave emerges fully dressed, the bed follows him out. Same framing. No comment on how this worked. It worked.
 
@@ -102,7 +102,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open-plan kitchens can be wide. The bed can plausibly fit here with environment design.
 
-**The Pusher version:** This is the easiest interior environment for the bed. The kitchen opens from the hallway and Dave is pushed through it quickly — the bed should feel _fast_ here, which means we don't linger on spatial logistics. Speed sells it. Stay on Dave's face during the coffee pour.
+**The Remote version:** This is the easiest interior environment for the bed. The kitchen opens from the hallway and Dave is pushed through it quickly — the bed should feel _fast_ here, which means we don't linger on spatial logistics. Speed sells it. Stay on Dave's face during the coffee pour.
 
 **The front door:** Apply Rule 1 — never show the transition. The shot before the door is Dave in the kitchen — coffee chaos, sipping while moving, then setting the mug down as the counter runs out. SLAM. Hold on the empty kitchen. Cut. Next shot is exterior: Dave on the driveway, the door behind him already closed. We never see the bed pass through the front door. The edit does the work. This is consistent with every other impossible transition in the film.
 
@@ -112,13 +112,13 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** No adjustable bed base fits in a car.
 
-**The Pusher version:** This is where the Trash Truck principle is most important. The bed gets _in_ the car. It's in the back seat. We accept this.
+**The Remote version:** This is where the Trash Truck principle is most important. The bed gets _in_ the car. It's in the back seat. We accept this.
 
 **How to sell it:**
 
 1. **Never show it getting in.** Cut from the driveway (Dave being pushed toward the car) directly to Dave in the driver's seat with the bed in the back. We don't see the moment of entry. The edit does the work.
 
-2. **In the back seat, the bed is folded.** Not flat — more like partially reclined. The back of the bed is visible behind Dave's head rest. The side rails are visible through the side windows. It reads as "something large in the back seat" before your brain processes what it is.
+2. **In the back seat, the bed is folded in half — like a taco.** The back panel and the foot section have hinged toward each other, creating a V-shape that wedges into the back seat. The back of the bed is visible behind Dave's headrest. The side rails are visible through the side windows. It reads as "something large in the back seat" before your brain processes what it is. This is a variation of STATE TWO — not flat, not vertical, but folded for containment.
 
 3. **The car is slightly larger than average.** An SUV or a larger sedan. The kind of car where the back seat feels roomy. Never a compact.
 
@@ -132,7 +132,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open-plan offices have high ceilings and wide aisles. This is actually the most accommodating environment for the bed.
 
-**The Pusher version:** The office environment is designed to make the bed feel almost normal. High ceilings, wide aisles between desk clusters, neutral colors that don't fight with the bed's dark frame.
+**The Remote version:** The office environment is designed to make the bed feel almost normal. High ceilings, wide aisles between desk clusters, neutral colors that don't fight with the bed's dark frame.
 
 **Desk positioning:** Dave's desk (and Marcus's) should be positioned so the bed behind the chair has at least 2–3 feet of clearance on all sides. The bed should look _parked_, not crammed. Like someone brought in a standing desk, but weirder.
 
@@ -200,9 +200,11 @@ When generating shots involving the bed in tight spaces, use this language:
 
 ## A NOTE ON MARCUS'S BED
 
-Marcus's bed should be a different model — same height and width, but visibly different design. Perhaps lighter in color (a warm gray or cream) or with a different base profile (rounder corners vs. Dave's sharper ones). This distinction matters for two reasons:
+Marcus has a RISE™ bed. Same brand. Different model — the RISE 2, previous generation. This is the same model Karen references when she tells Dave _"I had the RISE 2. Made me a VP."_
 
-1. It confirms these are consumer products — different brands, different models — which grounds the world
+Marcus's bed should be visually distinct — same height and width, but a different design language. Warm gray (slightly lighter, slightly warmer than Dave's dark charcoal), rounder corners, softer strut profile. This distinction matters for two reasons:
+
+1. It confirms these are consumer products with a model history — which grounds the world
 2. When both beds are in frame together at the office, the visual variety prevents them from reading as a single duplicated prop
 
 Both beds should follow all the same proportional rules. When they're in the conference room together, they should fit behind their respective chairs with the same "just barely right" quality.
@@ -220,9 +222,10 @@ Before finalizing any shot:
 - [ ] If the transition is impossible, is it hidden by an edit?
 - [ ] Does the bed have visible weight and inertia?
 - [ ] Is the bed's speed consistent with where we are in the story arc?
-- [ ] Is the RiseTech sticker visible in at least one shot per major environment?
+- [ ] Is the RISE™ sticker visible in at least one shot per major environment?
 
 ---
 
-_THE PUSHER — Bed Proportions Guide v1.2_
+_THE REMOTE — Bed Proportions Guide v2.0_
+_Updated: Title (The Remote), brand (RISE™), Marcus (RISE 2, same brand), car state (folded taco/STATE TWO variant), movement (rolls not walks). Aligned with Prop Bible v2.2._
 _"The truck always fits. The bed always fits. The audience always believes."_
