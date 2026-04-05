@@ -13,11 +13,11 @@ _Approx. running time: 5–7 minutes_
 
 **DAVE** — Male, 30s. Not a mess, exactly. More like a man perpetually one bad decision away from being a mess. Likable. Relatable. Currently a mess.
 
-**MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different bed frame.
+**MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different colorway, same bed.
 
-**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former RISE 2 owner. Proof the system works.
+**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former original PUSH owner. Proof the system works.
 
-**THE BED** — A RISE™ Smart Adjustable Base. The real protagonist.
+**THE BED** — A PUSH by RISE™. The real protagonist.
 
 **DRIVE-THROUGH WORKER** — Early 20s. Dyed hair, nose ring, sleeve tattoos. Completely indifferent. Delivers bad news like it has nothing to do with her. It doesn't.
 
@@ -146,7 +146,7 @@ _Dave lowers his hands. Surveys the room with one eye. His gaze drifts to the ni
 
 _There, next to the untouched glass of water, is a slim black remote. One large button glows softly. Beside it, a small sticker on the device reads:_
 
-**_RISE™ Smart Adjustable Base_**
+**_PUSH by RISE™_**
 _"For People Who Need A Little Push"_
 
 _Dave stares at it._
@@ -199,7 +199,7 @@ _(looking down at the remote)_
 
 _He turns it over. On the back, in small text:_
 
-**_RISE™ — Note: Morning Drive Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!_**
+**_PUSH by RISE™ — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!_**
 
 _Dave stares at this for a long moment._
 
@@ -535,7 +535,7 @@ _She starts to walk away. Stops._
 
 **KAREN**
 _(without turning around)_
-The RISE? Not bad. I had the RISE 2.
+The PUSH? Not bad. I had the original PUSH.
 
 **DAVE**
 ...Did it help?
@@ -703,12 +703,12 @@ The "'sup" exchange between Dave and Marcus is the emotional core of the piece. 
 
 ### Brand Consistency
 
-The **RISE™ sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The tagline _"For People Who Need A Little Push"_ is the thesis statement of the entire piece.
+The **RISE™ / PUSH sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The product name _PUSH_ on the button and the sticker is the thesis statement of the entire piece.
 
 ---
 
-_THE REMOTE — Screenplay v2.0_
-_Updated: Title, brand (RISE™), end credits (commute home), car state (folded/taco), movement (rolls, not walks). Aligned with Prop Bible v2.3._
+_THE REMOTE — Screenplay v3.0_
+_Updated: Product rebrand (PUSH by RISE™), button label (PUSH), Push Mode, Karen ("original PUSH"), Marcus (same PUSH, different colorway). Aligned with Prop Bible v3.0._
 _Total estimated runtime: 5–7 minutes_
 
 ---
