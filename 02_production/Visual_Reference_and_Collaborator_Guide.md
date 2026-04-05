@@ -1,4 +1,4 @@
-# THE PUSHER — VISUAL REFERENCE & COLLABORATOR GUIDE
+# THE REMOTE — VISUAL REFERENCE & COLLABORATOR GUIDE
 
 _For directors, editors, VFX artists, and production collaborators_
 
@@ -49,7 +49,7 @@ The humor lives entirely in **Dave's resignation** and the **bed's relentless pr
 
 **Wide shots are the comedy.**
 
-The single most important rule: **keep both Dave AND the bed in the same frame as much as possible.** The comedy collapses if you cut between them. We need to see the full absurdity — a man being walked through his own apartment by a piece of furniture.
+The single most important rule: **keep both Dave AND the bed in the same frame as much as possible.** The comedy collapses if you cut between them. We need to see the full absurdity — a man being pushed through his own apartment by a piece of furniture.
 
 | Camera style              | When to use                                                   |
 | ------------------------- | ------------------------------------------------------------- |
@@ -71,11 +71,12 @@ The bed is the co-star. It needs to feel like a character.
 
 ### Physical Design
 
-- **Adjustable base only** — no headboard, no footboard. Just the mechanical platform.
-- **Color:** Matte dark gray or charcoal. Slightly corporate. Slightly ominous.
-- **When vertical:** Resembles a monolith. It should fill a doorframe when standing upright.
-- **Remote:** Slim, black, one large button. Glows softly. The back has fine-print text.
-- **Brand sticker:** Small but readable. "RiseTech Pro™ — For People Who Need A Little Push"
+- **Adjustable base, mattress, and one pillow** — no headboard, no footboard, no decorative elements.
+- **Color:** Matte dark charcoal with a faint cool blue undertone. Slightly corporate. Slightly ominous.
+- **When vertical:** Resembles a monolith. A complete bed — mattress, fitted sheet, pillow — standing on end. It should fill a doorframe when upright. The mattress and pillow must always read clearly. This is always a bed. Even when it's vertical.
+- **Movement:** The bed rolls on low-profile casters recessed into the base. It does not walk, step, or cycle. It glides — the way heavy furniture moves on felt pads, pushed by someone who knows where they're going. Smooth. Continuous. Quiet. No rhythm to it, no visible effort. It simply advances.
+- **Remote:** Slim, matte black, one large circular button labeled RISE. Glows warm white. Steady — not pulsing. The back has fine-print text.
+- **Brand sticker:** Small but readable in close-up. Lower-right corner of the frame's front face. _"RISE™ / Smart Adjustable Base / For People Who Need A Little Push"_
 
 ### The Bed's Personality
 
@@ -96,21 +97,49 @@ Think of it as a very literal GPS — it doesn't care how you feel about the rou
 - Punishing
 - Random
 
-Every nudge should feel measured. The bed knows exactly how hard to push.
+Every nudge should feel measured. The- Slightly proud (the satisfied hum at 4:58pm when Dave finishes his report)
+bed knows exactly how hard to push.
 
 ### The Bed's Motor Hum — Audio Character
 
+The hum is the bed's voice. It should have a slightly musical quality — almost like a motif. Warm, low, steady. Not mechanical in a threatening way. More like a high-quality HVAC system that has made peace with its purpose.
+
 The hum is the bed's voice. It should have a slightly musical quality — almost like a motif.
 
-| Moment                              | Hum character                               |
-| ----------------------------------- | ------------------------------------------- |
-| First activation                    | Dignified. Warm. Confident.                 |
-| Morning gauntlet (increasing speed) | Rising pitch. Still composed.               |
-| Waiting outside the shower          | Low and patient. Like a dog.                |
-| In the car                          | Muffled through upholstery. Still present.  |
-| Office hours                        | Barely audible. A presence, not a force.    |
-| 4:58pm, report sent                 | One small exhale. Almost like satisfaction. |
-| End credits — making the bed        | Quiet. Meditative. At peace.                |
+| End credits — making the bed | Quiet. Meditative. At peace. |
+
+| Moment                              | Hum character                                                              |
+| ----------------------------------- | -------------------------------------------------------------------------- |
+| First activation                    | Dignified. Warm. Confident.                                                |
+| Morning gauntlet (increasing speed) | Rising pitch. Still composed.                                              |
+| Waiting outside the shower          | Low and patient. Also: faint sheet-tensioning whisper beneath it.          |
+| In the car                          | Muffled through upholstery. Still present.                                 |
+| Office hours                        | Barely audible. A presence, not a force.                                   |
+| 4:58pm, report sent                 | One small exhale note. Brief. Almost like satisfaction. Then back to idle. |
+| Commute home — city street          | Medium, warm. Moving by choice, not obligation.                            |
+| Bedroom — folding flat              | Low, fading. Home.                                                         |
+
+### The Bed's Movement — Key Rules
+
+- The bed **rolls**. Always. It does not walk, lurch, step, or stride.
+- Smooth and continuous — no rhythm, no clicking, no visible mechanism of propulsion.
+- The casters are low-profile and nearly silent. The only sound of movement is the faint whisper of rolling contact beneath the motor hum.
+- The bed does not hesitate at doorways. It does not adjust for tight spaces. It moves through every environment with complete confidence. The environment accommodates it. This is never commented on.
+- **Speed is the bed's primary emotional register.** Slow = patient/supervisory. Medium = purposeful. Medium-fast = the day is not waiting. See speed table in the scene notes below.
+
+### The Self-Making Mechanism
+
+The bed makes itself during the morning routine — slowly, in parallel with Dave. This is not a background detail. It is an active visual sequence woven across the gauntlet.
+
+**The mechanism:** Two integrated systems. A tensioning bar travels along the inner frame rails, drawing the fitted sheet taut from center outward — slowly, one wrinkle at a time, taking several minutes for a full pass. A single pneumatic node at the top of the frame runs a long, gradual cycle: slow inflation, hold, calibrated deflation, the pillow reshaping and settling into position. The sounds are small and specific — a faint continuous whisper for the sheet, a slow soft exhale for the pillow. Nothing dramatic.
+
+**The character of the remaking:** Slow. Measured. Methodical. Calm. It does not hurry. It has the whole morning and it uses all of it.
+
+**Where we see it:**
+
+- **Bathroom wait:** Sheet tensioning visibly in progress — wrinkles smoothing one at a time, midway through its pass. Pillow node running its cycle, pillow reshaping but not yet centered.
+- **Closet:** Background detail. Sheet nearly taut. Pillow fuller but slightly off. Mechanism close but not finished.
+- **Hallway / tie beat:** The pillow node completes its cycle. One slow final exhale. The pillow settles, centers, stills. Cut to Dave fighting his tie knot while being rolled forward. "Good enough." The bed took the whole morning and produced a perfectly centered pillow. Dave took the same morning and produced a sideways knot.
 
 ---
 
@@ -147,7 +176,9 @@ The hum is the bed's voice. It should have a slightly musical quality — almost
 
 **The shot:** Dave's POV, looking at the nightstand. Rack focus from the water glass to the remote.
 
-**The remote close-up:** The glowing button should feel almost inviting. Like a helpful thing. It has no idea what it's about to cause.
+**The remote close-up:** The glowing RISE button should feel almost inviting. Like a helpful thing. It has no idea what it's about to cause.
+
+**What the remote does:** One button. One function. It initiates Morning Drive Mode. That is the complete list. It cannot adjust the bed's position, control any other feature, or stop Morning Drive Mode once started. When Dave presses it again to try to stop the bed, the button gives the same brief glow confirmation and nothing else changes. The remote is not broken. It has nothing further to act on.
 
 ---
 
@@ -159,7 +190,7 @@ Shoot it from the side, wide enough to see the full bed. The comedy has three be
 
 1. **The natural stop** — the bed reaches 90 degrees and we expect it to stop. It doesn't. (Beat of recognition: "oh no.")
 2. **Dave's delayed reaction** — he doesn't panic immediately. He's groggy. The eyebrows rise slowly. His response is several seconds behind the event.
-3. **The acceptance** — he clicks the remote. Nothing happens. He turns it over. Reads the back. Puts it in his pocket. Starts walking. Total elapsed time: maybe 8 seconds.
+3. **The acceptance** — he clicks the remote. Nothing happens. He clicks it several more times. Each press: same brief glow, same nothing. He turns it over. Reads the back. Puts it in his pocket. Starts walking. Total elapsed time: maybe 8 seconds.
 
 **Dave should not fight the bed.** The moment he tries to fight it is the moment the comedy dies. He adapts. Immediately. This is not new ground for him.
 
@@ -169,13 +200,16 @@ Shoot it from the side, wide enough to see the full bed. The comedy has three be
 
 **Pacing:** This whole sequence is a NASCAR pit stop. Every beat overlaps with movement.
 
-| Beat                          | Visual detail                                                                         |
-| ----------------------------- | ------------------------------------------------------------------------------------- |
-| Pushed through door           | He goes in sideways — through the narrow gap, not straight                            |
-| Teeth brushing                | He's already looking in the mirror for less than 5 seconds when the bed nudges        |
-| Shower                        | The bed waiting outside the curtain is its own 3-second shot — don't cut away from it |
-| "I HEARD you"                 | Reaction to the curtain nudge. Delivered to empty air, behind a curtain               |
-| Mirror — "you're doing great" | Callback to the bar flashback. Same phrase, completely different energy               |
+| Beat                          | Visual detail                                                                                                                            |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Pushed through door           | He goes in sideways — through the narrow gap, not straight                                                                               |
+| Teeth brushing                | He's already looking in the mirror for less than 5 seconds when the bed nudges                                                           |
+| Shower                        | The bed waiting outside the curtain is its own 3-second shot — don't cut away from it                                                    |
+| Bed making itself             | Intercut with Dave showering: sheet tensioning bar moving slowly, wrinkle by wrinkle. Pillow node running. The bed is getting ready too. |
+| "I HEARD you"                 | Reaction to the curtain nudge. Delivered to empty air, behind a curtain                                                                  |
+| Mirror — "you're doing great" | Callback to the bar flashback. Same phrase, completely different energy                                                                  |
+
+**The self-making intercut is the joke:** Dave cannot get his life together in a bathroom. The bed is getting its life together in a hallway, upright, one wrinkle at a time, without hurrying. The contrast does not need to be explained. Hold both sides of it long enough to feel the gap.
 
 ---
 
@@ -191,11 +225,29 @@ Shoot it from the side, wide enough to see the full bed. The comedy has three be
 
 **Two takes on the closet exit:**
 
-First exit: dress shirt half-tucked, one shoe, no tie. The bed's reversal should be a single firm nudge — not violent, just... disappointed.
+First exit: dress shirt half-tucked, one shoe, no tie. The bed's reversal should be a single firm roll backward — not violent, just firm. Corrective. A standard set by the machine, not a punishment.
 
 Second exit: completely assembled. The impossibility of how quickly this happened should not be addressed.
 
-The tie being tied while walking is the button on this scene. It should be a bad knot. He looks at it. "Good enough." This is a man who has calibrated his standards to match his circumstances.
+**Background detail during the closet:** The bed at the entrance, sheet nearly taut, pillow fuller but slightly off-center. The mechanism is almost done. The bed was further along than Dave before Dave had even started failing.
+
+---
+
+### SCENE 7A — The Tie / Pillow Payoff
+
+This beat belongs to the hallway roll between the closet and the kitchen. It is the culmination of the self-making sequence.
+
+**The edit:**
+
+_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — a slow, soft exhale. The pillow settles. Centers. Still._
+
+_Cut to: Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong._
+
+_He looks down at it._
+
+_DAVE: "Good enough."_
+
+Both are finishing touches. The bed used the whole morning and produced a perfectly centered pillow. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
 
 ---
 
@@ -215,11 +267,11 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 **Wide is essential here.** This is the first time we see the full absurdity in outdoor daylight — a suburban driveway, normal neighborhood, and a man being escorted by his bed.
 
-**The caster insert:** Low angle on driveway concrete. Small black casters roll into frame. The low hum of the motor. This is the first time we see how the bed moves — the reveal is earned after 8 interior scenes of tight framing.
+**How the bed moves:** The casters are low-profile and nearly silent. The bed does not step or cycle — it rolls, smoothly and continuously, the way heavy furniture moves when pushed by someone who knows where they're going. No rhythm to it. No visible effort. A low angle insert — concrete, the casters rolling into frame, the faint hum — establishes this cleanly without over-explaining it.
 
 **The neighbor:** Glances over. Keeps walking. The dog watches longer than the human does.
 
-**The car transition:** Rule 1 — never show the bed getting in the car. Last driveway image is Dave being pushed toward his car. Cut. Next shot is Dave in the driver's seat.
+**The car transition:** Never show the bed getting in the car. Last driveway image is Dave being rolled toward his car. Cut. Next shot is Dave in the driver's seat.
 
 ---
 
@@ -247,11 +299,13 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then we see, across the floor, Marcus. Then we see Marcus's bed.
 
+**Marcus's bed:** Same brand — RISE™ — but an older model. The RISE 2. Slightly warmer gray, softer corners, a slightly higher baseline hum pitch from the older motor. Same fundamental character as Dave's bed — patient, relentless, professional — but with more mornings behind it. It has seen things.
+
 **The pause:** Let it go at least 3 full seconds. Maybe 4. The longer the silence, the more it lands.
 
-**The 'sup:** "'Sup, Marcus." "'Sup." That's it. The first time Marcus is named in present-day. They sit down. Open their laptops. Move on.
+**The 'sup:** "'Sup, Marcus." "'Sup." That's it. They sit down. Open their laptops. Move on.
 
-**The dual hum:** When both beds are in frame and idling, their hums should be slightly out of sync — creating a quiet, slightly melancholic chord. This is a detail for sound design, but flag it visually as well — the two beds, two men, two mornings.
+**The dual hum:** When both beds are in frame and idling, their hums should be slightly out of sync and slightly different in pitch — creating a quiet, inadvertent chord. Two men, two mornings, two machines. The dissonance is not unpleasant. It is just honest.
 
 ---
 
@@ -265,14 +319,14 @@ Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then 
 
 ### SCENE 16 — Karen
 
-**Karen is the world-building scene.** Her revelation that she also had a bed — the "NudgeBase Pro" — and that it "made her a VP" does two things:
+**Karen is the world-building scene.** Her revelation that she also had a RISE™ bed — the RISE 2, previous generation — and that it "made her a VP" does two things:
 
 1. Establishes that this is a real product people use
 2. Reframes the bed as aspirational
 
 Karen's line is the end of the scene. She delivers the information and she's gone. No reaction shot from Dave.
 
-**Karen should not turn around when she delivers the NudgeBase Pro line.** She's already walking. It's offhand. She doesn't care that it's incredible information.
+**Karen should not turn around when she delivers the line.** She's already walking. It's offhand. She doesn't care that it's incredible information.
 
 ---
 
@@ -284,7 +338,7 @@ The visual key: as the clock advances, the bed's lean decreases. By 4:30 it's es
 
 **The whiteboard moment (4:30pm):** Dave is gesturing at a whiteboard, fully animated, explaining something to a coworker. He catches his own reflection in the window behind them — upright, dressed, functional. A flicker of surprise. He looks almost like a person.
 
-**The 4:58pm hum:** This needs to be in sound design. When Dave sends the report and leans back, the bed should emit one single, small, lower-pitched hum. An exhale. Dave stays. "Not bad." This is the one moment Dave breaks the pattern and acknowledges the bed directly. It lands because he hasn't done it all day.
+**The 4:58pm hum:** When Dave sends the report and leans back, the bed emits one single, small, lower-pitched exhale note. Brief. Then back to idle. Dave registers it. That's all. No words, no gesture toward the bed. The moment passes. This is the closest thing to communication between them all day, and it happens without either of them making anything of it.
 
 ---
 
@@ -306,21 +360,19 @@ He sends it. The bed's hum rises slightly. He packs his bag. Turns off the desk 
 
 ---
 
-### END CREDITS — The Bed Makes Itself
+### END CREDITS — The Commute Home & The Bed at Rest
 
-**This is the film's closing statement.**
+**The bed leaves when Dave does.**
 
-The bed, alone, making itself — slowly, precisely, without being asked — is simultaneously:
+Once Dave heads for the elevator, the bed waits until he is gone. Then it turns and leaves.
 
-- A joke (it's just a bed)
-- A character moment (it's preparing for tomorrow)
-- A slightly eerie image (it knows what's coming)
+**The commute home** is a single wide shot — the bed rolling down a city sidewalk alone, vertical, unhurried, in late afternoon light. No Dave. No one pushing. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not. The hum fades as it rounds the corner.
 
-**No music.** Just the hum. Just the sheets pulling taut.
+The end credits roll over this shot. The bed going home is the film's closing image — funnier and quieter than anything that could be scripted over it. Don't add music. Don't add text. Let it go.
 
-When it finishes, it idles. The remote glows.
+**The tonal register:** All day the bed has been behind Dave, pushing. Now it is alone, moving at its own pace, going somewhere by choice. It is the only moment in the film where the bed is completely free. It uses that freedom to go home and make sure everything is ready.
 
-**Fade to black over 5 seconds.** Don't rush it.
+**No music over the credits.** Just the hum, fading. The film closes the way it opened — with a machine doing exactly what it was built to do, in the quiet, without being watched.
 
 ---
 
@@ -334,12 +386,14 @@ When it finishes, it idles. The remote glows.
 | Flashback montage         | 2–3 seconds per flash    | Memory degrading in real time |
 | Bed rising                | 8–10 seconds continuous  | Let it go. Don't cut.         |
 | Bathroom gauntlet         | 4–6 seconds per beat     | Pit stop urgency              |
+| Self-making intercut      | Hold each side 3–4 sec   | Let the contrast breathe      |
 | Coffee intercut           | 6–8 seconds              | Intentionally too long        |
 | Commute beats             | 4–5 seconds each         | Anthology rhythm              |
 | Marcus reveal             | 8–10 seconds continuous  | Do not cut the pause          |
+| Tie / pillow payoff       | 3 seconds each side      | Sharp. No fat.                |
 | Office afternoon          | 3 seconds per time stamp | Time-lapse efficiency         |
 | Epilogue                  | 5 seconds continuous     | Recognition, not explanation  |
-| End credits               | 15 seconds, no cuts      | Earned stillness              |
+| End credits               | Single continuous shot   | Earned stillness              |
 
 ---
 
@@ -353,9 +407,10 @@ When it finishes, it idles. The remote glows.
 
 **Office afternoon montage:** Something that evolves — starts a little urgent, ends mellow. The music should mirror the bed's deceleration.
 
-**End credits:** Just the hum. Or silence. No song. The film should close the way it opened.
+**End credits:** Just the hum, fading as the bed rounds the corner. No song. The film should close the way it opened.
 
 ---
 
-_THE PUSHER — Collaborator Visual Reference v1.2_
+_THE REMOTE — Visual Reference & Collaborator Guide v2.0_
+_Updated to align with Prop Bible v2.2. The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._
