@@ -65,18 +65,17 @@ The single most important rule: **keep both Dave AND the bed in the same frame a
 
 ---
 
-## THE BED — DESIGN & BEHAVIOR GUIDE
+## THE BED — PRODUCTION-FACING GUIDE
 
-The bed is the co-star. It needs to feel like a character.
+The bed is the co-star. It needs to feel like a character. For the full physical specification — construction, materials, three states, four configurations, retention system, strut design, and all prop details — see the [Prop Bible](prop_bible.md). What follows here are the production implications of that spec: what matters for the director, the DP, the editor, and the colorist.
 
-### Physical Design
+### What You Need to Know About the Physical Design
 
-- **Adjustable base, mattress, and one pillow** — no headboard, no footboard, no decorative elements.
-- **Color:** Matte dark charcoal with a faint cool blue undertone. Slightly corporate. Slightly ominous.
-- **When vertical:** Resembles a monolith. A complete bed — mattress, fitted sheet, pillow — standing on end. It should fill a doorframe when upright. The mattress and pillow must always read clearly. This is always a bed. Even when it's vertical.
-- **Movement:** The bed rolls on low-profile casters recessed into the base. It does not walk, step, or cycle. It glides — the way heavy furniture moves on felt pads, pushed by someone who knows where they're going. Smooth. Continuous. Quiet. No rhythm to it, no visible effort. It simply advances.
-- **Remote:** Slim, matte black, one large circular button labeled RISE. Glows warm white. Steady — not pulsing. The back has fine-print text.
-- **Brand sticker:** Small but readable in close-up. Lower-right corner of the frame's front face. _"RISE™ / Smart Adjustable Base / For People Who Need A Little Push"_
+The bed is a complete bed in every state — frame, mattress, fitted sheet, pillow. Not a bare frame. Not a piece of equipment. A bed. This must read clearly in every shot, especially when vertical. If a shot makes the bed look like a bare frame through angle, lighting, or framing, adjust until the mattress and pillow read clearly. (See Prop Bible 1.3 for the full material spec, 1.4 for the four states.)
+
+The bed is dark charcoal with a faint cool blue undertone. It will absorb light rather than reflect it. Light it like the room — same sources, same temperature — or it will look composited.
+
+The remote is slim, matte black, with one large circular button labeled RISE that glows steady warm white. The back has fine-print text. (See Prop Bible 2.2–2.4 for full spec.) In the car, the bed folds in half like a taco — a V-shape wedged into the back seat. (See Prop Bible 1.4, STATE FOUR.)
 
 ### The Bed's Personality
 
@@ -99,9 +98,13 @@ Think of it as a very literal GPS — it doesn't care how you feel about the rou
 
 Every nudge should feel measured. The bed knows exactly how hard to push.
 
-### The Bed's Motor Hum — Audio Character
+### The Bed's Motor Hum — What Directors and Editors Need
 
-The hum is the bed's voice. It should have a slightly musical quality — almost like a motif. Warm, low, steady. Not mechanical in a threatening way. More like a high-quality HVAC system that has made peace with its purpose.
+The full hum modulation table is in the Prop Bible (1.6) — every scene moment, pitch, volume, and character. What matters for production:
+
+The hum is the bed's voice. Warm, low, slightly musical. Not threatening. It should feel like a high-quality machine doing exactly what it was built to do. The hum is always present when the bed is active. It modulates pitch and volume to express the bed's state, but it never becomes aggressive.
+
+The production-critical hum moments:
 
 | Moment                              | Hum character                                                              |
 | ----------------------------------- | -------------------------------------------------------------------------- |
@@ -114,27 +117,29 @@ The hum is the bed's voice. It should have a slightly musical quality — almost
 | Commute home — city street          | Medium, warm. Moving by choice, not obligation.                            |
 | Bedroom — folding flat              | Low, fading. Home.                                                         |
 
-### The Bed's Movement — Key Rules
+### The Bed's Movement — What to Shoot For
 
-- The bed **rolls**. Always. It does not walk, lurch, step, or stride.
-- Smooth and continuous — no rhythm, no clicking, no visible mechanism of propulsion.
-- The casters are low-profile and nearly silent. The only sound of movement is the faint whisper of rolling contact beneath the motor hum.
-- The bed does not hesitate at doorways. It does not adjust for tight spaces. It moves through every environment with complete confidence. The environment accommodates it. This is never commented on.
-- **Speed is the bed's primary emotional register.** Slow = patient/supervisory. Medium = purposeful. Medium-fast = the day is not waiting. See speed table in the scene notes below.
+The bed rolls. Always. See Prop Bible 1.7 for the full speed calibration table and movement personality spec. What matters for camera and editing:
 
-### The Self-Making Mechanism
+- There is no rhythm to the movement, no mechanical stepping. The camera has nothing to sync to. That's the point.
+- The casters are nearly silent. The motor hum is the primary audio signal of movement.
+- **Speed is the bed's primary emotional register.** Slow = patient/supervisory. Medium = purposeful. Medium-fast = the day is not waiting.
+- The bed does not hesitate at doorways. It does not adjust for tight spaces. This is never commented on. (See the [Bed Proportions Guide](Bed_Proportions_and_Environmental_Integration.md) for how each environment accommodates it.)
+- **The shower curtain nudge** (Scene 5): The bed stays at the bathroom doorway — it cannot physically reach the curtain. The "nudge" is communicated entirely through the motor hum shifting pitch and Dave's reaction. The curtain moves from Dave's own movement, not from contact with the bed. This is funnier — the bed enforces its will without being visible.
+- **The elevator**: Never show the bed and Dave in the elevator simultaneously if it strains credibility. Doors close with the bed implied behind him. Doors open and they exit together. The interior is never shown in a way that requires accurate spatial logic.
+- **The conference room**: Dave and Marcus sit at the end of the table, near the wall. Their beds are behind them, against the wall. Frame from the middle of the table looking toward the end — the beds are integrated into the composition rather than jutting awkwardly.
 
-The bed makes itself during the morning routine — slowly, in parallel with Dave. This is not a background detail. It is an active visual sequence woven across the gauntlet.
+### The Self-Making Mechanism — How to Shoot It
 
-**The mechanism:** Two integrated systems. A tensioning bar travels along the inner frame rails, drawing the fitted sheet taut from center outward — slowly, one wrinkle at a time, taking several minutes for a full pass. A single pneumatic node at the top of the frame runs a long, gradual cycle: slow inflation, hold, calibrated deflation, the pillow reshaping and settling into position. The sounds are small and specific — a faint continuous whisper for the sheet, a slow soft exhale for the pillow. Nothing dramatic.
+The bed makes itself during the morning routine — slowly, in parallel with Dave. For the full mechanism spec (tensioning bar, pneumatic pillow node, timing, sounds), see Prop Bible 1.8. For the mechanism's state at each story point, see Prop Bible 1.8 "When We See It." What follows here is the editorial approach — how to intercut it with Dave and where the payoff lands.
 
-**The character of the remaking:** Slow. Measured. Methodical. Calm. It does not hurry. It has the whole morning and it uses all of it.
+**The concept:** Dave is getting ready for the day. So is the bed. The comedy is in the contrast. Dave is scrambling to be ready. The bed is simply becoming ready, at whatever rate it becomes ready, without scrambling at all.
 
-**Where we see it:**
+**Where we see it and how to cut it:**
 
-- **Bathroom wait:** Sheet tensioning visibly in progress — wrinkles smoothing one at a time, midway through its pass. Pillow node running its cycle, pillow reshaping but not yet centered.
-- **Closet:** Background detail. Sheet nearly taut. Pillow fuller but slightly off. Mechanism close but not finished.
-- **Hallway / tie beat:** The pillow node completes its cycle. One slow final exhale. The pillow settles, centers, stills. Cut to Dave fighting his tie knot while being rolled forward. "Good enough." The bed took the whole morning and produced a perfectly centered pillow. Dave took the same morning and produced a sideways knot.
+- **Bathroom wait (Scene 5):** This is the primary intercut. While Dave showers, we cut to: the bed, vertical, outside the bathroom door. The sheet tensioning bar is moving — slowly, visibly, wrinkles smoothing one at a time. The bed is getting dressed. Cut back to Dave — fumbling, rushed, chaotic. Cut back to the bed — unhurried. Another wrinkle gone. The contrast is not that the bed is faster. It is that the bed is calmer. Hold both sides long enough to feel the gap.
+- **Closet (Scene 7):** Background detail only — visible but not dwelt on. The bed at the closet entrance: sheet nearly taut, pillow fuller but not centered. The bed was further along than Dave before Dave had even started.
+- **Hallway / tie beat (Scene 7A):** The payoff. The pillow node completes its cycle. One slow final exhale. The pillow settles, centers, stills. Cut to Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong. He looks down at it. "Good enough." Both are finishing touches. The bed used the whole morning and produced a perfectly centered pillow. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
 
 ---
 
@@ -365,7 +370,7 @@ Once Dave heads for the elevator, the bed waits until he is gone. Then it turns 
 
 The end credits roll over this shot. The bed going home is the film's closing image — funnier and quieter than anything that could be scripted over it. Don't add music. Don't add text. Let it go.
 
-**The tonal register:** All day the bed has been behind Dave, pushing. Now it is alone, moving at its own pace, going somewhere by choice. It is the only moment in the film where the bed is completely free. It uses that freedom to go home and make sure everything is ready.
+**The tonal register:** All day the bed has been behind Dave, pushing. Now it is alone, moving at its own pace, going somewhere by choice. It is the only moment in the film where the bed is completely free. It uses that freedom to go home. The bed is already made — it has been made since the morning, when the self-making mechanism finished during the tie beat. There is nothing left to prepare. It is simply going home to fold itself flat and wait.
 
 **No music over the credits.** Just the hum, fading. The film closes the way it opened — with a machine doing exactly what it was built to do, in the quiet, without being watched.
 
@@ -406,6 +411,7 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ---
 
-_THE REMOTE — Visual Reference & Collaborator Guide v2.0_
-_Updated to align with Prop Bible v2.2. The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
+_THE REMOTE — Visual Reference & Collaborator Guide v2.1_
+_Updated to align with Prop Bible v2.3. Spec content replaced with cross-references to the Prop Bible. Staging decisions (shower curtain nudge, elevator handling, conference room framing) absorbed from Bed Proportions Guide. Self-making editorial intercuts (bathroom, closet, tie/pillow payoff) now live here, with mechanism spec deferred to Prop Bible 1.8. End credits: bed is already made._
+_The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._
