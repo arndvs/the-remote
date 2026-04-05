@@ -1,4 +1,4 @@
-# THE PUSHER — AI VIDEO SHOT LIST
+# THE REMOTE — AI VIDEO SHOT LIST
 
 ### Formatted for Sora / Runway / Kling / Pika
 
@@ -15,7 +15,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 - **DAVE (office look — Shots 022+):** White male, early 30s, slightly disheveled but not homeless. Brown hair, stubble. Dress shirt and slacks. Slightly undone tie. Looks like someone who got 4 hours of sleep and is functioning anyway.
 - **DAVE (sleepwear — Shots 001–021):** Same face and build. Wearing a wrinkled t-shirt and boxers. Hair chaotic. This is how Dave appears from the bedroom through the bathroom — he doesn't get dressed until the closet scene (Shot 022).
 - **MARCUS:** Black male, early 30s. Wrinkled suit jacket. Slightly more put-together than Dave but not by much. The look of a man who has been here before.
-- **THE BED:** A modern adjustable bed base — dark gray or black frame, no headboard, with a slim black remote. Clean, sleek, slightly corporate. When vertical it resembles a monolith.
+- **THE BED:** A RISE™ Smart Adjustable Base — dark charcoal frame with a faint cool blue undertone, no headboard, with a slim matte black remote. The remote has one large circular button labeled RISE that glows warm white. Clean, sleek, slightly corporate. When vertical it resembles a monolith.
 
 **Runtime note:** Individual shot durations represent the core action of each AI-generated clip. The assembled edit will include additional held beats, transitions, reaction inserts, and pacing pauses documented in the [Visual Reference Guide's Editing Rhythm section](../02_production/Visual_Reference_and_Collaborator_Guide.md). Total assembled runtime target: 5–7 minutes.
 
@@ -35,7 +35,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 **AI PROMPT:**
 
-> Extreme close-up of a digital alarm clock on a cluttered nightstand. The time reads 6:47 AM. The display glows red in dim, blue-gray early morning light. The nightstand has an untouched glass of water, a phone charging cable dangling off the edge, and a slim black remote control. Everything is still. Cinematic. Shot on 35mm film aesthetic with slight grain. No motion.
+> Extreme close-up of a digital alarm clock on a cluttered nightstand. The time reads 6:47 AM. The display glows red in dim, blue-gray early morning light. The nightstand has an untouched glass of water, a phone charging cable dangling off the edge, and a slim matte black remote control with one large button labeled RISE that glows warm white. Everything is still. Cinematic. Shot on 35mm film aesthetic with slight grain. No motion.
 
 **NOTES:** This is the establishing close-up. Linger on it. It should feel peaceful — before everything goes wrong.
 
@@ -91,7 +91,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 **AI PROMPT:**
 
-> Close-up POV shot of a nightstand from a person's perspective sitting on a bed. On the nightstand: an untouched glass of water, a phone on the floor partially visible, and a slim black remote control with one large glowing button. The remote is slightly out of focus at first, then slowly racks to sharp focus on it. Cinematic. Morning light. Still shot.
+> Close-up POV shot of a nightstand from a person's perspective sitting on a bed. On the nightstand: an untouched glass of water, a phone on the floor partially visible, and a slim matte black remote control with one large button labeled RISE that glows warm white. The remote is slightly out of focus at first, then slowly racks to sharp focus on it. Cinematic. Morning light. Still shot.
 
 **NOTES:** Rack focus from water glass to remote. The remote becoming sharp = the idea forming.
 
@@ -193,7 +193,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 **AI PROMPT:**
 
-> Wide shot from the side of a bedroom. A man in his early 30s sits on the edge of a modern adjustable bed base (dark gray, no headboard), holding a slim black remote. He presses a button. The back of the bed begins to slowly rise, lifting him with it. He sits passively, one arm dangling, eyes still half-closed. The movement is slow and dignified. Morning light. Cinematic. The bed should look mechanical and sleek.
+> Wide shot from the side of a bedroom. A man in his early 30s sits on the edge of a modern adjustable bed base (dark gray, no headboard), holding a slim matte black remote. He presses the RISE button. The back of the bed begins to slowly rise, lifting him with it. He sits passively, one arm dangling, eyes still half-closed. The movement is slow and dignified. Morning light. Cinematic. The bed should look mechanical and sleek.
 
 **NOTES:** Start wide so we can see the full bed rise. This is the mechanical reveal — make it clear what the device is.
 
@@ -219,7 +219,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 **AI PROMPT:**
 
-> Wide shot of a bedroom. An adjustable bed base stands completely vertical — essentially a large dark rectangle — pressing gently against the back of a man in his early 30s (t-shirt, boxers, disheveled hair). The bed nudges him forward, walking him slowly toward the bedroom door. The man stumbles slightly, looks back at the bed, looks at the remote in his hand, looks forward. He accepts this. The hum of the motor is implied in the stillness. Morning light.
+> Wide shot of a bedroom. An adjustable bed base stands completely vertical — essentially a large dark rectangle — pressing gently against the back of a man in his early 30s (t-shirt, boxers, disheveled hair). The bed nudges him forward, rolling him slowly toward the bedroom door. The man stumbles slightly, looks back at the bed, looks at the remote in his hand, looks forward. He accepts this. The hum of the motor is implied in the stillness. Morning light.
 
 **NOTES:** This is the money shot — the full absurdity visible for the first time. Hold it wide. Dave is still in sleepwear here — he doesn't get dressed until the closet scene (Shot 022).
 
@@ -233,7 +233,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 **AI PROMPT:**
 
-> Extreme close-up of the back of a slim black remote control being held in a man's hand. Small text reads: "Note: Morning Drive Mode cannot be manually interrupted. Have a productive day!" The man's thumb is visible at the edge. Sharp focus on the text. The hand is very still. Cinematic close-up. Slightly warm light.
+> Extreme close-up of the back of a slim matte black remote control being held in a man's hand. Small text reads: "RISE™ — Note: Morning Drive Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!" The man's thumb is visible at the edge. Sharp focus on the text. The hand is very still. Cinematic close-up. Slightly warm light.
 
 ---
 
@@ -253,7 +253,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide tracking shot from the side of a residential hallway. A man in his early 30s in boxers and a t-shirt is being slowly but firmly pushed down the hallway by a fully vertical adjustable bed base behind him. The bed hums. The man walks forward in a half-stumble, looking ahead with resignation. Hallway is lit by morning light from a bedroom door behind them. Camera tracks alongside at walking pace.
+> Wide tracking shot from the side of a residential hallway. A man in his early 30s in boxers and a t-shirt is being slowly but firmly pushed down the hallway by a fully vertical adjustable bed base behind him. The bed hums. The man walks forward in a half-stumble, looking ahead with resignation. Hallway is lit by morning light from a bedroom door behind them. Camera tracks alongside at the bed's unhurried rolling pace.
 
 ---
 
@@ -391,7 +391,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Close-up of a car's rearview mirror. Reflected in it: the adjustable bed base filling the back seat. The hum continues through the upholstery. The man in the front seat glances up at the mirror — looks at the bed's reflection for a moment. Then forward. He drives. Morning commute light. Cinematic close-up.
+> Close-up of a car's rearview mirror. Reflected in it: the adjustable bed base folded in half like a taco, filling the back seat. The hum continues through the upholstery. The man in the front seat glances up at the mirror — looks at the bed's reflection for a moment. Then forward. He drives. Morning commute light. Cinematic close-up.
 
 **NOTES:** Dave does not nod at the bed. He looks, then forward, then drives. The edit hid the bed getting into the car — it is simply there on the other side of the cut.
 
@@ -617,7 +617,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Exact repeat of opening. Extreme close-up of alarm clock reading 6:47 AM. Pre-dawn blue-gray light. The untouched glass of water. The slim black remote glowing on the nightstand. Film grain. Complete stillness. Then: wide shot from foot of bed — a man in his early 30s face-down, arm hanging off the side, one leg outside covers. Completely still. The same geometry of unconsciousness. The cycle complete.
+> Exact repeat of opening. Extreme close-up of alarm clock reading 6:47 AM. Pre-dawn blue-gray light. The untouched glass of water. The slim matte black remote glowing warm white on the nightstand. Film grain. Complete stillness. Then: wide shot from foot of bed — a man in his early 30s face-down, arm hanging off the side, one leg outside covers. Completely still. The same geometry of unconsciousness. The cycle complete.
 
 ---
 
@@ -629,7 +629,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Close-up of a man's hand picking up a slim black remote from a nightstand. A thumb presses the single large glowing button. Cut to medium shot of the man (30s, destroyed hair, deep regret, but also somehow acceptance) sitting on the edge of an adjustable bed. The bed begins to hum. He looks straight ahead. Not defeated. Not happy. Just... ready. Smash cut to black. The hum continues over black.
+> Close-up of a man's hand picking up a slim matte black remote from a nightstand. A thumb presses the single large button labeled RISE. Cut to medium shot of the man (30s, destroyed hair, deep regret, but also somehow acceptance) sitting on the edge of an adjustable bed. The bed begins to hum. He looks straight ahead. Not defeated. Not happy. Just... ready. Smash cut to black. The hum continues over black.
 
 ---
 
@@ -641,15 +641,15 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 044
 
-**Scene:** The bed makes itself
+**Scene:** The bed commutes home
 **Duration:** 10–15 seconds
-**Camera:** Wide. Static. Bedroom. Empty.
+**Camera:** Wide. Static. City sidewalk. Late afternoon.
 
 **AI PROMPT:**
 
-> Wide static shot of an empty bedroom. Morning light. No people. An adjustable bed base at the far side of the room is slowly, methodically making itself — sheets pulling taut, pillows adjusting into position. The process is quiet and precise, like a machine at peace. No humans are present. The room is tidy. The remote glows softly on the nightstand. The bed finishes. Idles. Waits. Fade to black over 5 seconds.
+> Wide static shot of a city sidewalk in late afternoon golden light. A fully vertical adjustable bed base rolls down the sidewalk alone — no one pushing it, no one riding it. It is unhurried. People on the sidewalk move around it slightly, automatically, without looking up. A dog on a leash watches it pass; its owner does not. The bed rolls steadily, humming faintly. The hum fades as it rounds the corner. Cinematic. Golden hour light. The bed is already made — sheets taut, pillow centered. It has been made all day. Fade to black over 5 seconds.
 
-**NOTES:** Play this completely straight. No music — just the low hum of the motor. It should feel almost meditative. Let it breathe.
+**NOTES:** The bed made itself this morning, during the gauntlet, in parallel with Dave getting dressed. It has been made all day. It is going home to fold itself flat and wait. No music — just the hum, fading. Let it breathe.
 
 ---
 
@@ -669,13 +669,13 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Portrait reference image of a Black man in his early 30s. Medium build, slightly stocky. Wearing a dark suit jacket over a light blue dress shirt. His jacket has one or two wrinkles. He has a close-cropped fade. His expression is that of a man enduring something familiar. Natural lighting. Photorealistic.
 
-### Character Reference — THE BED (Dave's — RiseTech Pro)
+### Character Reference — THE BED (Dave's — RISE™)
 
-> Product reference image of a modern adjustable bed base. Dark charcoal gray or matte black frame. No headboard or footboard — just the base and platform. Mechanical struts visible at the sides when raised. A slim black remote with a single large glowing button sits on the frame. When fully raised to vertical, it resembles a large rectangular monolith. Slightly industrial, slightly sleek.
+> Product reference image of a RISE™ Smart Adjustable Base. Dark charcoal gray frame with a faint cool blue undertone. Matte finish. No headboard or footboard — just the adjustable base, mattress with navy fitted sheet, and one white pillow. Mechanical struts visible at the sides when raised. A slim matte black remote with a single large circular button labeled RISE that glows warm white sits on the frame. When fully raised to vertical, it resembles a large rectangular monolith. Slightly industrial, slightly sleek. Photorealistic.
 
-### Character Reference — MARCUS'S BED (different model)
+### Character Reference — MARCUS'S BED (RISE 2 — same brand, older model)
 
-> Product reference image of a modern adjustable bed base, different brand from the dark charcoal model. Warm gray or cream-colored frame with slightly rounded corners. No headboard or footboard — just the base and platform. Same general dimensions but visibly different design language — softer, rounder, slightly less industrial. When vertical it reads as the same category of object but a different product. Clean studio lighting. Photorealistic.
+> Product reference image of a RISE™ RISE 2 adjustable bed base — the previous generation model. Warm gray frame with slightly rounded corners (lighter and warmer than the current dark charcoal model). No headboard or footboard — just the base and platform. Same general dimensions but visibly different design language — softer, rounder, slightly less industrial. Same brand, older model. When vertical it reads as the same category of object but a different product generation. Clean studio lighting. Photorealistic.
 
 ### Environment — DAVE'S BEDROOM
 
@@ -687,5 +687,6 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_THE PUSHER — AI Shot List v1.2_
+_THE REMOTE — AI Shot List v2.0_
+_Updated: Title (The Remote), brand (RISE™/RISE 2), remote details (RISE button, warm white glow), car state (folded taco), end credits (commute home), Karen (RISE 2). Aligned with Prop Bible v2.2._
 _19 scenes / 44 shots / approx. 5–7 minute runtime_
