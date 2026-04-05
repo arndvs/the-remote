@@ -131,9 +131,19 @@ From the front this looks like a painting of a bed rotated 90 degrees and set in
 
 In this state the bed is no longer furniture — it is a presence. It stands with the same authority as a wall, and it rolls with the same patience as something that has nowhere else to be. The struts are fully extended, angled slightly outward. The casters roll silently beneath.
 
-This is the bed for the entire Gauntlet sequence — through the bedroom, hallway, bathroom, closet, kitchen, driveway, and car. It does not return to STATE ONE until Dave has left for the bar at the end of the day.
+This is the bed for the entire Gauntlet sequence — through the bedroom, hallway, bathroom, closet, kitchen, and driveway. In the car, the bed transitions to a folded configuration (see below). It does not return to STATE ONE until the bed arrives home at the end of the day.
 
 _Visual note: The complete-bed quality of STATE THREE must be preserved in every shot. If a shot makes the bed look like a bare frame — through angle, lighting, or framing — adjust until the mattress and pillow read clearly. The audience must always be able to think "that is a bed" even while their eyes are telling them "that cannot be what I think it is."_
+
+### STATE FOUR: FOLDED (Car)
+
+Inside the car, the bed is folded in half — like a taco. The back panel and the foot section have hinged toward each other, creating a V-shape that wedges into the back seat. This is a variation of STATE TWO that exists only for containment. The back of the bed is visible behind Dave's headrest. The side rails are visible through the side windows. The mattress is folded with it — still held by the retention system, compressed between the two halves.
+
+The bed reads as "something large in the back seat" before your brain processes what it is. The hum continues through the upholstery — low, filtered, present but contained.
+
+We never see the bed enter the car or fold into this configuration. The edit does the work: the last driveway shot shows Dave being rolled toward his car in STATE THREE. Cut. Next shot is Dave in the driver's seat, the bed already folded in the back. We never see it unfold either — the next time we see the bed, it is vertical again in the parking lot.
+
+_Visual note: The folded bed in the rearview mirror is a confirmation shot, not an analysis shot. Keep it a close-up on the mirror. The reflection shows a dark surface, an edge, a compressed V-shape. Enough to confirm. Not enough to measure._
 
 ---
 
@@ -177,7 +187,7 @@ The hum is the bed's voice. It is the only way the bed communicates, and it comm
 | Bed rising (STATE TWO)                | Medium                                                            | Medium                                     | Confident. Unhurried.              |
 | First vertical nudge                  | Slightly higher                                                   | Medium                                     | Patient. Matter of fact.           |
 | Hallway — first movement              | Medium                                                            | Medium                                     | The job has begun.                 |
-| Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + two quiet pillow puffs | Low                                        | Getting dressed. Parallel to Dave. |
+| Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + slow pillow exhale     | Low                                        | Getting dressed. Parallel to Dave. |
 | Kitchen — coffee scene                | Higher                                                            | Higher                                     | Purposeful. This is important.     |
 | Car — muffled through upholstery      | Low (filtered)                                                    | Low                                        | Present but contained.             |
 | Office hours                          | Very low                                                          | Barely audible                             | A presence, not a force.           |
@@ -259,31 +269,13 @@ Embedded in the frame's inner rails is a single integrated remaking system that 
 
 ### When We See It
 
-**The bathroom wait** is the primary moment — the film's best held beat, now with content. The bed is doing two things at once: waiting for Dave and remaking itself. Both at the same unhurried pace.
+The self-making mechanism is visible at three points during the morning sequence. The specific editorial choices — how to intercut it with Dave, where to place the payoff beat — are documented in the Visual Reference Guide (Scenes 5, 7, and 7A). What follows here is the state of the mechanism at each point, for collaborators who need to know what to build or generate.
 
-While Dave showers, we cut to: the bed, vertical, outside the bathroom door. The sheet tensioning bar is moving — slowly, visibly, a wrinkle smoothing every few seconds, the surface pulling gradually taut from the center outward. The hum underneath. The faint whisper of the bar. The bed is perhaps a third of the way through its pass.
+**During the bathroom wait:** The sheet tensioning is visibly in progress — approximately one-third through its pass. Wrinkles smoothing every few seconds, the surface pulling gradually taut from the center outward. The pillow node has begun its cycle but is not yet finished. The bed is perhaps a third of the way through its full remaking.
 
-Cut back to Dave — fumbling, rushed, chaotic.
+**During the closet sequence:** The sheet is nearly taut — last few wrinkles smoothing toward the corners. The pillow is fuller but not yet centered. The mechanism is close but not done.
 
-Cut back to the bed — the bar still moving. Unhurried. Another wrinkle gone.
-
-The contrast is not that the bed is faster than Dave. It is that the bed is calmer. Dave is scrambling to be ready. The bed is simply becoming ready, at whatever rate it becomes ready, without scrambling at all.
-
-**The closet** is a background detail — visible but not dwelt on. While Dave is inside failing at his outfit, a shot of the bed at the entrance: the sheet nearly taut now, the last few wrinkles smoothing toward the corners. The mechanism is close but not done. The bed was further along than Dave before Dave had even started.
-
-**The tie — the payoff.** Dave emerges correctly dressed and is rolled down the hallway. He reaches for his tie. The pillow node has been running its slow cycle. This is when it finishes.
-
-The edit:
-
-_Close-up: the pillow at the top of the vertical bed. A soft, slow exhale of the node. The pillow settles. Centers. Still._
-
-_Cut to: Dave's hands fighting the knot while being rolled forward. Wrong. Still wrong. Slightly less wrong._
-
-_He looks down at it._
-
-_DAVE: "Good enough."_
-
-The bed took the whole morning. It used every minute available to it, without rushing, without worrying. It is done. Dave took the same morning and produced a sideways knot. "Good enough" is Dave's entire relationship with his own life — and the cut from the pillow, from that slow final exhale and perfect stillness, makes that land without a word of explanation.
+**During the hallway / tie beat:** The pillow node completes its full cycle. One slow final exhale. The pillow settles, centers, stills. The self-making is complete. The bed is made.
 
 ### The Visual Logic
 
@@ -293,21 +285,19 @@ The self-making should never look magical or instantaneous. It should look _mech
 
 ### The Payoff
 
-The film ends at 5pm. Dave says goodbye, walks to the elevator. The bed begins to fold itself flat.
-
-End credits: the bed, already made, resting. Remote glowing. Everything that happens after that — the bar, the ride home, the next morning — lives in the audience's imagination. We've seen the night before in the flashbacks. We don't need to see this one. The cycle is understood without being shown.
+The self-making completes during the tie beat in the hallway — before the kitchen, before the commute, before the office. The bed has been made since the first act. It remains made for the entire rest of the film. When it commutes home alone at the end of the day, it is already made. When it folds flat in the bedroom, the sheets are already taut. There is nothing left to prepare. The morning's work was done before Dave finished getting dressed.
 
 ---
 
 ## 1.9 — THE BED'S COMMUTE HOME & END CREDITS
 
-> **⚠️ TODO (v2.1):** The commute home is described below as a surprise. Verify against the screenplay's scene order — the epilogue structure may have already disclosed the bed's return before this sequence lands. Resolve in next script draft review.
-
 When Dave says goodbye and heads for the elevator, the bed waits until he is gone. Then it turns and leaves.
 
 **The commute home** is a single wide shot — the bed rolling down a city sidewalk alone, vertical, unhurried, in late afternoon light. No Dave. No one pushing. The bed is simply going home. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not.
 
-This shot is the tonal counterpart to every Gauntlet shot in the film. All day the bed has been behind Dave, pushing. Now it is alone, rolling at its own pace, going somewhere by choice. It is the only moment in the film where the bed is completely free. It uses that freedom to go home and make sure everything is ready.
+The bed is already made. It has been made since the morning. The sheets are taut. The pillow is centered. There is nothing left to prepare. It is going home to fold itself flat and wait.
+
+This shot is the tonal counterpart to every Gauntlet shot in the film. All day the bed has been behind Dave, pushing. Now it is alone, rolling at its own pace, going somewhere by choice. It is the only moment in the film where the bed is completely free. It uses that freedom to go home.
 
 **The return sequence:**
 
@@ -527,8 +517,6 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 
 ---
 
-_THE REMOTE — Prop Bible v2.2_
-_Changes from v2.1: Self-making mechanism consolidated from two systems to one integrated system with a single pillow node (not two). Sheet tensioning duration extended to span the full morning sequence — still visibly in progress at bathroom, nearing completion at closet, done by the tie beat. Pillow node rewritten as a slow sustained cycle rather than discrete puffs. Overall character of the remaking: slow, measured, methodical, calm. The mechanism is not trying to finish quickly. It has the whole morning and it uses it._
-_Changes from v2.0: Self-making mechanism timing restructured. Sheet tensioning and pillow work now run during the bathroom wait (active, visible, in progress). Final pillow settling held until the tie beat in the hallway. Closet moment reframed as brief background detail._
-_Changes from v1.9: Removed all walking/strut-locomotion references; bed moves via rolling caster base throughout. Removed anthropomorphizing beat (Dave/headboard). Clarified remote as single-function device. Added TODO flag on commute home surprise vs. epilogue sequencing. Quick Reference appendix corrected to match body text on movement mechanism. No headboard._
+_THE REMOTE — Prop Bible v2.3_
+_Changes from v2.2: Added STATE FOUR (Car/folded taco). Extracted editorial content from 1.8 — intercut descriptions and shot-by-shot edit beats moved to Visual Reference (Scenes 5, 7, 7A); Prop Bible retains mechanism state at each point. Updated 1.9 end credits: bed is already made (self-making completed in Act 2), commute home is the credits shot, removed TODO flag (resolved: epilogue handles the cycle, commute home is the surprise). Fixed hum table bathroom row (pillow puffs → slow exhale). STATE THREE scope excludes car (folded state is distinct)._
 _This document is canonical. All other prop descriptions defer to this one._
