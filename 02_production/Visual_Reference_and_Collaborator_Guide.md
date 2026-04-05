@@ -75,7 +75,7 @@ The bed is a complete bed in every state — frame, mattress, fitted sheet, pill
 
 The bed is dark charcoal with a faint cool blue undertone. It will absorb light rather than reflect it. Light it like the room — same sources, same temperature — or it will look composited.
 
-The remote is slim, matte black, with one large circular button labeled RISE that glows steady warm white. The back has fine-print text. (See Prop Bible 2.2–2.4 for full spec.) In the car, the bed folds in half like a taco — a V-shape wedged into the back seat. (See Prop Bible 1.4, STATE FOUR.)
+The remote is slim, matte black, with one large circular button labeled PUSH that glows steady warm white. The back has fine-print text. (See Prop Bible 2.2–2.4 for full spec.) In the car, the bed folds in half like a taco — a V-shape wedged into the back seat. (See Prop Bible 1.4, STATE FOUR.)
 
 ### The Bed's Personality
 
@@ -176,9 +176,9 @@ The bed makes itself during the morning routine — slowly, in parallel with Dav
 
 **The shot:** Dave's POV, looking at the nightstand. Rack focus from the water glass to the remote.
 
-**The remote close-up:** The glowing RISE button should feel almost inviting. Like a helpful thing. It has no idea what it's about to cause.
+**The remote close-up:** The glowing PUSH button should feel almost inviting. Like a helpful thing. It has no idea what it's about to cause.
 
-**What the remote does:** One button. One function. It initiates Morning Drive Mode. That is the complete list. It cannot adjust the bed's position, control any other feature, or stop Morning Drive Mode once started. When Dave presses it again to try to stop the bed, the button gives the same brief glow confirmation and nothing else changes. The remote is not broken. It has nothing further to act on.
+**What the remote does:** One button. One function. It initiates Push Mode. That is the complete list. It cannot adjust the bed's position, control any other feature, or stop Push Mode once started. When Dave presses it again to try to stop the bed, the button gives the same brief glow confirmation and nothing else changes. The remote is not broken. It has nothing further to act on.
 
 ---
 
@@ -299,7 +299,7 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then we see, across the floor, Marcus. Then we see Marcus's bed.
 
-**Marcus's bed:** Same brand — RISE™ — but an older model. The RISE 2. Slightly warmer gray, softer corners, a slightly higher baseline hum pitch from the older motor. Same fundamental character as Dave's bed — patient, relentless, professional — but with more mornings behind it. It has seen things.
+**Marcus's bed:** Same brand, same product — the PUSH by RISE™, same generation as Dave's. Different colorway: warm gray frame (slightly lighter, slightly warmer than Dave's dark charcoal). Different soft goods: a duvet in a warm domestic color over different sheets, different pillowcase. Same hardware, same hum, same behavior. The visual variety prevents the beds from reading as a single duplicated prop, while the identical hardware confirms they made the same purchase.
 
 **The pause:** Let it go at least 3 full seconds. Maybe 4. The longer the silence, the more it lands.
 
@@ -319,7 +319,7 @@ Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then 
 
 ### SCENE 16 — Karen
 
-**Karen is the world-building scene.** Her revelation that she also had a RISE™ bed — the RISE 2, previous generation — and that it "made her a VP" does two things:
+**Karen is the world-building scene.** Her revelation that she had the original PUSH — the first generation — and that it "made her a VP" does two things:
 
 1. Establishes that this is a real product people use
 2. Reframes the bed as aspirational
@@ -411,7 +411,7 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ---
 
-_THE REMOTE — Visual Reference & Collaborator Guide v2.1_
-_Updated to align with Prop Bible v2.3. Spec content replaced with cross-references to the Prop Bible. Staging decisions (shower curtain nudge, elevator handling, conference room framing) absorbed from Bed Proportions Guide. Self-making editorial intercuts (bathroom, closet, tie/pillow payoff) now live here, with mechanism spec deferred to Prop Bible 1.8. End credits: bed is already made._
+_THE REMOTE — Visual Reference & Collaborator Guide v3.0_
+_Updated: Product rebrand (PUSH by RISE™). Button label PUSH. Push Mode (was Morning Drive Mode). Marcus: same PUSH, different colorway + soft goods (was RISE 2). Karen: "original PUSH" (was RISE 2). Aligned with Prop Bible v3.0._
 _The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._
