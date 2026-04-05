@@ -4,6 +4,18 @@ _The "Trash Truck" Problem: Making an Impossible Object Feel Inevitable_
 
 ---
 
+## DOCUMENT HIERARCHY
+
+This document governs how to solve the bed's geometry in each environment. It is one of three production documents:
+
+- **[Prop Bible](prop_bible.md)** — governs what the bed is (physical spec, states, mechanism, sound). **Canonical. In any conflict, the Prop Bible is correct.**
+- **[Visual Reference Guide](Visual_Reference_and_Collaborator_Guide.md)** — governs how to shoot the film (camera, editing, staging decisions, editorial intercuts).
+- **This document** — governs how to make the impossible geometry work in every specific environment. For the production designer, environment builder, VFX supervisor, and AI prompt operator.
+
+_Written against Prop Bible v2.3._
+
+---
+
 ## THE CORE CHALLENGE
 
 A real queen-size adjustable bed base is approximately **60 inches wide, 80 inches long, and 14–18 inches tall when flat.** When raised to vertical, it becomes a rectangle roughly **5 feet wide and 6.5 feet tall.**
@@ -82,7 +94,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **When Dave exits:** He steps out _around_ the bed — squeezing past it sideways, not walking through it. The bed moves back slightly to let him pass, then resumes. This is a realistic and funny physical beat.
 
-**The shower curtain nudge:** Because the bed is at the doorway — not inside the bathroom — it cannot physically reach the shower curtain. The nudge is communicated entirely through _sound and Dave's reaction_: the motor hum changes pitch slightly, Dave reacts from behind the curtain as if nudged, the curtain moves from his own movement. The audience has already accepted the bed's personality; they don't need to see the contact. This is actually funnier — the bed enforces its will without being visible.
+**The shower curtain nudge:** Because the bed is at the doorway — not inside the bathroom — it cannot physically reach the shower curtain. This is a geometry fact that drives a staging decision: the nudge is communicated entirely through sound and performance, not physical contact. See the [Visual Reference Guide, Scene 5](Visual_Reference_and_Collaborator_Guide.md) for the full staging approach.
 
 ---
 
@@ -136,9 +148,9 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Desk positioning:** Dave's desk (and Marcus's) should be positioned so the bed behind the chair has at least 2–3 feet of clearance on all sides. The bed should look _parked_, not crammed. Like someone brought in a standing desk, but weirder.
 
-**The conference room:** This is the hardest office shot. Showing the bed at a conference table requires careful framing. The solution: Dave and Marcus sit at the end of the table, near the wall. Their beds are behind them, against the wall. The beds take up the "extra space" that always exists at the end of a conference table. Frame from the middle of the table looking toward the end — the beds are visible but integrated into the composition rather than jutting awkwardly.
+**The conference room:** This is the hardest office shot. The geometry solution: Dave and Marcus sit at the end of the table, near the wall. Their beds are behind them, against the wall. The beds take up the "extra space" that always exists at the end of a conference table. The framing approach is documented in the [Visual Reference Guide, Scene 15](Visual_Reference_and_Collaborator_Guide.md) — from a geometry standpoint, the conference room should be built with clearance for two beds behind end-of-table chairs.
 
-**The elevator:** Never show the bed and Dave in the elevator at the same time if it strains credibility. The doors close on Dave with the bed implied behind him. The doors open and they exit together. The interior of the elevator is not shown in a way that requires accurate spatial logic.
+**The elevator:** The bed cannot credibly share the elevator interior with Dave in a single visible shot. The geometry solution: never show the interior. The doors close with the bed implied behind Dave. The doors open and they exit together. The ride is hidden by the closed doors. The edit does the work.
 
 ---
 
@@ -150,7 +162,7 @@ The most powerful tool is the cut. When the geometry truly doesn't work — the 
 
 ### Rule 2: Frame Wide or Frame Close. Never Medium.
 
-Medium shots invite spatial analysis. When the audience can see both Dave, the bed, and the surrounding walls simultaneously in a medium shot, they start measuring. Avoid this. Either go wide enough that the whole composition reads as an illustration (and illustrations have their own logic), or go close enough on Dave's face that the background is shallow and soft.
+Medium shots invite spatial analysis. This is a geometry rule, not just a camera philosophy — when the audience can see both Dave, the bed, and the surrounding walls simultaneously in a medium shot, they start measuring the space and the illusion weakens. Either go wide enough that the whole composition reads as an illustration, or go close enough that the background is shallow and soft. (This rule also appears in the [Visual Reference Guide's Camera Philosophy](Visual_Reference_and_Collaborator_Guide.md) from a directorial perspective.)
 
 ### Rule 3: Light the Bed Like the Room
 
@@ -184,7 +196,7 @@ When generating shots involving the bed in tight spaces, use this language:
 
 **For the car (edit approach — never show entry):**
 
-> "...in the back seat of a large SUV, the partially reclined adjustable bed base is visible in the rearview mirror. It occupies the back seat the way large luggage occupies a back seat — present, contained, accepted."
+> "...in the back seat of a large SUV, the adjustable bed base is folded in half — a V-shape wedged into the back seat, visible in the rearview mirror. It occupies the back seat the way large luggage occupies a back seat — present, contained, accepted."
 
 **For the office (environment design — most forgiving space):**
 
@@ -226,6 +238,6 @@ Before finalizing any shot:
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v2.0_
-_Updated: Title (The Remote), brand (RISE™), Marcus (RISE 2, same brand), car state (folded taco/STATE TWO variant), movement (rolls not walks). Aligned with Prop Bible v2.2._
+_THE REMOTE — Bed Proportions Guide v2.1_
+_Updated: Added document hierarchy front-matter. Staging decisions (shower curtain nudge, conference room framing, elevator handling) now cross-ref Visual Reference as canonical staging source. Camera Rule 2 cross-refs Visual Reference camera philosophy. Car AI prompt updated for folded taco state. Written against Prop Bible v2.3._
 _"The truck always fits. The bed always fits. The audience always believes."_
