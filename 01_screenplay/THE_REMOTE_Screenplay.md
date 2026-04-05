@@ -144,10 +144,7 @@ _Back to Dave. The light is slightly brighter now. More accusatory._
 
 _Dave lowers his hands. Surveys the room with one eye. His gaze drifts to the nightstand._
 
-_There, next to the untouched glass of water, is a slim black remote. One large button glows softly. Beside it, a small sticker on the device reads:_
-
-**_PUSH by RISE™_**
-_"For People Who Need A Little Push"_
+_There, next to the untouched glass of water, is a slim black remote. One large button glows softly. A small wordmark on the body reads RISE™. The button reads PUSH._
 
 _Dave stares at it._
 
