@@ -688,5 +688,5 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 ---
 
 _THE REMOTE — AI Shot List v2.0_
-_Updated: Title (The Remote), brand (RISE™/RISE 2), remote details (RISE button, warm white glow), car state (folded taco), end credits (commute home), Karen (RISE 2). Aligned with Prop Bible v2.2._
+_Updated: Title (The Remote), brand (RISE™/RISE 2), remote details (RISE button, warm white glow), car state (folded taco), end credits (commute home), Karen (RISE 2). Aligned with Prop Bible v2.3._
 _19 scenes / 44 shots / approx. 5–7 minute runtime_

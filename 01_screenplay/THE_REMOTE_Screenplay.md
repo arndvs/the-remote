@@ -708,7 +708,7 @@ The **RISE™ sticker** should be readable at least twice — once in the bedroo
 ---
 
 _THE REMOTE — Screenplay v2.0_
-_Updated: Title, brand (RISE™), end credits (commute home), car state (folded/taco), movement (rolls, not walks). Aligned with Prop Bible v2.2._
+_Updated: Title, brand (RISE™), end credits (commute home), car state (folded/taco), movement (rolls, not walks). Aligned with Prop Bible v2.3._
 _Total estimated runtime: 5–7 minutes_
 
 ---
