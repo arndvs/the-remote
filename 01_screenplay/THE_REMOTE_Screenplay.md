@@ -382,13 +382,15 @@ _The hum rises._
 
 _Dave pulls forward. Past the window. Out of the drive-through._
 
+_The WORKER watches him go — coffee-less, unprompted, for no apparent reason. She holds the empty pickup tray for a moment. Looks at the next car in line. Back at Dave's taillights. Decides it's not her problem._
+
 ---
 
 **BEAT 2 — THE STOP LIGHT**
 
 _Red light. A city bus pulls up alongside Dave's stopped car. Windows full of commuters._
 
-_A COMMUTER on the bus sips from a coffee thermos with a satisfied expression. Dave watches. Empty-handed._
+_A COMMUTER wearing headphones, on the bus sips from a coffee thermos with a satisfied expression. Dave watches. Empty-handed. His eyes drift down to his cup holder — empty, perfectly sized for the coffee he didn't get to keep._
 
 _The light turns green._
 
@@ -423,28 +425,31 @@ Morning.
 **RECEPTIONIST**
 Rough one?
 
-_Dave keeps walking._
+_Dave keeps walking. Doesn't answer._
 
-**DAVE**
-Morning.
-
-_She watches him go. Returns to her computer. He heads for the elevator._
+_She watches him go. Returns to clacking at her keyboard. He heads for the elevator._
 
 ---
 
 ### SCENE 13 — INT. OFFICE ELEVATOR — MORNING
 
-_Dave and the bed get in. A COWORKER is already inside._
+_Dave and the bed are already inside. We did not see them get in. The doors are closed. The hum fills the small space._
 
-_The coworker looks at the floor numbers._
+_The elevator stops. Doors open. A COWORKER steps in — sharp suit, skip in his step, fresh haircut, whistling something upbeat to himself. He doesn't look at Dave. Doesn't look at the bed._
 
-_Doesn't say anything._
+**COWORKER**
+_(glancing at the buttons, still whistling)_
+Hey — hit seven for me?
 
-_Dave doesn't say anything._
+_Dave presses seven. They're on six._
 
-_The doors open. They both exit. The coworker goes right. Dave goes left._
+_The floor indicator ticks up one number._
 
-_The bed follows Dave._
+_The doors open. The coworker steps out mid-whistle. Doesn't look back._
+
+_Dave and the bed remain. The doors close._
+
+_Cut._
 
 ---
 
