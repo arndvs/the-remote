@@ -181,25 +181,25 @@ The hum is the bed's voice. It is the only way the bed communicates, and it comm
 
 **Pitch and volume modulation across the film:**
 
-| Moment                                | Pitch                                                             | Volume                                     | Character                          |
-| ------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------ | ---------------------------------- |
-| First activation (button press)       | Medium, rising slightly                                           | Low, building                              | Waking up. Dignified.              |
-| Bed rising (STATE TWO)                | Medium                                                            | Medium                                     | Confident. Unhurried.              |
-| First vertical nudge                  | Slightly higher                                                   | Medium                                     | Patient. Matter of fact.           |
-| Hallway — first movement              | Medium                                                            | Medium                                     | The job has begun.                 |
-| Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + slow pillow exhale     | Low                                        | Getting dressed. Parallel to Dave. |
-| Kitchen — coffee scene                | Higher                                                            | Higher                                     | Purposeful. This is important.     |
-| Car — muffled through upholstery      | Low (filtered)                                                    | Low                                        | Present but contained.             |
-| Office hours                          | Very low                                                          | Barely audible                             | A presence, not a force.           |
-| 2PM — pressing firmly                 | Medium                                                            | Medium                                     | Still on duty.                     |
-| 3PM — easing off                      | Low, dropping                                                     | Lower                                      | The day is working.                |
-| 3:45PM — lets Dave get water          | Very low                                                          | Barely audible                             | Watchful. Not pushing.             |
-| 4:58PM — report sent                  | Single low exhale note                                            | Brief                                      | Satisfaction.                      |
-| "See you tomorrow" — turns and leaves | Low, steady                                                       | Unhurried. It has somewhere to be.         |
-| Commute home — city street            | Medium, warm                                                      | Content. Moving by choice, not obligation. |
-| Bedroom — turning to face door        | Very low, slowing                                                 | Settling. Almost ceremonial.               |
-| Bedroom — folding flat                | Low, fading                                                       | Home.                                      |
-| End credits — next morning street     | Medium, rising                                                    | The cycle has already resumed.             |
+| Moment                                | Pitch                                                         | Volume                                     | Character                          |
+| ------------------------------------- | ------------------------------------------------------------- | ------------------------------------------ | ---------------------------------- |
+| First activation (button press)       | Medium, rising slightly                                       | Low, building                              | Waking up. Dignified.              |
+| Bed rising (STATE TWO)                | Medium                                                        | Medium                                     | Confident. Unhurried.              |
+| First vertical nudge                  | Slightly higher                                               | Medium                                     | Patient. Matter of fact.           |
+| Hallway — first movement              | Medium                                                        | Medium                                     | The job has begun.                 |
+| Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + slow pillow exhale | Low                                        | Getting dressed. Parallel to Dave. |
+| Kitchen — coffee scene                | Higher                                                        | Higher                                     | Purposeful. This is important.     |
+| Car — muffled through upholstery      | Low (filtered)                                                | Low                                        | Present but contained.             |
+| Office hours                          | Very low                                                      | Barely audible                             | A presence, not a force.           |
+| 2PM — pressing firmly                 | Medium                                                        | Medium                                     | Still on duty.                     |
+| 3PM — easing off                      | Low, dropping                                                 | Lower                                      | The day is working.                |
+| 3:45PM — lets Dave get water          | Very low                                                      | Barely audible                             | Watchful. Not pushing.             |
+| 4:58PM — report sent                  | Single low exhale note                                        | Brief                                      | Satisfaction.                      |
+| "See you tomorrow" — turns and leaves | Low, steady                                                   | Unhurried. It has somewhere to be.         |
+| Commute home — city street            | Medium, warm                                                  | Content. Moving by choice, not obligation. |
+| Bedroom — turning to face door        | Very low, slowing                                             | Settling. Almost ceremonial.               |
+| Bedroom — folding flat                | Low, fading                                                   | Home.                                      |
+| End credits — next morning street     | Medium, rising                                                | The cycle has already resumed.             |
 
 **The most important hum:** The single exhale note at 4:58pm when Dave finishes the Hendricks report. This is the emotional peak of the bed's arc. It should be mixed so that Dave registers it. The audience should feel it as a moment of genuine communication between two beings who have spent a very long day together.
 
@@ -328,21 +328,21 @@ Same frame construction, same strut profile, same caster base, same motor, same 
 
 ### Colorway (personal choice)
 
-| Element       | Dave's PUSH                   | Marcus's PUSH                                                 |
-| ------------- | ----------------------------- | ------------------------------------------------------------- |
-| Frame color   | Dark charcoal, cool undertone | Warm gray — slightly lighter, slightly warmer                 |
-| Frame profile | Identical                     | Identical                                                     |
-| Brand sticker | Current PUSH design           | Same PUSH design, same layout                                 |
+| Element       | Dave's PUSH                   | Marcus's PUSH                                 |
+| ------------- | ----------------------------- | --------------------------------------------- |
+| Frame color   | Dark charcoal, cool undertone | Warm gray — slightly lighter, slightly warmer |
+| Frame profile | Identical                     | Identical                                     |
+| Brand sticker | Current PUSH design           | Same PUSH design, same layout                 |
 
 The PUSH comes in at least two colorways. Dave chose dark charcoal. Marcus chose warm gray. This is a consumer product with options — which grounds the world.
 
 ### Soft Goods (personal — not the product)
 
-| Element    | Dave                                                     | Marcus                                                                 |
-| ---------- | -------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Sheets     | Navy fitted sheet, slightly rumpled                      | Different color — warmer tones (olive, rust, or deep burgundy)         |
-| Duvet      | None — just the fitted sheet                             | Duvet cover in a warm, domestic color. Someone who owns throw pillows. |
-| Pillowcase | White, standard                                          | Different color — coordinated with his sheets                          |
+| Element    | Dave                                | Marcus                                                                 |
+| ---------- | ----------------------------------- | ---------------------------------------------------------------------- |
+| Sheets     | Navy fitted sheet, slightly rumpled | Different color — warmer tones (olive, rust, or deep burgundy)         |
+| Duvet      | None — just the fitted sheet        | Duvet cover in a warm, domestic color. Someone who owns throw pillows. |
+| Pillowcase | White, standard                     | Different color — coordinated with his sheets                          |
 
 The pillow itself is PUSH hardware — it contains the pneumatic reshaping node. The pillowcase is Marcus's. The sheets are Marcus's. The duvet is Marcus's.
 
@@ -436,7 +436,7 @@ Note: Push Mode cannot be manually
 interrupted once initiated. This is a feature,
 not a limitation. Have a productive day!
 
-For support: rise.co/help
+For support: riseawake.com/help
 ```
 
 **Typography:** The same font family as the front wordmark, but in its lightest weight. This text is meant to be readable in good light by someone who is specifically trying to read it. It is not meant to be noticed casually. It rewards the specific act of turning the remote over and looking — which is exactly what Dave does.
