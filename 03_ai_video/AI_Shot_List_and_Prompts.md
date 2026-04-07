@@ -397,6 +397,20 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
+### SHOT 026A
+
+**Scene:** The radio — Ludacris whistle / fuel gauge discovery
+**Duration:** 10–12 seconds
+**Camera:** Interior. Medium on Dave, with close-up insert on fuel gauge.
+
+**AI PROMPT:**
+
+> Interior car shot, morning. A man in his early 30s sits in the driver’s seat, having just started the car. He adjusts the rearview mirror (reflection of the bed in the back seat visible briefly). He begins to whistle — quietly, unconsciously, matching something on the radio. His expression is not happy, not sad — just a man with a tune and a bed in his back seat. He pulls out of the driveway. Still whistling. Then he glances down. Close-up insert: the dashboard fuel gauge — the needle is well past the empty line, the low fuel warning light glowing amber. Cut back to his face — the whistle stops abruptly, mid-phrase. His expression flattens. He reaches over and turns off the radio. Silence. He stares at the road ahead. Morning commute light. Cinematic.
+
+**NOTES:** The whistle should feel unconscious — found, not performed. The fuel gauge close-up should read instantly: this light has been on since yesterday. The whistle stopping mid-phrase is the beat — hold the silence after the radio cuts. Dave says "...yeah" very quietly (implied by expression). License note: the intro whistle of "Move Bitch" by Ludacris. Instrumental only. No lyrics.
+
+---
+
 ### SHOT 027
 
 **Scene:** Drive-through — machine is down
@@ -422,18 +436,60 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 > Shot from inside a car stopped at a red light. A city bus pulls up alongside. Through the bus window, a single COMMUTER sips from a coffee thermos with a satisfied expression. The driver of the car (man, early 30s, slightly disheveled) watches the commuter. Empty-handed. The light turns green. The car moves. Morning commute light.
 
 **NOTES:** No one on the bus reacts to the bed. No acknowledgment, no staring. The only detail is one commuter sipping coffee in Dave's eyeline — he watches, empty-handed. The coffee thread pays off here: he lost it in the kitchen, the drive-through failed, and now someone else has it.
+---
 
+### SHOT 028A
+
+**Scene:** Gas station approach — the bed warns
+**Duration:** 5–6 seconds
+**Camera:** Interior. Medium on Dave. Gas station visible through windshield.
+
+**AI PROMPT:**
+
+> Interior car shot, morning. A man in his early 30s driving in slightly disheveled office clothes. Through the windshield, a gas station approaches on the right. He begins to slow. From the back seat, a low hum shifts in tone — subtly higher, more pointed. The man looks at the gas station through the passenger window. Looks back at the road ahead. The hum shifts again — shorter, more dismissive. The man straightens up and drives past the gas station. The hum settles. Morning light. The car continues down the road.
+
+**NOTES:** The bed’s warning hum here is distinct from the drive-through escalation. This is impatience, not urgency — contempt for the detour, not fear of delay. The hum and the gas station should land at the same moment for the audience. Dave’s decision to drive past is quick — not agonized. The bed settled the argument.
+
+---
+
+### SHOT 028B
+
+**Scene:** The car dies
+**Duration:** 4–5 seconds
+**Camera:** Interior to exterior transition.
+
+**AI PROMPT:**
+
+> Interior car shot. A man in his early 30s driving normally on a suburban road. The car sputters — a mechanical cough. The engine dies. Dashboard warning lights illuminate. The car coasts to the shoulder of the road and stops. Total silence inside the car except for the adjustable bed’s hum continuing unchanged from the back seat, patient and baseline. The man sits in the dead car for a long beat. His expression is not surprise — it is the face of a man who knew this was coming. Morning light. Cinematic.
+
+**NOTES:** The bed’s hum does not change when the car dies. The car is Dave’s problem. The bed has a schedule. Hold the silence in the dead car — three seconds minimum. The hum continuing at baseline while everything else has stopped is the joke.
+
+---
+
+### SHOT 028C
+
+**Scene:** PUSH → Dave → car — highway shoulder
+**Duration:** 6–8 seconds
+**Camera:** Wide. Static or slow tracking. Highway shoulder.
+
+**AI PROMPT:**
+
+> Wide shot of a highway shoulder in morning light. A man in his early 30s in office clothes — shirt slightly untucked, tie loose — pushes a sedan from behind, both hands flat on the trunk. Behind him, a fully vertical adjustable bed base rolls forward steadily, pushing the man who is pushing the car. Three objects in a line on a highway shoulder — bed, man, car — all moving slowly forward. The scale of the empty highway around them. Other cars pass occasionally in the far lanes. The bed is upright, composed, unhurried. The man is not struggling dramatically — he has adapted. He is just pushing. Hold this image. Cinematic. Slightly wide lens to capture the absurd scale of the composition.
+
+**NOTES:** This is the commute’s visual payoff and possibly the funniest single image in the film. The chain — PUSH → Dave → car — extends the central joke into new territory. Dave is passive even while pushing: he’s not solving anything, just moving forward because the bed is moving forward. Shoot it wide enough to feel the highway. Hold just long enough to land. Then HARD CUT to Shot 029.
 ---
 
 ### SHOT 029
 
-**Scene:** Parking lot walk
+**Scene:** Parking lot walk — hard cut from highway shoulder
 **Duration:** 4 seconds
 **Camera:** Wide. Tracking backward.
 
 **AI PROMPT:**
 
-> Wide shot tracking backward in front of a man in his early 30s walking through a corporate office building parking lot. Bad tie knot. Empty hands. Behind him: a large vertical adjustable bed base rolls along, humming. An employee heading in from the other direction passes him without breaking stride. The man with the bed doesn't acknowledge it either. Office building fills the background, getting closer. Morning light.
+> Wide shot tracking backward in front of a man in his early 30s walking through a corporate office building parking lot. His shirt is untucked, tie worse than before, a light sheen of exertion on his face — he looks noticeably more disheveled than the last time we saw him indoors. Empty hands. Behind him: a large vertical adjustable bed base rolls along, humming, utterly unruffled — exactly as composed as it was at the start of the day. An employee heading in from the other direction passes him without breaking stride. The man with the bed doesn’t acknowledge it either. Office building fills the background, getting closer. Morning light.
+
+**NOTES:** This is a HARD CUT from Shot 028C (highway shoulder). No transition. No explanation. Dave was pushing a car on a highway. Now he’s in a parking lot, worse for wear. The bed is pristine. What happened between those two shots is not shown. That gap is the joke.
 
 ---
 
@@ -591,15 +647,15 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 041
 
-**Scene:** 5:00 PM — Dave leaves
-**Duration:** 5–6 seconds
-**Camera:** Medium. Static. Office desk.
+**Scene:** 5:00 PM — Dave leaves, whistling
+**Duration:** 8–10 seconds
+**Camera:** Medium tracking. Office desk to elevator.
 
 **AI PROMPT:**
 
-> Medium shot of a man in his early 30s at an office desk in late afternoon golden light. The bed’s hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. Behind him, the adjustable bed base remains at the desk. Office golden hour light fading.
+> Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed’s hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
 
-**NOTES:** No goodbye. No pat. No bed folding. Dave just packs up and leaves. The hum rising is the bed responding to the group chat — it knows. The desk lamp click is the only punctuation.
+**NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
 
 ---
 
@@ -687,6 +743,6 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_THE REMOTE — AI Shot List v3.0_
-_Updated: Product rebrand (PUSH by RISE™), button label (PUSH), Push Mode, fine print updated, Karen (original PUSH), Marcus (same PUSH, different colorway + duvet). Aligned with Prop Bible v3.0._
-_19 scenes / 44 shots / approx. 5–7 minute runtime_
+_THE REMOTE — AI Shot List v4.0_
+_Updated: Commute rework — Shot 026A (Ludacris whistle / fuel gauge), Shots 028A–C (gas station approach, car dies, highway shoulder push), Shot 029 updated (hard cut landing), Shot 041 updated (whistle callback, bed departure). Aligned with Prop Bible v3.0._
+_19 scenes / 48 shots / approx. 5–7 minute runtime_

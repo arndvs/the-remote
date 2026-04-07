@@ -353,9 +353,37 @@ _Cut._
 
 _Dave drops into the driver's seat. Keys in hand. He starts the car._
 
+_The radio comes on. Already mid-station — something was playing when he turned it off last night. Just the opening bars. A whistle. Distinctive, climbing, unmistakable to anyone who has ever heard it._
+
+_"Move Bitch" — Ludacris. Just the intro whistle._
+
 _He reaches up to adjust the rearview mirror. In the reflection — the bed, folded in half like a taco, filling the back seat. The hum continues through the upholstery. We did not see it get in. It is there._
 
-_Dave looks at it for a moment. Then forward._
+_Something about the song. Something about the mirror. Something about the morning being underway._
+
+_Dave starts whistling along. Quietly, unconsciously — the way you whistle something that found you rather than something you chose. A man with a bed in his back seat and nowhere to be but forward._
+
+_He pulls out of the driveway._
+
+_He's still whistling._
+
+_He glances down._
+
+_The fuel gauge. Past empty. Not approaching empty — past it. The needle has given up arguing about it. The warning light has been on long enough that it's started to feel decorative._
+
+_The whistle stops._
+
+_Mid-phrase._
+
+_The radio keeps going for a beat. Then Dave reaches over and turns it off._
+
+_Silence. The bed hums._
+
+_Dave stares at the road._
+
+**DAVE**
+_(very quietly)_
+...yeah.
 
 _He drives._
 
@@ -396,9 +424,55 @@ _The light turns green._
 
 ---
 
+**BEAT 3 — THE GAS STATION**
+
+_⏱ TIMING NOTE: Three phases — the approach, the decision, and the consequence. The approach is slow. The decision is quick. The consequence is a hard cut. The comedy lives in the gap between what we see and what we don't._
+
+_Dave is driving. Normal speed. The morning is underway._
+
+_A gas station approaches on the right._
+
+_Dave begins to slow._
+
+_The hum from the back seat shifts — different from the drive-through escalation, different from the bathroom. Not concern. Not urgency. Impatience. The sound of a machine that has a schedule and does not appreciate detours. Push Mode does not have a gas station stop in it. Push Mode goes forward._
+
+_Dave looks at the gas station. Looks at the road ahead._
+
+_The bed hums again. Slightly more pointed. Slightly shorter._
+
+_Dave straightens up. Drives past the gas station._
+
+_The bed resumes its baseline hum. Satisfied. Correct. We're moving._
+
+_A beat of normal driving._
+
+_The car sputters._
+
+_Coughs._
+
+_Dies._
+
+_Dave coasts to the shoulder. Stops. Sits in the dead car in complete silence._
+
+_The bed hums. Baseline. Patient. The destination has not changed._
+
+_A beat. Dave sits there. Then he opens the door, gets out, and walks to the back of the car. He looks at it. Looks at the road ahead. Puts his hands on the trunk._
+
+_He doesn't need to be told. He already knows._
+
+_Dave starts pushing._
+
+_Wide shot. Highway shoulder. Dave in office clothes, hands on the trunk of a dead car. The PUSH rolls behind him, pushing Dave pushing the car. Three things in a line, moving forward, because that is the only option._
+
+**CUT TO:**
+
+---
+
 ### SCENE 11 — EXT. OFFICE BUILDING PARKING LOT — MORNING
 
-_Tracking backward. Dave walks toward camera — bad knot, empty hands, the bed rolling behind him. The office building fills the background, getting closer._
+_Tracking backward. Dave walks toward camera — shirt untucked, tie askew, the faint sheen of a man who has recently pushed something heavy on a highway shoulder. Empty hands. The bed rolling behind him, utterly unruffled. The office building fills the background, getting closer._
+
+_What happened between those two shots is not shown. The parking lot tells us everything we need to know. They got here. It took a while. Something happened out there._
 
 _An EMPLOYEE heading in from the other direction passes him. Doesn't break stride._
 
@@ -613,6 +687,16 @@ _The bed's hum rises slightly._
 
 _He packs his bag. Turns off the desk lamp. Heads for the elevator._
 
+_And he's whistling. Quietly. The same whistle from the car this morning — "Move Bitch" — just the intro. Not the same whistle as before. That one stopped mid-phrase when the fuel gauge got to it. This one is unhurried. Complete. A man thinking about tonight, about round two, about the friends already at the bar._
+
+_The elevator doors open. Dave steps in, still whistling._
+
+_The doors close._
+
+_The whistle is gone._
+
+_The office is empty. The bed waits until he is gone. Then it turns — slowly, deliberately — and heads for the exit._
+
 ---
 
 ---
@@ -679,6 +763,7 @@ _The remote glows softly on the nightstand._
 - **Bathroom through closet:** Medium. He's adapting. Still losing.
 - **Kitchen:** Fast. He's scrambling. The coffee scene works because he almost doesn't make it.
 - **Car:** The bed is contained — so it expresses speed through _sound_ (louder hum) and subtle car movement.
+- **Gas station / highway shoulder:** The bed is back in the open. Medium speed. Dave is pushing the car while being pushed. The comedy is in the chain: PUSH → Dave → car. Three things, one direction.
 - **Office:** The bed is in rest mode. Comedically slow. The humor inverts — now it's _too_ relaxed.
 - **End of day:** The bed barely moves. Dave moves on his own. We feel the arc complete.
 
@@ -690,6 +775,18 @@ The bed's **motor hum** is a character. Consider:
 - It should feel _patient_ — not aggressive, not punishing. The bed isn't angry. It just has a job.
 - When the bed slows down in the afternoon, the pitch lowers. When it speeds up, it rises.
 - In the end credits scene, the bed rolling home alone should have a quiet, unhurried hum — like a machine at peace.
+
+### The Whistle — Ludacris Thread
+
+Dave whistles the intro to "Move Bitch" by Ludacris twice in the film. Both times are purely instrumental — no lyrics, no title card. The intro whistle plays on the car radio; Dave picks it up unconsciously.
+
+**First whistle (Scene 10, car):** Found. Unconscious. Dave doesn't choose it — it was playing when the car turned on. He whistles along the way you whistle along to anything that matches the frequency of your morning. Interrupted mid-phrase when the fuel gauge registers. He kills the radio. The whistle and Dave have decoupled.
+
+**Second whistle (Scene 18, 5PM):** Earned. Unhurried. The same phrase, completed this time. Dave is heading for round two. The morning interrupted the song. The afternoon earned its resolution.
+
+The audience who recognizes the song gets a private joke about a man being pushed through his day whistling a song about making people move out of your way. The audience who doesn't just sees a man whistling on his commute.
+
+**The cross-video thread:** The RISE™ Move product teaser runs "Stand Up" by Ludacris ft. Shawnna — _"when I move you move, just like that."_ Both Ludacris. Both movement. The connection is never stated. The universe runs on Ludacris.
 
 ### Performance Notes — Dave
 
@@ -707,8 +804,8 @@ The **RISE™ / PUSH sticker** should be readable at least twice — once in the
 
 ---
 
-_THE REMOTE — Screenplay v3.0_
-_Updated: Product rebrand (PUSH by RISE™), button label (PUSH), Push Mode, Karen ("original PUSH"), Marcus (same PUSH, different colorway). Aligned with Prop Bible v3.0._
+_THE REMOTE — Screenplay v4.0_
+_Updated: Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.0._
 _Total estimated runtime: 5–7 minutes_
 
 ---

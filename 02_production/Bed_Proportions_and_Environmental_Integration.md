@@ -140,6 +140,18 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 ---
 
+### THE HIGHWAY SHOULDER
+
+**Reality:** Open road. No spatial constraints. The first environment in the film where the bed's proportions are genuinely not an issue.
+
+**The Remote version:** The bed is behind Dave, who is behind the car. Wide shot. The highway around them gives the composition scale and absurdity. This is the most visually straightforward environment in the film — no doorframes, no ceilings, no furniture to navigate around. The bed rolls on asphalt the same way it rolls on hardwood — smoothly, inevitably, without visible effort.
+
+**Camera rule:** Go wide. Wider than any interior shot. The scale of the highway — cars passing, lanes, the shoulder stretching ahead — is what makes the image funny. A man in office clothes pushing a dead car while a bed pushes him. The highway is the neutral container. The bed belongs here because the bed belongs everywhere.
+
+**Why it works:** No environment accommodation needed. The bed's lack of spatial constraint here is actually its most unsettling quality — out in the open, with nothing between it and the horizon, the bed looks more like a decision than a piece of furniture.
+
+---
+
 ### THE OFFICE
 
 **Reality:** Open-plan offices have high ceilings and wide aisles. This is actually the most accommodating environment for the bed.
@@ -233,6 +245,6 @@ Before finalizing any shot:
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v3.0_
-_Updated: Product rebrand (PUSH by RISE™). Marcus: same PUSH, different colorway + personal soft goods (was RISE 2). Sticker ref updated. Written against Prop Bible v3.0._
+_THE REMOTE — Bed Proportions Guide v4.0_
+_Updated: Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.0._
 _"The truck always fits. The bed always fits. The audience always believes."_

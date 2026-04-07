@@ -190,6 +190,9 @@ The hum is the bed's voice. It is the only way the bed communicates, and it comm
 | Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + slow pillow exhale | Low                                        | Getting dressed. Parallel to Dave. |
 | Kitchen — coffee scene                | Higher                                                        | Higher                                     | Purposeful. This is important.     |
 | Car — muffled through upholstery      | Low (filtered)                                                | Low                                        | Present but contained.             |
+| Gas station — approach warning        | Slightly higher than baseline, pointed                        | Medium, brief                              | Schedule. No detours.              |
+| Gas station — Dave drives past        | Returns to baseline                                           | Low                                        | Satisfied. Correct.               |
+| Highway shoulder — car pushing        | Baseline                                                      | Low, steady                                | The destination has not changed.   |
 | Office hours                          | Very low                                                      | Barely audible                             | A presence, not a force.           |
 | 2PM — pressing firmly                 | Medium                                                        | Medium                                     | Still on duty.                     |
 | 3PM — easing off                      | Low, dropping                                                 | Lower                                      | The day is working.                |
@@ -227,6 +230,8 @@ It rolls. Smoothly and continuously — like heavy furniture on felt pads, pushe
 | Kitchen                    | Medium-fast                | The day is not waiting for the coffee.    |
 | Driveway                   | Medium                     | Purposeful. Out in the world now.         |
 | Car                        | Expressed through hum only | Contained.                                |
+| Gas station — approach     | Expressed through hum only | Impatient. Schedule.                      |
+| Highway shoulder           | Medium                     | Forward. The car is Dave's problem.       |
 | Office — morning           | Slow                       | Supervisory. Watching.                    |
 | Office — 2PM               | Gentle lean                | The afternoon needs managing.             |
 | Office — 3PM               | Very gentle                | Easing. Progress noted.                   |
