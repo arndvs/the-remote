@@ -400,22 +400,22 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ## EDITING RHYTHM GUIDE
 
-| Section                   | Avg. Cut Rhythm          | Feel                          |
-| ------------------------- | ------------------------ | ----------------------------- |
-| Opening (silence → alarm) | Hold for 3–4 seconds     | Dread before the drop         |
-| Flashback montage         | 2–3 seconds per flash    | Memory degrading in real time |
-| Bed rising                | 8–10 seconds continuous  | Let it go. Don't cut.         |
-| Bathroom gauntlet         | 4–6 seconds per beat     | Pit stop urgency              |
-| Self-making intercut      | Hold each side 3–4 sec   | Let the contrast breathe      |
-| Coffee intercut           | 6–8 seconds              | Intentionally too long        |
-| Commute beats             | 4–5 seconds each         | Anthology rhythm              |
+| Section                   | Avg. Cut Rhythm            | Feel                                |
+| ------------------------- | -------------------------- | ----------------------------------- |
+| Opening (silence → alarm) | Hold for 3–4 seconds       | Dread before the drop               |
+| Flashback montage         | 2–3 seconds per flash      | Memory degrading in real time       |
+| Bed rising                | 8–10 seconds continuous    | Let it go. Don't cut.               |
+| Bathroom gauntlet         | 4–6 seconds per beat       | Pit stop urgency                    |
+| Self-making intercut      | Hold each side 3–4 sec     | Let the contrast breathe            |
+| Coffee intercut           | 6–8 seconds                | Intentionally too long              |
+| Commute beats             | 4–5 seconds each           | Anthology rhythm                    |
 | Gas station / car push    | 6–8 seconds, then hard cut | Hold the wide. Cut is the punchline |
-| Whistle (car + 5PM)       | 10–12 seconds each        | Found, then earned            |
-| Marcus reveal             | 8–10 seconds continuous  | Do not cut the pause          |
-| Tie / pillow payoff       | 3 seconds each side      | Sharp. No fat.                |
-| Office afternoon          | 3 seconds per time stamp | Time-lapse efficiency         |
-| Epilogue                  | 5 seconds continuous     | Recognition, not explanation  |
-| End credits               | Single continuous shot   | Earned stillness              |
+| Whistle (car + 5PM)       | 10–12 seconds each         | Found, then earned                  |
+| Marcus reveal             | 8–10 seconds continuous    | Do not cut the pause                |
+| Tie / pillow payoff       | 3 seconds each side        | Sharp. No fat.                      |
+| Office afternoon          | 3 seconds per time stamp   | Time-lapse efficiency               |
+| Epilogue                  | 5 seconds continuous       | Recognition, not explanation        |
+| End credits               | Single continuous shot     | Earned stillness                    |
 
 ---
 

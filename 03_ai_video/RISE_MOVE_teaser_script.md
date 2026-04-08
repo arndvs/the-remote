@@ -1,7 +1,9 @@
 # RISE™ MOVE — TEASER VIDEO
+
 ### "Both Directions"
-*Internal production script — not for external distribution*
-*Estimated runtime: 75 seconds*
+
+_Internal production script — not for external distribution_
+_Estimated runtime: 75 seconds_
 
 ---
 
@@ -19,13 +21,14 @@ The humor — if the audience finds it — is entirely their own. RISE™ is not
 
 **"Stand Up" — Ludacris ft. Shawnna**
 
-*"When I move you move, just like that."*
+_"When I move you move, just like that."_
 
 This is the video's entire thesis in one line. When the Move moves, you move. Just like that. The track is not ironic. It is not a winking choice. It is the most accurate description of the product that has ever been recorded.
 
 **Licensing note:** Clear for use — publishing and master. This is non-negotiable. The video does not work without it.
 
 **How the track is used:**
+
 - Opens cold over black — the beat drops before anything is seen
 - Runs continuously under the entire video
 - The edit is cut to the track — every shot change lands on a beat
@@ -73,19 +76,19 @@ Single source, warm directional. Creates deep shadows in the mechanical detail. 
 
 **[BLACK. SILENCE. ONE BEAT.]**
 
-*The track drops.*
+_The track drops._
 
 ---
 
-**[BEAT 1 — CUT TO: ACTUATOR CLOSE-UP — Shot A. The stair actuator making first contact with a step edge. Extreme close-up. Slow motion. The track is already moving.]*
+\*_[BEAT 1 — CUT TO: ACTUATOR CLOSE-UP — Shot A. The stair actuator making first contact with a step edge. Extreme close-up. Slow motion. The track is already moving.]_
 
-*No text yet. Just the mechanism. Just the music. Four bars.*
+_No text yet. Just the mechanism. Just the music. Four bars._
 
 ---
 
-**[BEAT 2 — CUT TO: The PUSH. Flat. Familiar. A bedroom, pre-dawn. The remote on the nightstand.]*
+\*_[BEAT 2 — CUT TO: The PUSH. Flat. Familiar. A bedroom, pre-dawn. The remote on the nightstand.]_
 
-*TEXT ON SCREEN — landing on the downbeat:*
+_TEXT ON SCREEN — landing on the downbeat:_
 
 ```
 The PUSH navigates your morning.
@@ -93,9 +96,9 @@ The PUSH navigates your morning.
 
 ---
 
-**[BEAT 3 — CUT TO: ACTUATOR CLOSE-UP — Shot D. The rail detail during transit. The RISE™ marking catching the light.]*
+\*_[BEAT 3 — CUT TO: ACTUATOR CLOSE-UP — Shot D. The rail detail during transit. The RISE™ marking catching the light.]_
 
-*TEXT ON SCREEN:*
+_TEXT ON SCREEN:_
 
 ```
 Every hallway.
@@ -106,29 +109,29 @@ between you and the door.
 
 ---
 
-**[BEAT 4 — CUT TO: The PUSH, vertical, rolling down a hallway. Confident. The full bed in frame — mattress, sheet, pillow. A complete bed, going somewhere.]*
+\*_[BEAT 4 — CUT TO: The PUSH, vertical, rolling down a hallway. Confident. The full bed in frame — mattress, sheet, pillow. A complete bed, going somewhere.]_
 
-*No text. Let the image land.*
+_No text. Let the image land._
 
 ---
 
-**[BEAT 5 — CUT TO: The bottom of a staircase. The PUSH arrives. Stops.]*
+\*_[BEAT 5 — CUT TO: The bottom of a staircase. The PUSH arrives. Stops.]_
 
-*The track continues. The bed does not.*
+_The track continues. The bed does not._
 
-*TEXT ON SCREEN — landing hard on the beat:*
+_TEXT ON SCREEN — landing hard on the beat:_
 
 ```
 Until the stairs.
 ```
 
-*Hold. Three full seconds. The track runs under the stillness. The bed waits at the foot of the stairs. It is not going up. It cannot. It knows.*
+_Hold. Three full seconds. The track runs under the stillness. The bed waits at the foot of the stairs. It is not going up. It cannot. It knows._
 
 ---
 
-**[BEAT 6 — CUT TO: ACTUATOR CLOSE-UP — Shot B. Mid-stair transit, side profile. Slow motion. The mechanism cycling through a step. This is the answer to the previous shot.]*
+\*_[BEAT 6 — CUT TO: ACTUATOR CLOSE-UP — Shot B. Mid-stair transit, side profile. Slow motion. The mechanism cycling through a step. This is the answer to the previous shot.]_
 
-*TEXT ON SCREEN — one word, on the beat:*
+_TEXT ON SCREEN — one word, on the beat:_
 
 ```
 Move.
@@ -136,9 +139,9 @@ Move.
 
 ---
 
-**[BEAT 7 — CUT TO: The MOVE ascending the stairs. Attended. A figure ahead of it, seen from behind — being carried upward. The movement is smooth. Controlled. The track is doing exactly what it promised.]*
+\*_[BEAT 7 — CUT TO: The MOVE ascending the stairs. Attended. A figure ahead of it, seen from behind — being carried upward. The movement is smooth. Controlled. The track is doing exactly what it promised.]_
 
-*TEXT ON SCREEN:*
+_TEXT ON SCREEN:_
 
 ```
 Up.
@@ -146,9 +149,9 @@ Up.
 
 ---
 
-**[BEAT 8 — CUT TO: ACTUATOR CLOSE-UP — Shot C. The step edge. The base crossing it. Slow motion. The geometry resolving.]*
+\*_[BEAT 8 — CUT TO: ACTUATOR CLOSE-UP — Shot C. The step edge. The base crossing it. Slow motion. The geometry resolving.]_
 
-*TEXT ON SCREEN:*
+_TEXT ON SCREEN:_
 
 ```
 Down.
@@ -156,15 +159,15 @@ Down.
 
 ---
 
-**[BEAT 9 — CUT TO: The MOVE descending. Attended. Smooth. The same control in the other direction.]*
+\*_[BEAT 9 — CUT TO: The MOVE descending. Attended. Smooth. The same control in the other direction.]_
 
-*No text. The image says it.*
+_No text. The image says it._
 
 ---
 
-**[BEAT 10 — CUT TO: ACTUATOR CLOSE-UP — Shot F. Solo descent, dawn. The Move on the stairs alone. Low light. The mechanism descending a step — alone.]*
+\*_[BEAT 10 — CUT TO: ACTUATOR CLOSE-UP — Shot F. Solo descent, dawn. The Move on the stairs alone. Low light. The mechanism descending a step — alone.]_
 
-*TEXT ON SCREEN — slower now, between bars:*
+_TEXT ON SCREEN — slower now, between bars:_
 
 ```
 Unattended.
@@ -174,9 +177,9 @@ All floors.
 
 ---
 
-**[BEAT 11 — CUT TO: ACTUATOR CLOSE-UP — Shot E. The top landing arrival. The last step cleared.]*
+\*_[BEAT 11 — CUT TO: ACTUATOR CLOSE-UP — Shot E. The top landing arrival. The last step cleared.]_
 
-*TEXT ON SCREEN:*
+_TEXT ON SCREEN:_
 
 ```
 Staircase capability requires
@@ -184,14 +187,14 @@ Vertical Navigation Services (VNS).
 A recurring subscription.
 ```
 
-*Beat.*
+_Beat._
 
 ```
 Without VNS, the Move operates
 as a flat-surface device.
 ```
 
-*Beat.*
+_Beat._
 
 ```
 The Push works.
@@ -201,13 +204,13 @@ We appreciate your original purchase.
 
 ---
 
-**[BEAT 12 — CUT TO: The MOVE, flat, made, in a bedroom. The remote on the nightstand glowing.]*
+\*_[BEAT 12 — CUT TO: The MOVE, flat, made, in a bedroom. The remote on the nightstand glowing.]_
 
-*The track fades — not cuts, fades — into the pocket of silence.*
+_The track fades — not cuts, fades — into the pocket of silence._
 
 ---
 
-**[SILENCE. Dr. Voss's quote. White text on black.]*
+\*_[SILENCE. Dr. Voss's quote. White text on black.]_
 
 ```
 "We are aware of the stairs.
@@ -220,25 +223,25 @@ We are doing something about it."
 
 ---
 
-**[THE TRACK RETURNS — just the outro, low, fading:]*
+\*_[THE TRACK RETURNS — just the outro, low, fading:]_
 
 ```
 RISE™ Move
 ```
 
-*Beat.*
+_Beat._
 
 ```
 riseco.online/move
 ```
 
-*Smallest text:*
+_Smallest text:_
 
 ```
 Notify Me.
 ```
 
-*Track out. Black.*
+_Track out. Black._
 
 ---
 
@@ -259,15 +262,15 @@ Notify Me.
 ## SOCIAL CUTS
 
 **15-second cut — "The Stairs":**
-PUSH stops at stairs → ACTUATOR CLOSE-UP (Shot A) → TEXT: *"Move."* → RISE™ Move wordmark.
-Track: just the hook. *"When I move you move, just like that."*
+PUSH stops at stairs → ACTUATOR CLOSE-UP (Shot A) → TEXT: _"Move."_ → RISE™ Move wordmark.
+Track: just the hook. _"When I move you move, just like that."_
 
 **30-second cut — "Both Directions":**
 PUSH stops → MOVE up → MOVE down → MOVE alone at dawn → Dr. Voss quote → wordmark.
 Track: verse into chorus, fade on quote.
 
 **6-second cut — "Move.":**
-Black. The beat drops. One actuator close-up. TEXT: *"RISE™ Move."* Black.
+Black. The beat drops. One actuator close-up. TEXT: _"RISE™ Move."_ Black.
 Track: the first four beats. Nothing else.
 
 ---
@@ -284,19 +287,19 @@ Track: the first four beats. Nothing else.
 
 ---
 
-*RISE™ Move Teaser — "Both Directions"*
-*Production script v1.2 — "Stand Up" by Ludacris ft. Shawnna*
-*riseco.online/move — Notify Me.*
-*"When I move you move, just like that."*
+_RISE™ Move Teaser — "Both Directions"_
+_Production script v1.2 — "Stand Up" by Ludacris ft. Shawnna_
+_riseco.online/move — Notify Me._
+_"When I move you move, just like that."_
 
 ---
 
 ## THE LUDACRIS CONNECTION
 
-*The Remote* features Dave whistling **"Move Bitch"** by Ludacris twice. The song finds him on the car radio — just the intro whistle, no lyrics. He picks it up unconsciously, whistling along as he pulls out of the driveway with the bed folded in his back seat. Then the fuel gauge registers — past empty, warning light decorative at this point — and the whistle stops mid-phrase. He kills the radio. Says "yeah" to nobody. Keeps driving. Two coffee denials and one dead car later, the gas station beat pays off what the whistle planted.
+_The Remote_ features Dave whistling **"Move Bitch"** by Ludacris twice. The song finds him on the car radio — just the intro whistle, no lyrics. He picks it up unconsciously, whistling along as he pulls out of the driveway with the bed folded in his back seat. Then the fuel gauge registers — past empty, warning light decorative at this point — and the whistle stops mid-phrase. He kills the radio. Says "yeah" to nobody. Keeps driving. Two coffee denials and one dead car later, the gas station beat pays off what the whistle planted.
 
 At 5PM, heading for the elevator, Dave whistles it again. The same phrase. Complete this time. Unhurried. The morning interrupted it. The afternoon earned its resolution.
 
-*The Move* teaser runs **"Stand Up"** by Ludacris ft. Shawnna — *"when I move you move, just like that"* — the product's entire thesis in one lyric.
+_The Move_ teaser runs **"Stand Up"** by Ludacris ft. Shawnna — _"when I move you move, just like that"_ — the product's entire thesis in one lyric.
 
 Both Ludacris. Both movement. Both completely earnest in context. The connection is never stated. It doesn't need to be. The audience who knows both pieces feels it. RISE™ didn't plan this. Dave didn't plan this. The universe just runs on Ludacris.

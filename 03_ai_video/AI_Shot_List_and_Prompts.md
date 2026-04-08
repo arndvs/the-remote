@@ -435,8 +435,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Shot from inside a car stopped at a red light. A city bus pulls up alongside. Through the bus window, a single COMMUTER sips from a coffee thermos with a satisfied expression. The driver of the car (man, early 30s, slightly disheveled) watches the commuter. Empty-handed. The light turns green. The car moves. Morning commute light.
 
-**NOTES:** No one on the bus reacts to the bed. No acknowledgment, no staring. The only detail is one commuter sipping coffee in Dave's eyeline — he watches, empty-handed. The coffee thread pays off here: he lost it in the kitchen, the drive-through failed, and now someone else has it.
----
+## **NOTES:** No one on the bus reacts to the bed. No acknowledgment, no staring. The only detail is one commuter sipping coffee in Dave's eyeline — he watches, empty-handed. The coffee thread pays off here: he lost it in the kitchen, the drive-through failed, and now someone else has it.
 
 ### SHOT 028A
 
@@ -476,8 +475,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Wide shot of a highway shoulder in morning light. A man in his early 30s in office clothes — shirt slightly untucked, tie loose — pushes a sedan from behind, both hands flat on the trunk. Behind him, a fully vertical adjustable bed base rolls forward steadily, pushing the man who is pushing the car. Three objects in a line on a highway shoulder — bed, man, car — all moving slowly forward. The scale of the empty highway around them. Other cars pass occasionally in the far lanes. The bed is upright, composed, unhurried. The man is not struggling dramatically — he has adapted. He is just pushing. Hold this image. Cinematic. Slightly wide lens to capture the absurd scale of the composition.
 
-**NOTES:** This is the commute’s visual payoff and possibly the funniest single image in the film. The chain — PUSH → Dave → car — extends the central joke into new territory. Dave is passive even while pushing: he’s not solving anything, just moving forward because the bed is moving forward. Shoot it wide enough to feel the highway. Hold just long enough to land. Then HARD CUT to Shot 029.
----
+## **NOTES:** This is the commute’s visual payoff and possibly the funniest single image in the film. The chain — PUSH → Dave → car — extends the central joke into new territory. Dave is passive even while pushing: he’s not solving anything, just moving forward because the bed is moving forward. Shoot it wide enough to feel the highway. Hold just long enough to land. Then HARD CUT to Shot 029.
 
 ### SHOT 029
 

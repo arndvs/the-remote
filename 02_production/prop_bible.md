@@ -191,7 +191,7 @@ The hum is the bed's voice. It is the only way the bed communicates, and it comm
 | Kitchen — coffee scene                | Higher                                                        | Higher                                     | Purposeful. This is important.     |
 | Car — muffled through upholstery      | Low (filtered)                                                | Low                                        | Present but contained.             |
 | Gas station — approach warning        | Slightly higher than baseline, pointed                        | Medium, brief                              | Schedule. No detours.              |
-| Gas station — Dave drives past        | Returns to baseline                                           | Low                                        | Satisfied. Correct.               |
+| Gas station — Dave drives past        | Returns to baseline                                           | Low                                        | Satisfied. Correct.                |
 | Highway shoulder — car pushing        | Baseline                                                      | Low, steady                                | The destination has not changed.   |
 | Office hours                          | Very low                                                      | Barely audible                             | A presence, not a force.           |
 | 2PM — pressing firmly                 | Medium                                                        | Medium                                     | Still on duty.                     |
