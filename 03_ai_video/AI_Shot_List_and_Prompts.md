@@ -395,11 +395,11 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Close-up of the pillow at the top of the vertical bed. The pneumatic node beneath it completes its cycle — one slow, sustained exhale, barely audible beneath the motor hum. The pillow settles — plumped, reshaped, but still askew. Still where it landed. Stillness. The fitted sheet beneath it is perfectly taut. The bed is made. Hard cut to: medium shot of a man's hands fighting a tie knot while being rolled forward down a hallway by the bed. The knot is wrong. Still wrong. Slightly less wrong. He looks down at it. Shrugs. Morning light. Film grain.
+> Close-up of the pillow at the top of the vertical bed. The pneumatic node beneath it completes its cycle — one slow, sustained exhale, barely audible beneath the motor hum. The pillow settles — plumped, reshaped, and centered. Still. Stillness. The fitted sheet beneath it is perfectly taut. The bed is made. Hard cut to: medium shot of a man's hands fighting a tie knot while being rolled forward down a hallway by the bed. The knot is wrong. Still wrong. Slightly less wrong. He looks down at it. Shrugs. Morning light. Film grain.
 
 **⚠ MULTI-CLIP:** Generate as 2 clips and edit together: (1) Close-up pillow settling — the exhale, the settling, the stillness, 2s. (2) Medium on Dave's hands and tie knot while moving — wrong, less wrong, shrug, 2s.
 
-**NOTES:** The payoff. Per the Visual Reference Guide (Scene 7A): "Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — still slightly askew. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it." The pillow node's final exhale sound (see [Prop Bible 1.8](../02_production/prop_bible.md)) is the self-making mechanism's last audible moment.
+**NOTES:** The payoff. Per the Visual Reference Guide (Scene 7A): "Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — perfectly centered. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it." The pillow node's final exhale sound (see [Prop Bible 1.8](../02_production/prop_bible.md)) is the self-making mechanism's last audible moment.
 
 ---
 
@@ -742,7 +742,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide static shot of a modern office lobby in evening light. The lobby is empty — the receptionist's desk is dark. Elevator doors open and a fully vertical adjustable bed base rolls out alone. No one pushing it. No one riding it. It crosses the lobby toward the glass front doors with the same unhurried authority it has had all day. The bed is already made — sheets taut, pillow askew. It moves through the empty lobby the way it moves through everything: like it belongs. Evening light through the glass doors. The bed rolls toward them. Cinematic.
+> Wide static shot of a modern office lobby in evening light. The lobby is empty — the receptionist's desk is dark. Elevator doors open and a fully vertical adjustable bed base rolls out alone. No one pushing it. No one riding it. It crosses the lobby toward the glass front doors with the same unhurried authority it has had all day. The bed is already made — sheets taut, pillow centered. It moves through the empty lobby the way it moves through everything: like it belongs. Evening light through the glass doors. The bed rolls toward them. Cinematic.
 
 **NOTES:** This bridges Shot 041 (Dave leaves, bed turns to go) to Shot 044 (city sidewalk). The lobby is empty. The bed doesn't hesitate at the doors — apply Rule 1 (edit around impossibility). Cut before it reaches the glass doors. Next shot is the sidewalk.
 ---
@@ -793,7 +793,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide static shot of a city sidewalk in late afternoon golden light. A fully vertical adjustable bed base rolls down the sidewalk alone — no one pushing it, no one riding it. It is unhurried. People on the sidewalk move around it slightly, automatically, without looking up. A dog on a leash watches it pass; its owner does not. The bed rolls steadily, humming faintly. The hum fades as it rounds the corner. Cinematic. Golden hour light. The bed is already made — sheets taut, pillow askew. It has been made all day. Fade to black over 5 seconds.
+> Wide static shot of a city sidewalk in late afternoon golden light. A fully vertical adjustable bed base rolls down the sidewalk alone — no one pushing it, no one riding it. It is unhurried. People on the sidewalk move around it slightly, automatically, without looking up. A dog on a leash watches it pass; its owner does not. The bed rolls steadily, humming faintly. The hum fades as it rounds the corner. Cinematic. Golden hour light. The bed is already made — sheets taut, pillow centered. It has been made all day. Fade to black over 5 seconds.
 
 **NOTES:** The bed made itself this morning, during the gauntlet, in parallel with Dave getting dressed. It has been made all day. It is going home to fold itself flat and wait. No music — just the hum, fading. Let it breathe.
 
@@ -823,7 +823,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide low-angle shot from the foot of an adjustable bed base in a dim bedroom. The bed is vertical — sheets taut, pillow askew, already made. The struts begin to slowly retract. The back panel descends through its arc — dignified, unhurried, the reverse of the morning rise. The bed settles into flat position. A soft motor exhale — one low note, fading. Complete stillness. The sheets are already taut. The pillow already plumped — still askew. On the nightstand, a slim matte black remote glows warm white. The room is dark. The bed is flat. The cycle is ready to begin again. Hold on the stillness for 3 seconds. Fade to black.
+> Wide low-angle shot from the foot of an adjustable bed base in a dim bedroom. The bed is vertical — sheets taut, pillow centered, already made. The struts begin to slowly retract. The back panel descends through its arc — dignified, unhurried, the reverse of the morning rise. The bed settles into flat position. A soft motor exhale — one low note, fading. Complete stillness. The sheets are already taut. The pillow already plumped and centered. On the nightstand, a slim matte black remote glows warm white. The room is dark. The bed is flat. The cycle is ready to begin again. Hold on the stillness for 3 seconds. Fade to black.
 
 **NOTES:** This mirrors Shot 012 (the bed rising) in reverse. The motor exhale is the last sound in the film before the epilogue alarm. The remote glow on the nightstand is the final image — the same remote from Shot 001. The self-making mechanism ran this morning; there is nothing left to prepare. The bed is ready.
 

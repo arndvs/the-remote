@@ -138,8 +138,8 @@ The bed makes itself during the morning routine — slowly, in parallel with Dav
 **Where we see it and how to cut it:**
 
 - **Bathroom wait (Scene 5):** This is the primary intercut. While Dave showers, we cut to: the bed, vertical, outside the bathroom door. The sheet tensioning bar is moving — slowly, visibly, wrinkles smoothing one at a time. The bed is getting dressed. Cut back to Dave — fumbling, rushed, chaotic. Cut back to the bed — unhurried. Another wrinkle gone. The contrast is not that the bed is faster. It is that the bed is calmer. Hold both sides long enough to feel the gap.
-- **Closet (Scene 7):** Background detail only — visible but not dwelt on. The bed at the closet entrance: sheet nearly taut, pillow fuller but still askew. The bed was further along than Dave before Dave had even started.
-- **Hallway / tie beat (Scene 7A):** The payoff. The pillow node completes its cycle. One slow final exhale. The pillow settles — plumped, reshaped, but still askew. Cut to Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong. He looks down at it. "Good enough." Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — still slightly askew. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
+- **Closet (Scene 7):** Background detail only — visible but not dwelt on. The bed at the closet entrance: sheet nearly taut, pillow fuller but not yet centered. The bed was further along than Dave before Dave had even started.
+- **Hallway / tie beat (Scene 7A):** The payoff. The pillow node completes its cycle. One slow final exhale. The pillow settles. Plumped. Reshaped. Centered. Still. Cut to Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong. He looks down at it. "Good enough." Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — perfectly centered. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
 
 ---
 
@@ -229,7 +229,7 @@ First exit: dress shirt half-tucked, one shoe, no tie. The bed's reversal should
 
 Second exit: completely assembled. The impossibility of how quickly this happened should not be addressed.
 
-**Background detail during the closet:** The bed at the entrance, sheet nearly taut, pillow fuller but still askew. The mechanism is almost done. The bed was further along than Dave before Dave had even started failing.
+**Background detail during the closet:** The bed at the entrance, sheet nearly taut, pillow fuller but not yet centered. The mechanism is almost done. The bed was further along than Dave before Dave had even started failing.
 
 ---
 
@@ -239,7 +239,7 @@ This beat belongs to the hallway roll between the closet and the kitchen. It is 
 
 **The edit:**
 
-_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — a slow, soft exhale. The pillow settles. Plumped. Reshaped. Still askew._
+_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — a slow, soft exhale. The pillow settles. Plumped. Reshaped. Centered. Still._
 
 _Cut to: Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong._
 
@@ -247,7 +247,7 @@ _He looks down at it._
 
 _DAVE: "Good enough."_
 
-Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — still slightly askew. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
+Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — perfectly centered. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
 
 ---
 
