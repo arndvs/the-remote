@@ -77,7 +77,7 @@ The bed consists of three components: the adjustable base frame, the mattress, a
 
 The mattress has a fitted sheet — navy blue or dark gray, slightly rumpled from Dave sleeping in it. Nothing decorative. No pattern. The rumple matters: it tells us someone actually sleeps here, which makes the bed's later behavior feel like a betrayal rather than a novelty.
 
-**The mattress stays on the bed in all three states.** The PUSH base has a retention system — a low lip along the frame edge and integrated strapping — that holds the mattress securely whether the bed is flat, raised, or fully vertical. This is a deliberate product feature. A company that engineered Push Mode absolutely engineered this. It does not need to be explained or shown. The mattress simply stays. Nobody comments on it.
+**The mattress stays on the bed in all four states.** The PUSH base has a retention system — a low lip along the frame edge and integrated strapping — that holds the mattress securely whether the bed is flat, raised, fully vertical, or folded in the car. This is a deliberate product feature. A company that engineered Push Mode absolutely engineered this. It does not need to be explained or shown. The mattress simply stays. Nobody comments on it.
 
 This is the most important prop decision in the document: **the bed is always a complete bed.** In STATE THREE — fully vertical, rolling Dave through his apartment — what's behind him is not a frame or a piece of equipment. It is a bed. Upright. With a mattress, a fitted sheet, and a pillow. That is the image. A complete, made bed standing on end, rolling a hungover man to work. The recognizability of the object at its most absurd is what makes the joke land.
 
@@ -97,9 +97,9 @@ This is more unsettling than any walking mechanism would be, and funnier. Someth
 
 ---
 
-## 1.4 — THE THREE STATES
+## 1.4 — THE FOUR STATES
 
-The bed exists in three distinct physical states throughout the film. Each has its own silhouette, its own personality, and its own relationship with Dave.
+The bed exists in four distinct physical states throughout the film. Each has its own silhouette, its own personality, and its own relationship with Dave.
 
 ### STATE ONE: FLAT (Resting)
 
@@ -177,7 +177,7 @@ Below the company name, _The PUSH_ in the same typeface, slightly bolder — the
 
 The hum is the bed's voice. It is the only way the bed communicates, and it communicates constantly.
 
-**Baseline character:** Warm. Low. Steady. Not mechanical in a threatening way — more like the hum of something well-made doing what it was built to do. The closest sonic reference is the sustained low note of a cello, filtered slightly to remove the organic quality, combined with the undertone of a high-quality HVAC system. It should feel, at baseline, almost _comfortable_. Like white noise with intention. Beneath it, barely audible: the faint whisper of the casters rolling.
+**Baseline character:** Warm. Low. Steady. 42Hz baseline — deep enough to feel physically, high enough to be clearly audible. Not mechanical in a threatening way — more like the hum of something well-made doing what it was built to do. The closest sonic reference is the sustained low note of a cello, filtered slightly to remove the organic quality, combined with the undertone of a high-quality HVAC system. It should feel, at baseline, almost _comfortable_. Like white noise with intention. Beneath it, barely audible: the faint whisper of the casters rolling.
 
 **Pitch and volume modulation across the film:**
 
@@ -357,7 +357,7 @@ This split matters: the PUSH doesn't care about your aesthetic choices. It makes
 
 When both beds are in frame at the office, the visual variety prevents them from reading as a single duplicated prop — but the sameness of the hardware confirms these are the same product. Two men, same bad decision, same consequence. The symmetry only works because they're carrying identical situations into work.
 
-**The dual hum:** When Dave and Marcus's beds are both in frame at the office, their hums should be identical in pitch but slightly out of sync — creating a quiet, inadvertent chord. Two men, two mornings, one machine. The slight phase offset is not unpleasant. It is just honest.
+**The dual hum:** When Dave and Marcus's beds are both in frame at the office, their hums should be slightly different in pitch and slightly out of sync — creating a quiet, inadvertent chord. Two men, two mornings, two machines. The slight dissonance is not unpleasant. It is just honest.
 
 ### Karen's Relationship to the PUSH
 
@@ -522,12 +522,12 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 - **Product:** The PUSH (Smart Adjustable Base)
 - **Color:** Matte dark charcoal, cool blue undertone
 - **Size:** Large. Fills every space it occupies. Belongs in all of them.
-- **Mattress:** Standard. Plain white or off-white cover. Navy or dark gray fitted sheet, rumpled. Always on the bed in all three states — held by the frame's retention system.
+- **Mattress:** Standard. Plain white or off-white cover. Navy or dark gray fitted sheet, rumpled. Always on the bed in all four states — held by the frame's retention system.
 - **Pillow:** One. PUSH hardware (contains pneumatic reshaping node). Pillowcase is personal (Dave's: white). Always present. Slightly askew in STATE THREE. Never straightened by the bed.
 - **Movement:** Continuous rolling via low-profile caster base beneath the frame. Smooth, quiet, inevitable. No stepping, no rhythm, no visible effort.
 - **Sound:** Warm low hum + faint caster whisper
 - **Sticker:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE™ / The PUSH / Smart Adjustable Base"
-- **States:** Flat (resting bed) / Raised (transitioning bed) / Vertical (upright complete bed, rolling)
+- **States:** Flat (resting bed) / Raised (transitioning bed) / Vertical (upright complete bed, rolling) / Folded (car — V-shape in back seat)
 - **Struts:** Visible on each side. Articulate for the raising mechanism only. Not the movement mechanism.
 
 ### THE REMOTE AT A GLANCE

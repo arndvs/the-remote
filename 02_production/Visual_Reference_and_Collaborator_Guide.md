@@ -67,7 +67,7 @@ The single most important rule: **keep both Dave AND the bed in the same frame a
 
 ## THE BED — PRODUCTION-FACING GUIDE
 
-The bed is the co-star. It needs to feel like a character. For the full physical specification — construction, materials, three states, four configurations, retention system, strut design, and all prop details — see the [Prop Bible](prop_bible.md). What follows here are the production implications of that spec: what matters for the director, the DP, the editor, and the colorist.
+The bed is the co-star. It needs to feel like a character. For the full physical specification — construction, materials, four states, retention system, strut design, and all prop details — see the [Prop Bible](prop_bible.md). What follows here are the production implications of that spec: what matters for the director, the DP, the editor, and the colorist.
 
 ### What You Need to Know About the Physical Design
 
