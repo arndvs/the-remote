@@ -27,6 +27,12 @@ _Approx. running time: 5–7 minutes_
 
 **JAKE** — Friend. Group chat presence. Already at the bar.
 
+**RECEPTIONIST** — Office lobby. Warm, unbothered, asks "Rough one?" without expecting an answer.
+
+**ELEVATOR COWORKER** — Sharp suit, fresh haircut, whistling. Asks Dave to press seven. Does not acknowledge the bed.
+
+**MANAGER** — Conference room. Presenting Q3 throughput slides. Does not break stride for anything.
+
 ---
 
 ---
@@ -118,7 +124,7 @@ _Group selfie attempt. Someone's thumb is over the lens. Someone's eyes are clos
 
 **FLASH — BACK OF A CAB — NIGHT**
 
-_Dave, Marcus, and one other guy. Cab smells questionable. Someone is absolutely eating a gas station hot dog they should not have. Nobody is acknowledging it._
+_Dave, Marcus — still in his work shirt, tie loosened — and one other guy. Cab smells questionable. Someone is absolutely eating a gas station hot dog they should not have. Nobody is acknowledging it._
 
 **MARCUS**
 _(staring straight ahead)_
@@ -253,7 +259,7 @@ _Dave squeezes past it sideways — one shoulder, then the other. The bed shifts
 
 ### SCENE 6 — INT. KITCHEN — INTERCUT
 
-_⏱ TIMING NOTE: This is a palette cleanser — pure calm. The kitchen is empty, beautiful, undisturbed. The comedy is in the contrast with whatever Dave is enduring when we cut to this._ This shot should cut away AT THE PERFECT MOMENT — right when Dave is being pushed fastest and the coffee feels most needed. Calm vs. chaos.
+_⏱ TIMING NOTE: This is a palette cleanser — pure calm. The kitchen is empty, beautiful, undisturbed. The comedy is in the contrast with whatever Dave is enduring when we cut to this. This shot should cut away AT THE PERFECT MOMENT — right when Dave is being pushed fastest and the coffee feels most needed. Calm vs. chaos._
 
 _The kitchen. Empty. Quiet. Beautiful morning light._
 
@@ -399,7 +405,7 @@ _A series of quick driving beats:_
 
 _Dave pulls into a coffee drive-through. Orders. Pays at the first window. Pulls up to the pickup window._
 
-_The WORKER leans out._
+_The DRIVE-THROUGH WORKER leans out._
 
 **DRIVE-THROUGH WORKER**
 So the machine's actually down right now — should be just a couple minutes.
@@ -414,7 +420,7 @@ _The hum rises._
 
 _Dave pulls forward. Past the window. Out of the drive-through._
 
-_The WORKER watches him go — coffee-less, unprompted, for no apparent reason. She holds the empty pickup tray for a moment. Looks at the next car in line. Back at Dave's taillights. Decides it's not her problem._
+_The DRIVE-THROUGH WORKER watches him go — coffee-less, unprompted, for no apparent reason. She holds the empty pickup tray for a moment. Looks at the next car in line. Back at Dave's taillights. Decides it's not her problem._
 
 ---
 
@@ -541,7 +547,7 @@ _Marcus looks exactly as destroyed as Dave. Same suit as yesterday from montage,
 
 _Behind Marcus: a bed._
 
-_Different model. Same energy._
+_Different colorway. Same energy._
 
 _Dave stops walking. The beds idle behind them both, humming softly._
 
