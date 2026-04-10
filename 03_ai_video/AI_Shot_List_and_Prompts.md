@@ -864,5 +864,5 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 ---
 
 _THE REMOTE — AI Shot List v4.3_
-_Updated: Multi-clip flags (026A, 032, 044, 044B). Formatting fixes (028, 028C). Shot 008 added to 240fps exceptions. Shot 012 color corrected to Prop Bible. Shot 023 wardrobe. Marcus bed updated to same model, warm gray + olive colorway. Aligned with Prop Bible v3.0._
+_Updated: Multi-clip flags (026A, 032, 044, 044B). Formatting fixes (028, 028C). Shot 008 added to 240fps exceptions. Shot 012 color corrected to Prop Bible. Shot 023 wardrobe. Marcus bed updated to same model, warm gray + olive colorway. Aligned with Prop Bible v3.1._
 _19 scenes / 54 shots / approx. 5–7 minute runtime_

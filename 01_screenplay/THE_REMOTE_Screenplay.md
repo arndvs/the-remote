@@ -100,7 +100,7 @@ _Dave is explaining something very important using three bar napkins arranged on
 
 **FLASH — SAME BAR — LATER STILL**
 
-_Someone — not Dave, importantly — slides off a barstool in slow motion. Everyone watches. Nobody moves to help. This is not the first time tonight._
+_Someone — not Dave  — slides off a barstool in slow motion. Everyone watches. Nobody moves to help. Everyone laughs. This is not the first time tonight._
 
 ---
 
@@ -815,7 +815,7 @@ The **RISE™ / PUSH sticker** should be readable at least twice — once in the
 ---
 
 _THE REMOTE — Screenplay v4.0_
-_Updated: Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.0._
+_Updated: Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.1._
 _Total estimated runtime: 5–7 minutes_
 
 ---

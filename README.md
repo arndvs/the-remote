@@ -59,4 +59,4 @@ The **Prop Bible** is canonical. On any question of physical description, brand,
 
 ---
 
-_Version 3.1 — All documents aligned with Prop Bible v3.0. AI Shot List v4.2 (54 shots). Move teaser v2.0 (AI-generation-ready). Product rebrand: PUSH by RISE™._
+_Version 3.2 — All documents aligned with Prop Bible v3.1. AI Shot List v4.3 (54 shots). Storyboard Handoff v1.1. Move teaser v2.0 (AI-generation-ready). Product rebrand: PUSH by RISE™._

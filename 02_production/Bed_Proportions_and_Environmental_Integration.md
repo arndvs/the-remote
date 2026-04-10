@@ -12,7 +12,7 @@ This document governs how to solve the bed's geometry in each environment. It is
 - **[Visual Reference Guide](Visual_Reference_and_Collaborator_Guide.md)** — governs how to shoot the film (camera, editing, staging decisions, editorial intercuts).
 - **This document** — governs how to make the impossible geometry work in every specific environment. For the production designer, environment builder, VFX supervisor, and AI prompt operator.
 
-_Written against Prop Bible v3.0._
+_Written against Prop Bible v3.1._
 
 ---
 
@@ -326,5 +326,5 @@ Before finalizing any shot:
 ---
 
 _THE REMOTE — Bed Proportions Guide v4.2_
-_Updated: Driveway, office lobby, apartment building lobby, and city sidewalk environments added. Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.0._
+_Updated: Driveway, office lobby, apartment building lobby, and city sidewalk environments added. Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.1._
 _"The truck always fits. The bed always fits. The audience always believes."_
