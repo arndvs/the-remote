@@ -500,7 +500,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 **Image:** Wide static shot from street level. Full picture for the first time in outdoor daylight: Dave in office clothes, no coffee, the fully vertical bed behind him, suburban driveway, morning light. A NEIGHBOR walking a dog glances over and keeps walking. The dog watches longer.
 **Shot Type:** WIDE. Essential.
-**Action:** Dave pushed down driveway. Makes eye contact with neighbor.
+**Action:** Dave pushed down driveway — walk of shame / perp walk energy. Makes eye contact with neighbor.
 **Dialogue:** DAVE _(with tremendous dignity):_ "Morning."
 **Camera:** Wide is essential. First time we see the full absurdity in daylight. A man being escorted down a suburban driveway by a queen-size bed.
 **Hum:** Medium. Purposeful.

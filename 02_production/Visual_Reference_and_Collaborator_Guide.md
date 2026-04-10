@@ -269,6 +269,8 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 **How the bed moves:** The casters are low-profile and nearly silent. The bed does not step or cycle — it rolls, smoothly and continuously, the way heavy furniture moves when pushed by someone who knows where they're going. No rhythm to it. No visible effort. A low angle insert — concrete, the casters rolling into frame, the faint hum — establishes this cleanly without over-explaining it.
 
+**Walk of shame / perp walk energy:** Dave's walk down the driveway should feel like a walk of shame — almost a perp walk. He's being escorted by a bed in broad daylight, and he knows it.
+
 **The neighbor:** Glances over. Keeps walking. The dog watches longer than the human does.
 
 **The car transition:** Never show the bed getting in the car. Last driveway image is Dave being rolled toward his car. Cut. Next shot is Dave in the driver's seat.

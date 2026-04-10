@@ -449,7 +449,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Wide static shot from street level looking at a suburban driveway. A man in his early 30s, dressed in office clothes — shirt tucked, both shoes, tie badly knotted — walks down the driveway being pushed from behind by a large vertical adjustable bed base. No coffee. A neighbor walking a dog in the background glances over and keeps walking. The dog watches longer than the human does. The man makes brief eye contact with the neighbor. The bed continues pushing him toward a car parked at the end of the driveway. Daytime. Suburban morning light.
 
-**NOTES:** The neighbor glances — does not stop or stare. The dog's interest outlasts the human's. Dave has no coffee (lost it in the kitchen). The shot ends with Dave being pushed toward the car — we do not see him get in. Cut.
+**NOTES:** Walk of shame / perp walk energy — Dave knows he's being escorted by a bed in broad daylight. The neighbor glances — does not stop or stare. The dog's interest outlasts the human's. Dave has no coffee (lost it in the kitchen). The shot ends with Dave being pushed toward the car — we do not see him get in. Cut.
 
 ---
 
