@@ -317,6 +317,20 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
+### SHOT 019A
+
+**Scene:** Self-making intercut — sheet tensioning (bathroom wait)
+**Duration:** 3–4 seconds
+**Camera:** Close-up. Static.
+
+**AI PROMPT:**
+
+> Close-up of the vertical bed's mattress surface outside the bathroom doorway. A thin tensioning bar moves slowly along a channel inside the frame rail, drawing the fitted sheet progressively taut. One wrinkle smooths flat, then another — center outward, deliberate, unhurried. The sheet pulls against the mattress like fabric being ironed by an invisible hand. Beneath the motor hum, a faint continuous whisper — the sound of material drawn carefully across a surface. The bed is vertical. The sheet smooths sideways against gravity. The mechanism does not care. Warm hallway light from behind. Bathroom fluorescent spill from the doorway. Cinematic close-up. Film grain.
+
+**NOTES:** Primary self-making intercut. Per the Visual Reference Guide (Scene 5): intercut with Dave showering — the bed is calm and methodical while Dave scrambles. The sheet is approximately one-third through its full pass. Hold both sides long enough to feel the gap between Dave's chaos and the bed's composure. The vertical orientation makes the sideways smoothing look slightly wrong in a way that is deeply right (see [Prop Bible 1.8](../02_production/prop_bible.md)).
+
+---
+
 ### SHOT 020
 
 **Scene:** Bathroom mirror — "You're doing great"
@@ -356,6 +370,36 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **AI PROMPT:**
 
 > Medium shot of a walk-in closet entrance. A man in his early 30s tumbles out of the closet half-dressed — dress shirt half-tucked, one shoe on, no tie. A large vertical adjustable bed base waits beside the closet entrance. The bed reverses slightly and nudges him firmly back in. He disappears. A beat. He re-emerges: shirt tucked, both shoes on, tie hanging unknotted around his neck. The bed resumes forward. He ties the tie while moving. Looks down at the knot. Shrugs. Morning light.
+
+---
+
+### SHOT 022A
+
+**Scene:** Self-making intercut — nearly done (closet)
+**Duration:** 2–3 seconds
+**Camera:** Medium. Static.
+
+**AI PROMPT:**
+
+> Medium shot of the vertical bed base standing beside a closet entrance. The fitted sheet is nearly taut — last few wrinkles smoothing toward the corners. The pillow at the top is visibly fuller than before, pneumatic node mid-cycle, but not yet centered. The tensioning bar is completing its final pass along the rail. The bed hums low. Morning hallway light. The mechanism is close to done. Cinematic. Film grain.
+
+**NOTES:** Background detail, not dwelt on. Per the Visual Reference Guide (Scene 7): "visible but not dwelt on." The bed was further along than Dave before Dave had even started. This reads as a quick cut — the audience registers that the bed is nearly finished while Dave just tumbled out of the closet half-dressed.
+
+---
+
+### SHOT 022B
+
+**Scene:** Self-making payoff — pillow settles (hallway / tie beat)
+**Duration:** 3–4 seconds
+**Camera:** Close-up to medium. Static.
+
+**AI PROMPT:**
+
+> Close-up of the pillow at the top of the vertical bed. The pneumatic node beneath it completes its cycle — one slow, sustained exhale, barely audible beneath the motor hum. The pillow settles into position, centered, perfectly placed. Stillness. The fitted sheet beneath it is perfectly taut. The bed is made. Hard cut to: medium shot of a man's hands fighting a tie knot while being rolled forward down a hallway by the bed. The knot is wrong. Still wrong. Slightly less wrong. He looks down at it. Shrugs. Morning light. Film grain.
+
+**⚠ MULTI-CLIP:** Generate as 2 clips and edit together: (1) Close-up pillow settling — the exhale, the centering, the stillness, 2s. (2) Medium on Dave's hands and tie knot while moving — wrong, less wrong, shrug, 2s.
+
+**NOTES:** The payoff. Per the Visual Reference Guide (Scene 7A): "Both are finishing touches. The bed used the whole morning and produced a perfectly centered pillow. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it." The pillow node's final exhale sound (see [Prop Bible 1.8](../02_production/prop_bible.md)) is the self-making mechanism's last audible moment.
 
 ---
 
@@ -811,6 +855,6 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_THE REMOTE — AI Shot List v4.1_
-_Updated: Technical metadata (aspect ratio, frame rate, negative prompts, multi-clip flags, composite text flags). Bed departure sequence (Shots 041A, 044A, 044B). Aligned with Prop Bible v3.0._
-_19 scenes / 51 shots / approx. 5–7 minute runtime_
+_THE REMOTE — AI Shot List v4.2_
+_Updated: Self-making mechanism intercut shots (019A, 022A, 022B) per Prop Bible 1.8 and Visual Reference Guide. Technical metadata (aspect ratio, frame rate, negative prompts, multi-clip flags, composite text flags). Bed departure sequence (Shots 041A, 044A, 044B). Aligned with Prop Bible v3.0._
+_19 scenes / 54 shots / approx. 5–7 minute runtime_
