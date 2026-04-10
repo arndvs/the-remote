@@ -220,7 +220,7 @@ _The hum of the motor fills the hallway._
 
 ### SCENE 5 — INT. BATHROOM — CONTINUOUS
 
-_⏱ TIMING NOTE: This whole bathroom sequence should feel like a NASCAR pit stop — fast, functional, slightly out of control. The comedy is in Dave managing to ACTUALLY DO all the morning tasks while the bed looms in the doorway, enforcing urgency through sound alone._
+_⏱ TIMING NOTE: This whole bathroom sequence should feel like a NASCAR pit stop — fast, functional, slightly out of control. The comedy works on two levels: Dave managing to ACTUALLY DO all the morning tasks while the bed looms in the doorway — and the bed quietly getting itself ready in parallel. He is scrambling. It is calm. The juxtaposition is the joke._
 
 _Dave is pushed through the bathroom door sideways. He catches himself on the sink. The bed idles in the doorway, humming, waiting. It fills the frame behind him — a dark rectangle that is not coming in but is absolutely not leaving._
 
@@ -229,6 +229,16 @@ _Dave brushes his teeth. Fast. The bed's hum rises in pitch — not louder, just
 _He spits. Glances at the doorway. The hum hasn't dropped. He moves to the shower on his own — he knows the drill. Steps in. Shower curtain closes around him._
 
 _The bed waits in the doorway. Humming patiently. Like a dog outside a bathroom stall._
+
+_Beneath the hum: something else. Faint. Mechanical. A whisper of tensioning — the sheet pulling slowly taut from the center outward. One wrinkle smoothing flat, then another. The bed is getting dressed._
+
+_Cut to: the bed's surface. Close-up. The fitted sheet drawing flat against the mattress, sideways, against gravity. It looks slightly wrong. The mechanism does not care._
+
+_Cut to: Dave behind the shower curtain. Frantic shampooing._
+
+_Cut back to: the bed. At the top, the pillow node has begun — a slow, sustained inflation from the base up. Not done yet. Not close. The bed has the whole morning._
+
+_SFX: Beneath the motor hum — a faint, continuous whisper. The sound of material being drawn carefully across a surface._
 
 _SFX: Water. Showering. Then:_
 
@@ -251,7 +261,7 @@ You're doing great.
 
 _He doesn't believe it this time._
 
-_He turns toward the doorway. The bed is still there. Still filling the frame. Still humming._
+_He turns toward the doorway. The bed is still there. Still filling the frame. Still humming. The sheet is smoother than when they arrived — wrinkles fewer, surface nearly taut. Dave does not notice._
 
 _Dave squeezes past it sideways — one shoulder, then the other. The bed shifts back just enough to let him through, then immediately resumes. They're moving again. Down the hallway. Toward the closet._
 
