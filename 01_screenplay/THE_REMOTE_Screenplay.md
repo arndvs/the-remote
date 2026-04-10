@@ -779,7 +779,7 @@ _Roll over: the bed, alone, rolling down a city sidewalk in late afternoon light
 
 _The hum fades as it rounds the corner._
 
-_The bed has been made since this morning. It has nowhere left to prepare. It simply goes home, folds itself flat, and waits._
+_The bed made itself hours ago — sheet pulled taut during the shower, pillow centered during the tie. There is nothing left to prepare. It simply goes home, folds itself flat, and waits._
 
 _The remote glows softly on the nightstand._
 
