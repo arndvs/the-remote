@@ -194,6 +194,58 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 ---
 
+### THE DRIVEWAY
+
+**Reality:** Open exterior. A suburban driveway is typically 10–20 feet wide. No spatial constraints for a vertical bed.
+
+**The Remote version:** The driveway is the first fully exterior shot of the bed in STATE THREE. The visual challenge is not geometry — it is social context. The bed is out of the house. A neighbor sees it. A dog watches it. The bed should feel enormous against the residential scale — a dark vertical monolith rolling down a suburban driveway toward a parked car.
+
+**Camera rule:** Wide static from the street per the screenplay (Scene 9). Frame the full driveway with the house visible behind Dave and the bed. The neighborhood normalcy — the house, the car, the neighbor walking a dog — is the container that makes the image absurd.
+
+**Environmental accommodation:** None needed. The driveway is wide, flat, open. The bed's proportions are genuinely not an issue here. The challenge is tonal, not spatial. The neighbor's casual reaction (glance and keep walking) does more to sell the image than any environmental design.
+
+**Why it works:** The bed has been in interior spaces until now — bedroom, hallway, bathroom, closet, kitchen. The driveway is the first moment the bed is fully outdoors, in daylight, visible to the world. The lack of spatial constraint is the point: out here, there is nothing between the bed and the sky, and the bed is still just going to work.
+
+---
+
+### THE OFFICE LOBBY
+
+**Reality:** Office building lobbies vary widely — some are tight vestibules, some are grand atriums. The bed passes through twice: once with Dave in the morning, once alone on the evening commute home.
+
+**The Remote version:** Apply Rule 1 — edit around the impossibility of entrance doors. The morning arrival: cut from the parking lot (exterior, bed rolling behind Dave) to the elevator (doors closing, bed implied). The lobby is either skipped entirely or is a brief tracking shot designed wide. The evening return (Prop Bible 1.9): the bed moves through the lobby with the same quiet authority it moves through everything else.
+
+**Environmental accommodation:** If the lobby is shown, build it generous — high ceiling, wide open floor, glass doors wide enough to feel plausible. Corporate lobbies are already the most accommodating interior spaces in the film. A reception desk, some seating, polished floors. The bed should feel like visiting corporate equipment being wheeled in — strange, but not impossible in a space that regularly accommodates deliveries and furniture.
+
+**Camera rule:** Wide or tracking. Never linger on the entrance doors. If the bed is in the lobby, it is already in the lobby. The transition from outside to inside is always hidden.
+
+---
+
+### THE APARTMENT BUILDING LOBBY
+
+**Reality:** Residential building lobbies are typically tighter than office lobbies — a vestibule, a mailbox wall, maybe a doorman desk. The bed passes through this space once, alone, on its evening commute home (Prop Bible 1.9, step 1).
+
+**The Remote version:** "We do not linger on how the door works." This is the Prop Bible's explicit instruction. Apply Rule 1. The bed is on the city sidewalk in one shot. It is in the elevator in the next. The apartment lobby exists between those shots in the audience's imagination — not on screen.
+
+If the lobby must be shown: a brief wide shot, the bed already inside, rolling toward the elevator. The space reads as a normal residential lobby — tile floor, mailboxes, maybe a single overhead fixture. The bed moves through it with the same quiet authority it moves through everything else.
+
+**Camera rule:** If shown at all, a single wide shot. The bed is already inside. Do not show entrance.
+
+---
+
+### THE CITY SIDEWALK
+
+**Reality:** City sidewalks are typically 5–15 feet wide. The bed at 5 feet wide takes up a significant portion. Pedestrians share this space.
+
+**The Remote version:** This is the end-credits shot — the bed commuting home alone, rolling down a city sidewalk in late afternoon light. No Dave. No one pushing. The bed is simply going home. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not.
+
+**Environmental accommodation:** The sidewalk should be generous — a wide urban sidewalk with enough room for the bed and pedestrian flow around it. Not a narrow residential sidewalk. The kind of sidewalk in a commercial district where you'd walk around a sandwich board or a sidewalk cafe without thinking about it. The bed occupies the same kind of space: an obstacle that pedestrians navigate automatically.
+
+**Camera rule:** Wide. This is potentially the widest shot of the bed in the film. The scale of the street — buildings on both sides, traffic passing, pedestrians flowing — is what makes the image land. The bed is a small dark vertical rectangle in a big urban frame. Late afternoon golden light. The bed has never looked more alone or more purposeful.
+
+**Why it works:** The sidewalk is the one environment where other people see the bed without Dave to contextualize it. Nobody reacts. The dog watches out of instinct. The humans have seen stranger things on their commute. The bed's acceptance by the city is the film's final confirmation of the Trash Truck principle: the bed belongs everywhere, even when Dave is not there to belong with it.
+
+---
+
 ## THE GOLDEN RULES OF BED PROPORTION
 
 ### Rule 1: Edit Around Impossibility
@@ -273,6 +325,6 @@ Before finalizing any shot:
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v4.1_
-_Updated: Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.0._
+_THE REMOTE — Bed Proportions Guide v4.2_
+_Updated: Driveway, office lobby, apartment building lobby, and city sidewalk environments added. Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.0._
 _"The truck always fits. The bed always fits. The audience always believes."_
