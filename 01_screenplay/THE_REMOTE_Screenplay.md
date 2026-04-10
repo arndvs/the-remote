@@ -838,8 +838,9 @@ The **RISE™ / PUSH sticker** should be readable at least twice — once in the
 
 ---
 
-_THE REMOTE — Screenplay v4.0_
-_Updated: Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.1._
+_THE REMOTE — Screenplay v5.0_
+_Updated: Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave — sheet tensioning during the shower, pillow centered during the tie. "Good enough" relocated to Scene 7A payoff. End credits updated. Aligned with Prop Bible v3.1 §1.8 and Visual Reference Guide v4.0._
+_Previous: v4.0 — Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.1._
 _Total estimated runtime: 5–7 minutes_
 
 ---
