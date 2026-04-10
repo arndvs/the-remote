@@ -1,4 +1,4 @@
-> **Note:** This is the original pitch treatment. The canonical version is [01_screenplay/THE_PUSHER_Screenplay.md](01_screenplay/THE_PUSHER_Screenplay.md).
+> **Note:** This is the original pitch treatment, preserved for reference. It uses legacy naming ("The Pusher", "RiseTech Pro") — the current brand is PUSH by RISE™. The canonical version is [01_screenplay/THE_REMOTE_Screenplay.md](01_screenplay/THE_REMOTE_Screenplay.md).
 
 ## **"The Pusher"** — Skit Treatment
 

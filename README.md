@@ -9,6 +9,7 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 ### 📄 01_screenplay/
 
 - **THE_REMOTE_Screenplay.md** — Full screenplay with scene headings, action lines, dialogue, and embedded timing notes. ~5–7 minute runtime. Start here.
+- **gas-station-beat-breakdown.md** — Deep-dive companion doc for the gas station commute beat (Beat 3). Editorial philosophy, sound design direction, and continuity notes.
 
 ### 🎬 02_production/
 

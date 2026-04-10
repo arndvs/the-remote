@@ -175,7 +175,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 **AI PROMPT:**
 
-> Interior of a taxi cab at night, shot wide from the front passenger area facing back. Two men in their 30s sit in the back seat staring straight ahead in silence. One is eating a gas station hot dog. Neither is acknowledging the hot dog. City lights blur past the windows. They look completely at peace with all of their decisions. Slightly desaturated. Warm cab interior light mixed with passing streetlights.
+> Interior of a taxi cab at night, shot wide from the front passenger area facing back. Three men in their 30s sit in the back seat staring straight ahead in silence. One is eating a gas station hot dog. No one is acknowledging the hot dog. City lights blur past the windows. They look completely at peace with all of their decisions. Slightly desaturated. Warm cab interior light mixed with passing streetlights.
 
 ---
 
@@ -377,7 +377,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide static shot from street level looking at a suburban driveway. A man in his early 30s, dressed in office clothes — shirt half-tucked, one shoe, no tie — walks down the driveway being pushed from behind by a large vertical adjustable bed base. No coffee. A neighbor walking a dog in the background glances over and keeps walking. The dog watches longer than the human does. The man makes brief eye contact with the neighbor. The bed continues pushing him toward a car parked at the end of the driveway. Daytime. Suburban morning light.
+> Wide static shot from street level looking at a suburban driveway. A man in his early 30s, dressed in office clothes — shirt tucked, both shoes, tie badly knotted — walks down the driveway being pushed from behind by a large vertical adjustable bed base. No coffee. A neighbor walking a dog in the background glances over and keeps walking. The dog watches longer than the human does. The man makes brief eye contact with the neighbor. The bed continues pushing him toward a car parked at the end of the driveway. Daytime. Suburban morning light.
 
 **NOTES:** The neighbor glances — does not stop or stare. The dog's interest outlasts the human's. Dave has no coffee (lost it in the kitchen). The shot ends with Dave being pushed toward the car — we do not see him get in. Cut.
 

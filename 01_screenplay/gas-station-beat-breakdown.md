@@ -120,7 +120,7 @@ This shot should be wide. The highway around them. The scale of it. A man in off
 
 Dave arrives at the office without explaining anything. His state — more disheveled than he was, tie worse, possibly a light sweat — tells the story without telling it.
 
-Marcus sees him arrive. Gives him a look. Dave gives a look back. One beat. No words. Marcus has probably not pushed his car to work this morning, but he understands the energy. They move on.
+An employee heading in from the other direction passes him. Doesn't break stride. Dave arrives looking wrecked; the bed arrives looking pristine. Nobody reacts. Marcus sees him later at his desk (Scene 14) — that's the payoff. One nod. "'Sup." They move on.
 
 The car is never mentioned again.
 

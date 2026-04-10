@@ -23,6 +23,10 @@ _Approx. running time: 5–7 minutes_
 
 **BUS COMMUTER** — Anybody. Sipping from a thermos on autopilot. Doesn't know they're ruining someone's morning.
 
+**TYLER** — Friend. Group chat presence. Already at the bar.
+
+**JAKE** — Friend. Group chat presence. Already at the bar.
+
 ---
 
 ---
@@ -418,7 +422,7 @@ _The WORKER watches him go — coffee-less, unprompted, for no apparent reason. 
 
 _Red light. A city bus pulls up alongside Dave's stopped car. Windows full of commuters._
 
-_A COMMUTER wearing headphones, on the bus sips from a coffee thermos with a satisfied expression. Dave watches. Empty-handed. His eyes drift down to his cup holder — empty, perfectly sized for the coffee he didn't get to keep._
+_A BUS COMMUTER wearing headphones sips from a coffee thermos with a satisfied expression. Dave watches. Empty-handed. His eyes drift down to his cup holder — empty, perfectly sized for the coffee he didn't get to keep._
 
 _The light turns green._
 
@@ -549,7 +553,7 @@ _Dave gives a single nod up._
 **DAVE**
 'Sup, Marcus.
 
-_Marcus gives a single, nod up back._
+_Marcus gives a single nod up back._
 **MARCUS**
 'Sup.
 

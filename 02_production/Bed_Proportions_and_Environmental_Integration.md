@@ -12,7 +12,7 @@ This document governs how to solve the bed's geometry in each environment. It is
 - **[Visual Reference Guide](Visual_Reference_and_Collaborator_Guide.md)** — governs how to shoot the film (camera, editing, staging decisions, editorial intercuts).
 - **This document** — governs how to make the impossible geometry work in every specific environment. For the production designer, environment builder, VFX supervisor, and AI prompt operator.
 
-_Written against Prop Bible v2.3._
+_Written against Prop Bible v3.0._
 
 ---
 
