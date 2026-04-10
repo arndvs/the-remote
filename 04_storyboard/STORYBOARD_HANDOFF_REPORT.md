@@ -441,8 +441,8 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 **Image:** Same framing. Dave emerges again. Shirt tucked. Both shoes. Tie unknotted around neck. Bed resumes forward. Dave ties tie while moving.
 **Shot Type:** Same as Panel 23
-**Action:** Dave dressed. Moving. Tying tie. Looks down at knot.
-**Dialogue:** DAVE: "Good enough."
+**Action:** Dave dressed. Moving. Tying tie while walking toward kitchen.
+**Dialogue:** None — "Good enough" lands in Scene 7A (Panel 25).
 **Camera:** The impossibility of how fast this happened is not addressed.
 **Hum:** Medium, resuming forward.
 

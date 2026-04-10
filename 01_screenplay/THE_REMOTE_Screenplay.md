@@ -100,7 +100,7 @@ _Dave is explaining something very important using three bar napkins arranged on
 
 **FLASH — SAME BAR — LATER STILL**
 
-_Someone — not Dave  — slides off a barstool in slow motion. Everyone watches. Nobody moves to help. Everyone laughs. This is not the first time tonight._
+_Someone — not Dave — slides off a barstool in slow motion. Everyone watches. Nobody moves to help. Everyone laughs. This is not the first time tonight._
 
 ---
 
@@ -377,7 +377,7 @@ Morning.
 
 _The neighbor watches him pass._
 
-_Dave is pushed toward his car._
+_Dave is pushed toward his car - walk of shame - almost like a perp walk._
 
 _Cut._
 
