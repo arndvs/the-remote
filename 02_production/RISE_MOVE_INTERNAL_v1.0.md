@@ -2,7 +2,7 @@
 
 ## Brainstorming & Strategic Foundation
 
-### _"Up. And down. Front. And Back. Side to Side. All directions. ."_
+### _"Up. And down. Front. And Back. Side to Side. All directions."_
 
 **Document status:** Internal — not for publication
 **Document purpose:** Fork document for dedicated Move product development. Contains all canonically established facts, all open questions, and deep creative/strategic brainstorming for the Move's full product development arc.
@@ -79,8 +79,8 @@ This is the Move's most significant business model innovation and the detail mos
 
 ### 1.6 — Relationship to Existing Product Line
 
-- The **RISE Nudge** (discontinued 2019) — passive, no navigation, 74% compliance. Karen's model.
-- The **RISE Push** (current, sold out) — autonomous flat navigation, 98% compliance. Dave and Marcus.
+- The **RISE™ Nudge** (discontinued 2019) — passive, no navigation, 74% compliance. Karen's model.
+- The **RISE™ Push** (current, sold out) — autonomous flat navigation, 98% compliance. Dave and Marcus.
 - The **RISE™ Move** (in development) — autonomous vertical + flat navigation, compliance rate not yet determined.
 - The **Push Pro** — separately referenced across the site. Status: in development. RISE™ is not currently accepting questions about the Push Pro. Relationship to the Move: unknown and intentionally unaddressed.
 
@@ -183,7 +183,7 @@ The Push has a strong visual identity: matte dark charcoal, cool blue undertone,
 
 ### 3.2 — The VNS Remote
 
-The PM-1 remote for the Push is a canonical design: matte black, one button, warm white glow, "RISE" etched on the button, the fine print on the back. The Move remote is an open question.
+The PM-1 remote for the Push is a canonical design: matte black, one button, warm white glow, "PUSH" etched on the button, the fine print on the back. The Move remote is an open question.
 
 **Options:**
 
