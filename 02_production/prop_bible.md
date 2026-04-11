@@ -4,6 +4,7 @@
 
 _Canonical physical descriptions for all production use_
 _This document supersedes all prop descriptions in all other production documents_
+_Version: 3.1_
 
 ---
 
@@ -81,7 +82,7 @@ The mattress has a fitted sheet — navy blue or dark gray, slightly rumpled fro
 
 This is the most important prop decision in the document: **the bed is always a complete bed.** In STATE THREE — fully vertical, rolling Dave through his apartment — what's behind him is not a frame or a piece of equipment. It is a bed. Upright. With a mattress, a fitted sheet, and a pillow. That is the image. A complete, made bed standing on end, rolling a hungover man to work. The recognizability of the object at its most absurd is what makes the joke land.
 
-**The pillow:** One pillow. Standard size, slightly compressed from use. The pillow is PUSH hardware — it contains the pneumatic reshaping node that runs during the self-making sequence. The pillowcase is personal: Dave's is white, standard, unremarkable. It sits at the head of the bed when flat — which becomes the top when vertical. In STATE THREE, the pillow is at the top of the upright bed, slightly askew from the transition. It stays that way until the self-making mechanism runs — the pneumatic node reshapes and centers it during the morning routine. Before the self-making, this small imperfection gives the object a faint quality of dishevelment that mirrors Dave's own.
+**The pillow:** One pillow. Standard size, slightly compressed from use. The pillow is PUSH hardware — it contains the pneumatic reshaping node that runs during the self-making sequence. The pillowcase is personal: Dave's is white, standard, unremarkable. It sits at the head of the bed when flat — which becomes the top when vertical. In STATE THREE, the pillow is at the top of the upright bed, slightly askew from the transition. It stays that way. The pneumatic node reshapes and plumps it during the morning routine, but does not reposition it — the pillow ends up fuller and better, still slightly askew. Before the self-making, this small imperfection gives the object a faint quality of dishevelment that mirrors Dave's own.
 
 **The mechanical struts:** On each side of the base, visible from any wide angle shot, are the articulating struts that allow the back panel to raise. These should be visible — not hidden inside the frame. They are part of the design language. Clean, purposeful, slightly industrial. When the bed is flat they fold flush against the side. As the bed raises they extend, and as the bed goes vertical they are fully extended — two rigid arms on each side, angled slightly outward, like a figure with its arms held stiffly at its sides.
 
@@ -137,7 +138,7 @@ _Visual note: The complete-bed quality of STATE THREE must be preserved in every
 
 ### STATE FOUR: FOLDED (Car)
 
-Inside the car, the bed is folded in half — like a taco. The back panel and the foot section have hinged toward each other, creating a V-shape that wedges into the back seat. This is a variation of STATE TWO that exists only for containment. The back of the bed is visible behind Dave's headrest. The side rails are visible through the side windows. The mattress is folded with it — still held by the retention system, compressed between the two halves. The pillow is compressed at the apex of the V — barely visible, already centered from the self-making in Scene 7A.
+Inside the car, the bed is folded in half — like a taco. The back panel and the foot section have hinged toward each other, creating a V-shape that wedges into the back seat. This is a variation of STATE TWO that exists only for containment. The back of the bed is visible behind Dave's headrest. The side rails are visible through the side windows. The mattress is folded with it — still held by the retention system, compressed between the two halves. The pillow is compressed at the apex of the V — barely visible, plumped from the self-making in Scene 7A but sitting slightly askew.
 
 The bed reads as "something large in the back seat" before your brain processes what it is. The hum continues through the upholstery — low, filtered, present but contained.
 
@@ -266,7 +267,7 @@ Embedded in the frame's inner rails is a single integrated remaking system that 
 
 **The sheet tensioning system:** A thin tensioning bar travels along a channel inside the top and bottom rails of the frame, drawing the fitted sheet progressively taut from the center outward toward the corners. It moves slowly. Deliberately. The kind of slow that makes you aware of how much work is being done. Wrinkles smooth one at a time, not all at once — the bar makes its way across the surface, and the sheet follows, pulling flat against the mattress, corners drawing snug. The full pass takes several minutes. It is not in a hurry. It sounds like almost nothing: a faint, continuous whisper beneath the motor hum, the sound of something being drawn very carefully across a surface.
 
-**The pillow node:** A single pneumatic node at the top edge of the frame — not two, one — handles the pillow in the same unhurried register. It does not puff twice and finish. It works gradually: a slow, sustained inflation that reshapes the pillow from the base up, then a brief hold, then a calibrated deflation that settles the pillow into its final position — plumped, reshaped, and centered. The whole cycle takes longer than it should. Longer than feels necessary. That is the point. One soft sound, extended — less a puff than a quiet, patient exhale. Then stillness. The pillow is plumped, reshaped, and centered. Exactly where it belongs.
+**The pillow node:** A single pneumatic node at the top edge of the frame — not two, one — handles the pillow in the same unhurried register. It does not puff twice and finish. It works gradually: a slow, sustained inflation that reshapes the pillow from the base up, then a brief hold, then a calibrated deflation that settles the pillow into its final position — plumped and reshaped, but not repositioned. The node works the pillow where it sits. The whole cycle takes longer than it should. Longer than feels necessary. That is the point. One soft sound, extended — less a puff than a quiet, patient exhale. Then stillness. The pillow is plumped and reshaped. Fuller. Better. Still sitting slightly askew — where it landed, not where it was placed. Good enough.
 
 **The character of the mechanism:** Slow. Measured. Methodical. Calm. It does not rush because the bed does not rush. The remaking happens across the entire morning — beginning during the bathroom wait, still running at the closet, finishing with the pillow during the tie. The bed is not trying to get this done before Dave notices. It is simply doing it, at its own pace, in parallel with everything else. The morning is long enough. The mechanism knows this.
 
@@ -280,7 +281,7 @@ The self-making mechanism is visible at three points during the morning sequence
 
 **During the closet sequence:** The sheet is nearly taut — last few wrinkles smoothing toward the corners. The pillow is fuller but not yet fully reshaped. The mechanism is close but not done.
 
-**During the hallway / tie beat:** The pillow node completes its full cycle. One slow final exhale. The pillow settles. Plumped. Reshaped. Centered. Still. The self-making is complete. The bed is made.
+**During the hallway / tie beat:** The pillow node completes its full cycle. One slow final exhale. The pillow settles. Plumped. Reshaped. Still slightly askew. Still. The self-making is complete. The bed is made.
 
 ### The Visual Logic
 
@@ -300,7 +301,7 @@ When Dave says goodbye and heads for the elevator, the bed waits until he is gon
 
 **The commute home** is a single wide shot — the bed rolling down a city sidewalk alone, vertical, unhurried, in late afternoon light. No Dave. No one pushing. The bed is simply going home. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not.
 
-The bed is already made. It has been made since the morning. The sheets are taut. The pillow sits plumped and centered — the bed reshaped it and placed it exactly where it belongs. There is nothing left to prepare. It is going home to fold itself flat and wait.
+The bed is already made. It has been made since the morning. The sheets are taut. The pillow sits plumped and reshaped — fuller, better, still sitting slightly askew. The bed reshapes but does not reposition. There is nothing left to prepare. It is going home to fold itself flat and wait.
 
 This shot is the tonal counterpart to every Gauntlet shot in the film. All day the bed has been behind Dave, pushing. Now it is alone, rolling at its own pace, going somewhere by choice. It is the only moment in the film where the bed is completely free. It uses that freedom to go home.
 
@@ -312,7 +313,7 @@ This shot is the tonal counterpart to every Gauntlet shot in the film. All day t
 4. It turns around — a slow, patient rotation in the bedroom space, until it faces the door. Positioned to receive Dave when he returns. Ready.
 5. It folds flat — struts retracting, back panel descending, the whole bed settling into STATE ONE.
 6. It reaches flat. A soft motor exhale. Stillness.
-7. The sheet is already taut. The pillow already plumped and centered — as it has been all day. The self-making mechanism ran this morning. There is nothing left to do.
+7. The sheet is already taut. The pillow already plumped and reshaped — sitting slightly askew, as it has been all day. The self-making mechanism ran this morning. There is nothing left to do.
 8. The remote glows on the nightstand.
 
 **The end credits** roll over the commute home shot — the bed on the city sidewalk, going home. Late afternoon light. People moving around it. The dog watching. The owner not looking up. The hum fading as it rounds the corner. That's it. The epilogue already handled the cycle. The credits don't need to add anything.
@@ -529,7 +530,7 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 - **Color:** Matte dark charcoal, cool blue undertone
 - **Size:** Large. Fills every space it occupies. Belongs in all of them.
 - **Mattress:** Standard. Plain white or off-white cover. Navy or dark gray fitted sheet, rumpled. Always on the bed in all four states — held by the frame's retention system.
-- **Pillow:** One. PUSH hardware (contains pneumatic reshaping node). Pillowcase is personal (Dave's: white). Always present. Slightly askew in STATE THREE initially. Centered by the self-making mechanism during the morning routine.
+- **Pillow:** One. PUSH hardware (contains pneumatic reshaping node). Pillowcase is personal (Dave's: white). Always present. Slightly askew in STATE THREE initially. Plumped and reshaped by the self-making mechanism during the morning routine, but not repositioned — remains slightly askew.
 - **Movement:** Continuous rolling via low-profile caster base beneath the frame. Smooth, quiet, inevitable. No stepping, no rhythm, no visible effort.
 - **Sound:** Warm low hum + faint caster whisper
 - **Sticker:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE™ / The PUSH / Smart Adjustable Base"
@@ -554,6 +555,6 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 ---
 
 _THE REMOTE — Prop Bible v3.1_
-_Changes from v3.0: Pillow resolution — node plumps/reshapes, then centers during self-making (§1.8 updated, aligned with Screenplay v5.0). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE™ Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
+_Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE™ Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
 _Changes from v2.3: Product rebrand — now "PUSH by RISE™" (company remains RISE™, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE™ / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
 _This document is canonical. All other prop descriptions defer to this one._
