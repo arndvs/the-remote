@@ -138,8 +138,8 @@ The bed makes itself during the morning routine — slowly, in parallel with Dav
 **Where we see it and how to cut it:**
 
 - **Bathroom wait (Scene 5):** This is the primary intercut. While Dave showers, we cut to: the bed, vertical, outside the bathroom door. The sheet tensioning bar is moving — slowly, visibly, wrinkles smoothing one at a time. The bed is getting dressed. Cut back to Dave — fumbling, rushed, chaotic. Cut back to the bed — unhurried. Another wrinkle gone. The contrast is not that the bed is faster. It is that the bed is calmer. Hold both sides long enough to feel the gap.
-- **Closet (Scene 7):** Background detail only — visible but not dwelt on. The bed at the closet entrance: sheet nearly taut, pillow fuller but not yet centered. The bed was further along than Dave before Dave had even started.
-- **Hallway / tie beat (Scene 7A):** The payoff. The pillow node completes its cycle. One slow final exhale. The pillow settles. Plumped. Reshaped. Centered. Still. Cut to Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong. He looks down at it. "Good enough." Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — perfectly centered. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
+- **Closet (Scene 7):** Background detail only — visible but not dwelt on. The bed at the closet entrance: sheet nearly taut, pillow fuller but not yet settled. The bed was further along than Dave before Dave had even started.
+- **Hallway / tie beat (Scene 7A):** The payoff. The pillow node completes its cycle. One slow final exhale. The pillow settles. Plumped. Reshaped. Slightly askew. Still. Cut to Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong. He looks down at it. "Good enough." Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — slightly askew. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
 
 ---
 
@@ -229,7 +229,7 @@ First exit: dress shirt half-tucked, one shoe, no tie. The bed's reversal should
 
 Second exit: completely assembled. The impossibility of how quickly this happened should not be addressed.
 
-**Background detail during the closet:** The bed at the entrance, sheet nearly taut, pillow fuller but not yet centered. The mechanism is almost done. The bed was further along than Dave before Dave had even started failing.
+**Background detail during the closet:** The bed at the entrance, sheet nearly taut, pillow fuller but not yet settled. The mechanism is almost done. The bed was further along than Dave before Dave had even started failing.
 
 ---
 
@@ -239,7 +239,7 @@ This beat belongs to the hallway roll between the closet and the kitchen. It is 
 
 **The edit:**
 
-_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — a slow, soft exhale. The pillow settles. Plumped. Reshaped. Centered. Still._
+_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — a slow, soft exhale. The pillow settles. Plumped. Reshaped. Slightly askew. Still._
 
 _Cut to: Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong._
 
@@ -247,7 +247,7 @@ _He looks down at it._
 
 _DAVE: "Good enough."_
 
-Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — perfectly centered. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
+Both are finishing touches. The bed used the whole morning and produced a plumped, reshaped pillow — slightly askew. Dave used the same morning and produced a sideways knot. The cut says everything. Do not add to it.
 
 ---
 
@@ -439,7 +439,8 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ---
 
-_THE REMOTE — Visual Reference & Collaborator Guide v4.0_
-_Updated: Commute rework — Scene 10 expanded (Ludacris whistle thread, fuel gauge plant, gas station Beat 3, car-pushing shot, hard cut), Scene 11 updated for post-gas-station state, Scene 18 expanded (whistle callback, bed departure). Music Notes expanded (Ludacris cross-video thread). Editing rhythm table updated. Aligned with Prop Bible v3.1._
+_THE REMOTE — Visual Reference & Collaborator Guide v4.1_
+_Updated: Pillow payoff locked to askew (Prop Bible v3.1 §1.3/§1.8 canonical). Aligned with Prop Bible v3.1._
+_Previous: v4.0 — Commute rework — Scene 10 expanded (Ludacris whistle thread, fuel gauge plant, gas station Beat 3, car-pushing shot, hard cut), Scene 11 updated for post-gas-station state, Scene 18 expanded (whistle callback, bed departure). Music Notes expanded (Ludacris cross-video thread). Editing rhythm table updated._
 _The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._

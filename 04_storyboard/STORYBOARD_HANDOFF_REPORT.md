@@ -428,7 +428,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 23 — Closet: Wrong Exit (Scene 7)
 
-**Image:** Medium shot facing closet entrance. Dave tumbles out — dress shirt half-tucked, ONE shoe, no tie. The vertical bed waits beside the entrance. Sheet nearly taut, pillow fuller but not yet centered (self-making nearly done).
+**Image:** Medium shot facing closet entrance. Dave tumbles out — dress shirt half-tucked, ONE shoe, no tie. The vertical bed waits beside the entrance. Sheet nearly taut, pillow fuller but not yet settled (self-making nearly done).
 **Shot Type:** Medium, static, facing closet
 **Action:** Dave emerges wrong. Bed reverses slightly. One firm nudge backward. Dave disappears back inside.
 **Dialogue:** None
@@ -450,9 +450,9 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 25 — Hallway: Pillow Payoff (Scene 7A)
 
-**Image:** Two-panel beat. (A) Close-up: the pillow at the top of the vertical bed. Pneumatic node completes its cycle — a slow, soft exhale. Pillow settles — plumped, reshaped, and centered. Still. (B) Cut to: Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong.
+**Image:** Two-panel beat. (A) Close-up: the pillow at the top of the vertical bed. Pneumatic node completes its cycle — a slow, soft exhale. Pillow settles — plumped and reshaped, slightly askew. Still. (B) Cut to: Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong.
 **Shot Type:** CU pillow → CU Dave's hands and tie
-**Action:** The self-making sequence completes. Pillow plumped and centered. Dave's knot is garbage.
+**Action:** The self-making sequence completes. Pillow plumped, slightly askew. Dave's knot is garbage.
 **Dialogue:** DAVE _(looking down at tie):_ "Good enough."
 **Camera:** The cut between the bed's plumped pillow and the terrible tie says everything. Do not add to it.
 **Hum:** Low exhale (pillow), then steady.
@@ -778,7 +778,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 53 — The Bed Commutes Home (End Credits)
 
-**Image:** Wide static shot. City sidewalk. Late afternoon golden light. The bed rolls down the sidewalk alone — fully vertical, unhurried. People move around it automatically without looking up. A dog on a leash watches it pass; its owner does not. The bed is already made — sheets taut, pillow centered. It has been made all day. The hum fades as it rounds the corner.
+**Image:** Wide static shot. City sidewalk. Late afternoon golden light. The bed rolls down the sidewalk alone — fully vertical, unhurried. People move around it automatically without looking up. A dog on a leash watches it pass; its owner does not. The bed is already made — sheets taut, pillow plumped and slightly askew. It has been made all day. The hum fades as it rounds the corner.
 **Shot Type:** WIDE, static. Golden hour.
 **Action:** The bed going home. Alone. At its own pace. The only moment in the film where it's completely free. It uses that freedom to go home.
 **Dialogue:** None
@@ -873,7 +873,8 @@ When the storyboard artist needs more detail on any element, go to:
 
 ---
 
-_THE REMOTE — Storyboard Handoff Report v1.1_
+_THE REMOTE — Storyboard Handoff Report v1.2_
 _53 panels across 19 scenes + end credits_
-_Changes from v1.0: Shot count 44→54 (10 new shots added to AI Shot List since initial handoff). Marcus soft goods locked to olive. Source version refs updated._
-_Source files: Screenplay v5.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.0, AI Shot List v4.3, Bed Proportions Guide v4.2_
+_Changes from v1.1: Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
+_Previous: v1.1 — Shot count 44→54 (10 new shots added to AI Shot List since initial handoff). Marcus soft goods locked to olive. Source version refs updated._
+_Source files: Screenplay v5.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.1, AI Shot List v4.4, Bed Proportions Guide v4.2_

@@ -293,7 +293,7 @@ _Cut back to Dave._
 
 _The bed pushes Dave into the walk-in closet at moderate speed. Clothes swipe past him. He grabs at things._
 
-_The bed waits at the closet entrance. The sheet is nearly taut now — last few wrinkles smoothing toward the corners. The pillow at the top is fuller but not yet centered. The bed was further along than Dave before Dave had even started._
+_The bed waits at the closet entrance. The sheet is nearly taut now — last few wrinkles smoothing toward the corners. The pillow at the top is fuller but not yet settled. The bed was further along than Dave before Dave had even started._
 
 _He emerges with a dress shirt half-tucked, one shoe, and no tie._
 
@@ -311,7 +311,7 @@ _The bed resumes. They move down the hallway. Dave ties the tie while walking �
 
 _⏱ TIMING NOTE: This is the payoff. Hold both shots. Let the contrast land._
 
-_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — one slow, final exhale. The pillow settles. Plumped. Reshaped. Centered. Still. The self-making is complete._
+_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — one slow, final exhale. The pillow settles. Plumped. Reshaped. Slightly askew. Still. The self-making is complete._
 
 _Cut to: Dave's hands. The tie knot traveling sideways. Wrong. Still wrong. Slightly less wrong._
 
@@ -787,7 +787,7 @@ _Roll over: the bed, alone, rolling down a city sidewalk in late afternoon light
 
 _The hum fades as it rounds the corner._
 
-_The bed made itself hours ago — sheet pulled taut during the shower, pillow centered during the tie. There is nothing left to prepare. It simply goes home, folds itself flat, and waits._
+_The bed made itself hours ago — sheet pulled taut during the shower, pillow plumped during the tie. There is nothing left to prepare. It simply goes home, folds itself flat, and waits._
 
 _The remote glows softly on the nightstand._
 
@@ -847,7 +847,7 @@ The **RISE™ / PUSH sticker** should be readable at least twice — once in the
 ---
 
 _THE REMOTE — Screenplay v5.0_
-_Updated: Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave — sheet tensioning during the shower, pillow centered during the tie. "Good enough" relocated to Scene 7A payoff. End credits updated. Aligned with Prop Bible v3.1 §1.8 and Visual Reference Guide v4.0._
+_Updated: Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave — sheet tensioning during the shower, pillow plumped during the tie. "Good enough" relocated to Scene 7A payoff. End credits updated. Pillow payoff: askew (Prop Bible v3.1 §1.3/§1.8 canonical). Aligned with Prop Bible v3.1 §1.8 and Visual Reference Guide v4.0._
 _Previous: v4.0 — Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.1._
 _Total estimated runtime: 5–7 minutes_
 
