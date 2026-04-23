@@ -5,6 +5,9 @@
 _Written as a treatment/screenplay hybrid_
 _Approx. running time: 5–7 minutes_
 
+© 2026 Aaron Davis. All rights reserved.
+This screenplay may not be reproduced, distributed, or used without written permission.
+
 ---
 
 ---

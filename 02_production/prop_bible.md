@@ -558,3 +558,7 @@ _THE REMOTE — Prop Bible v3.1_
 _Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE™ Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
 _Changes from v2.3: Product rebrand — now "PUSH by RISE™" (company remains RISE™, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE™ / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
 _This document is canonical. All other prop descriptions defer to this one._
+
+---
+
+© 2026 Aaron Davis. All rights reserved.

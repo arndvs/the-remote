@@ -329,3 +329,7 @@ _THE REMOTE — Bed Proportions Guide v4.3_
 _Updated: Removed published dimensions from Core Challenge — aligned with Prop Bible v3.1 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language. Written against Prop Bible v3.1._
 _Previous: v4.2 — Driveway, office lobby, apartment building lobby, and city sidewalk environments added. Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated._
 _"The truck always fits. The bed always fits. The audience always believes."_
+
+---
+
+© 2026 Aaron Davis. All rights reserved.

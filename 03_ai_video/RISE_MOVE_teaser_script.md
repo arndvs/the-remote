@@ -551,3 +551,7 @@ _Production script with AI generation prompts — "Stand Up" by Ludacris ft. Sha
 _6 actuator beauty shots / 12 edit beats + 2 text cards / 75-second target runtime_
 _riseco.online/move — Notify Me._
 _"When I move you move, just like that."_
+
+---
+
+© 2026 Aaron Davis. All rights reserved.

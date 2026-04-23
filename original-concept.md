@@ -117,3 +117,5 @@ _The hum resumes._
 - End credits roll over the bed **making itself** back at the apartment, quietly, waiting
 
 ---
+
+© 2026 Aaron Davis. All rights reserved.

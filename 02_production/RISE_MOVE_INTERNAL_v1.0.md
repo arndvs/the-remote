@@ -534,3 +534,7 @@ The Move is presented with the same complete earnestness as every other RISE™ 
 
 _RISE™ Move Internal Development Document v1.0_
 _Not for external distribution. This document contains speculative product development content that has not been approved for public communication. All confirmed public-facing information is at riseco.online/move._
+
+---
+
+© 2026 Aaron Davis. All rights reserved.
