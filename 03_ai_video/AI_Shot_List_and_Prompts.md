@@ -801,7 +801,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **NOTES:** The bed made itself this morning, during the gauntlet, in parallel with Dave getting dressed. It has been made all day. It is going home to fold itself flat and wait. No music — just the hum, fading. Let it breathe.
 
-**EDITORIAL GAP (intentional):** Prop Bible §1.9 describes the full commute home path: sidewalk → apartment lobby → elevator → bedroom. The lobby and elevator are intentionally omitted from the shot list. The cut from sidewalk (044) to bedroom (044A) *is* the edit — per Rule 1 (Bed Proportions Guide), we cut around impossible transitions. The audience fills in the gap. The bed always arrives.
+**EDITORIAL GAP (intentional):** The cut from sidewalk (044) to bedroom (044A) *is* the edit — per Rule 1 (Bed Proportions Guide), we cut around impossible transitions. Dave lives in a house; the bed reaches the front door and we skip to it already inside the bedroom. The audience fills in the gap. The bed always arrives.
 
 ---
 

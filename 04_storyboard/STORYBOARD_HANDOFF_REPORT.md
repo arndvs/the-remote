@@ -877,7 +877,7 @@ _THE REMOTE — Storyboard Handoff Report v1.2_
 _53 panels across 19 scenes + end credits_
 _Changes from v1.1: Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
 _Previous: v1.1 — Shot count 44→54 (10 new shots added to AI Shot List since initial handoff). Marcus soft goods locked to olive. Source version refs updated._
-_Source files: Screenplay v5.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.1, AI Shot List v4.5, Bed Proportions Guide v4.3_
+_Source files: Screenplay v5.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.1, AI Shot List v4.5, Bed Proportions Guide v4.4_
 
 ---
 

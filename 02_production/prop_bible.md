@@ -307,14 +307,13 @@ This shot is the tonal counterpart to every Gauntlet shot in the film. All day t
 
 **The return sequence:**
 
-1. The bed enters the apartment building lobby — we do not linger on how the door works. It moves through with the same quiet authority it has moved through everything else.
-2. It takes the elevator. The doors close on it. Open on Dave's floor.
-3. It enters the bedroom. Crosses to its place. Stops.
-4. It turns around — a slow, patient rotation in the bedroom space, until it faces the door. Positioned to receive Dave when he returns. Ready.
-5. It folds flat — struts retracting, back panel descending, the whole bed settling into STATE ONE.
-6. It reaches flat. A soft motor exhale. Stillness.
-7. The sheet is already taut. The pillow already plumped and reshaped — sitting slightly askew, as it has been all day. The self-making mechanism ran this morning. There is nothing left to do.
-8. The remote glows on the nightstand.
+1. The bed reaches the house. We do not linger on how the front door works — it moves through with the same quiet authority it has moved through everything else.
+2. It enters the bedroom. Crosses to its place. Stops.
+3. It turns around — a slow, patient rotation in the bedroom space, until it faces the door. Positioned to receive Dave when he returns. Ready.
+4. It folds flat — struts retracting, back panel descending, the whole bed settling into STATE ONE.
+5. It reaches flat. A soft motor exhale. Stillness.
+6. The sheet is already taut. The pillow already plumped and reshaped — sitting slightly askew, as it has been all day. The self-making mechanism ran this morning. There is nothing left to do.
+7. The remote glows on the nightstand.
 
 **The end credits** roll over the commute home shot — the bed on the city sidewalk, going home. Late afternoon light. People moving around it. The dog watching. The owner not looking up. The hum fading as it rounds the corner. That's it. The epilogue already handled the cycle. The credits don't need to add anything.
 

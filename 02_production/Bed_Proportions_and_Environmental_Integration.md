@@ -220,18 +220,6 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 ---
 
-### THE APARTMENT BUILDING LOBBY
-
-**Reality:** Residential building lobbies are typically tighter than office lobbies — a vestibule, a mailbox wall, maybe a doorman desk. The bed passes through this space once, alone, on its evening commute home (Prop Bible 1.9, step 1).
-
-**The Remote version:** "We do not linger on how the door works." This is the Prop Bible's explicit instruction. Apply Rule 1. The bed is on the city sidewalk in one shot. It is in the elevator in the next. The apartment lobby exists between those shots in the audience's imagination — not on screen.
-
-If the lobby must be shown: a brief wide shot, the bed already inside, rolling toward the elevator. The space reads as a normal residential lobby — tile floor, mailboxes, maybe a single overhead fixture. The bed moves through it with the same quiet authority it moves through everything else.
-
-**Camera rule:** If shown at all, a single wide shot. The bed is already inside. Do not show entrance.
-
----
-
 ### THE CITY SIDEWALK
 
 **Reality:** The bed takes up a significant portion of any sidewalk. Pedestrians share this space.
@@ -325,9 +313,9 @@ Before finalizing any shot:
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v4.3_
-_Updated: Removed published dimensions from Core Challenge — aligned with Prop Bible v3.1 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language. Written against Prop Bible v3.1._
-_Previous: v4.2 — Driveway, office lobby, apartment building lobby, and city sidewalk environments added. Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated._
+_THE REMOTE — Bed Proportions Guide v4.4_
+_Updated: Apartment building lobby section removed — Dave lives in a house, not an apartment (Prop Bible §1.9 corrected). RISE™ yard sign added to driveway environment. Sticker checklist aligned with Prop Bible §1.5 minimum._
+_Previous: v4.3 — Removed published dimensions from Core Challenge — aligned with Prop Bible v3.1 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language._
 _"The truck always fits. The bed always fits. The audience always believes."_
 
 ---
