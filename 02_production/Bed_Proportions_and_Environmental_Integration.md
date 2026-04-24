@@ -321,7 +321,7 @@ Before finalizing any shot:
 - [ ] If the transition is impossible, is it hidden by an edit?
 - [ ] Does the bed have visible weight and inertia?
 - [ ] Is the bed's speed consistent with where we are in the story arc?
-- [ ] Is the RISE™ / PUSH sticker visible in at least one shot per major environment?
+- [ ] Is the RISE™ / PUSH sticker visible in at least one shot per major environment? (Minimum per Prop Bible §1.5: readable once in the bedroom and once in the office. Additional environments are bonus.)
 
 ---
 
